@@ -6602,7 +6602,7 @@
         "probability": 100
       },
       {
-        "item": "Training_Manual_%28XL%29",
+        "item": "Training_Manual_(XL)",
         "qtyMin": 1,
         "qtyMax": 1,
         "probability": 20
@@ -6622,7 +6622,7 @@
         "probability": 100
       },
       {
-        "item": "Training_Manual_%28XL%29",
+        "item": "Training_Manual_(XL)",
         "qtyMin": 1,
         "qtyMax": 1,
         "probability": 100
