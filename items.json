@@ -5574,11 +5574,6 @@
     "name": "Silicon",
     "category": "Material"
   },
-  "-": {
-    "id": "-",
-    "name": "-",
-    "category": "Material"
-  },
   "Scrapped_Tissue_Sample": {
     "id": "Scrapped_Tissue_Sample",
     "name": "Scrapped Tissue Sample",
