@@ -1624,26 +1624,6 @@
     "name": "Homeward Thundercloud",
     "category": "Consumable"
   },
-  "Starfruit_\u26061": {
-    "id": "Starfruit_\u26061",
-    "name": "Starfruit \u26061",
-    "category": "Consumable"
-  },
-  "Starfruit_\u26062": {
-    "id": "Starfruit_\u26062",
-    "name": "Starfruit \u26062",
-    "category": "Consumable"
-  },
-  "Starfruit_\u26063": {
-    "id": "Starfruit_\u26063",
-    "name": "Starfruit \u26063",
-    "category": "Consumable"
-  },
-  "Starfruit_\u26064": {
-    "id": "Starfruit_\u26064",
-    "name": "Starfruit \u26064",
-    "category": "Consumable"
-  },
   "Ripe_Starfruit": {
     "id": "Ripe_Starfruit",
     "name": "Ripe Starfruit",
@@ -2077,11 +2057,6 @@
   "Disposable_Implant_Sanctified_Meat_Shield": {
     "id": "Disposable_Implant_Sanctified_Meat_Shield",
     "name": "Disposable Implant: Sanctified Meat Shield",
-    "category": "Consumable"
-  },
-  "Disposable_Implant_Demon\u2019s_Hand": {
-    "id": "Disposable_Implant_Demon\u2019s_Hand",
-    "name": "Disposable Implant: Demon\u2019s Hand",
     "category": "Consumable"
   },
   "Disposable_Implant_World_Trees_Bounty": {
@@ -2637,11 +2612,6 @@
   "Mammorest_Steak": {
     "id": "Mammorest_Steak",
     "name": "Mammorest Steak",
-    "category": "Ingredient"
-  },
-  "Chikipi_Saut\u00e9": {
-    "id": "Chikipi_Saut\u00e9",
-    "name": "Chikipi Saut\u00e9",
     "category": "Ingredient"
   },
   "Herb_Roasted_Lamball": {
@@ -9453,5 +9423,35 @@
     "id": "Fishing_Rod_Good",
     "name": "Fishing Rod_Good",
     "category": "Weapon"
+  },
+  "Starfruit_Star1": {
+    "id": "Starfruit_Star1",
+    "name": "Starfruit \u26061",
+    "category": "Consumable"
+  },
+  "Starfruit_Star2": {
+    "id": "Starfruit_Star2",
+    "name": "Starfruit \u26062",
+    "category": "Consumable"
+  },
+  "Starfruit_Star3": {
+    "id": "Starfruit_Star3",
+    "name": "Starfruit \u26063",
+    "category": "Consumable"
+  },
+  "Starfruit_Star4": {
+    "id": "Starfruit_Star4",
+    "name": "Starfruit \u26064",
+    "category": "Consumable"
+  },
+  "Disposable_Implant_Demons_Hand": {
+    "id": "Disposable_Implant_Demons_Hand",
+    "name": "Disposable Implant: Demon\u2019s Hand",
+    "category": "Consumable"
+  },
+  "Chikipi_Saute": {
+    "id": "Chikipi_Saute",
+    "name": "Chikipi Saut\u00e9",
+    "category": "Ingredient"
   }
 }
