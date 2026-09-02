@@ -1164,11 +1164,6 @@
     "name": "Lightz Helmet",
     "category": "Armor"
   },
-  "PV_ITEMS": {
-    "id": "PV_ITEMS",
-    "name": "PV_ITEMS",
-    "category": "Armor"
-  },
   "Low_Grade_Medical_Supplies": {
     "id": "Low_Grade_Medical_Supplies",
     "name": "Low Grade Medical Supplies",
@@ -1227,267 +1222,267 @@
   "Skill_Fruit_Power_Shot": {
     "id": "Skill_Fruit_Power_Shot",
     "name": "Skill Fruit: Power Shot",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Skill_Fruit_Power_Bomb": {
     "id": "Skill_Fruit_Power_Bomb",
     "name": "Skill Fruit: Power Bomb",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Skill_Fruit_Pal_Blast": {
     "id": "Skill_Fruit_Pal_Blast",
     "name": "Skill Fruit: Pal Blast",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Skill_Fruit_Air_Cannon": {
     "id": "Skill_Fruit_Air_Cannon",
     "name": "Skill Fruit: Air Cannon",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Skill_Fruit_Implode": {
     "id": "Skill_Fruit_Implode",
     "name": "Skill Fruit: Implode",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Grass_Skill_Fruit_Wind_Cutter": {
     "id": "Grass_Skill_Fruit_Wind_Cutter",
     "name": "Grass Skill Fruit: Wind Cutter",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Grass_Skill_Fruit_Grass_Tornado": {
     "id": "Grass_Skill_Fruit_Grass_Tornado",
     "name": "Grass Skill Fruit: Grass Tornado",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Grass_Skill_Fruit_Solar_Blast": {
     "id": "Grass_Skill_Fruit_Solar_Blast",
     "name": "Grass Skill Fruit: Solar Blast",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Grass_Skill_Fruit_Seed_Machine_Gun": {
     "id": "Grass_Skill_Fruit_Seed_Machine_Gun",
     "name": "Grass Skill Fruit: Seed Machine Gun",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Grass_Skill_Fruit_Spine_Vine": {
     "id": "Grass_Skill_Fruit_Spine_Vine",
     "name": "Grass Skill Fruit: Spine Vine",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Grass_Skill_Fruit_Seed_Mine": {
     "id": "Grass_Skill_Fruit_Seed_Mine",
     "name": "Grass Skill Fruit: Seed Mine",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Water_Skill_Fruit_Aqua_Gun": {
     "id": "Water_Skill_Fruit_Aqua_Gun",
     "name": "Water Skill Fruit: Aqua Gun",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Water_Skill_Fruit_Aqua_Burst": {
     "id": "Water_Skill_Fruit_Aqua_Burst",
     "name": "Water Skill Fruit: Aqua Burst",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Water_Skill_Fruit_Hydro_Laser": {
     "id": "Water_Skill_Fruit_Hydro_Laser",
     "name": "Water Skill Fruit: Hydro Laser",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Water_Skill_Fruit_Hydro_Jet": {
     "id": "Water_Skill_Fruit_Hydro_Jet",
     "name": "Water Skill Fruit: Hydro Jet",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Water_Skill_Fruit_Bubble_Blast": {
     "id": "Water_Skill_Fruit_Bubble_Blast",
     "name": "Water Skill Fruit: Bubble Blast",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Water_Skill_Fruit_Acid_Rain": {
     "id": "Water_Skill_Fruit_Acid_Rain",
     "name": "Water Skill Fruit: Acid Rain",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Fire_Skill_Fruit_Ignis_Blast": {
     "id": "Fire_Skill_Fruit_Ignis_Blast",
     "name": "Fire Skill Fruit: Ignis Blast",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Fire_Skill_Fruit_Ignis_Breath": {
     "id": "Fire_Skill_Fruit_Ignis_Breath",
     "name": "Fire Skill Fruit: Ignis Breath",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Fire_Skill_Fruit_Fire_Ball": {
     "id": "Fire_Skill_Fruit_Fire_Ball",
     "name": "Fire Skill Fruit: Fire Ball",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Fire_Skill_Fruit_Flare_Arrow": {
     "id": "Fire_Skill_Fruit_Flare_Arrow",
     "name": "Fire Skill Fruit: Flare Arrow",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Fire_Skill_Fruit_Spirit_Fire": {
     "id": "Fire_Skill_Fruit_Spirit_Fire",
     "name": "Fire Skill Fruit: Spirit Fire",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Fire_Skill_Fruit_Ignis_Rage": {
     "id": "Fire_Skill_Fruit_Ignis_Rage",
     "name": "Fire Skill Fruit: Ignis Rage",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Fire_Skill_Fruit_Flare_Storm": {
     "id": "Fire_Skill_Fruit_Flare_Storm",
     "name": "Fire Skill Fruit: Flare Storm",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Electric_Skill_Fruit_Shockwave": {
     "id": "Electric_Skill_Fruit_Shockwave",
     "name": "Electric Skill Fruit: Shockwave",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Electric_Skill_Fruit_Lightning_Bolt": {
     "id": "Electric_Skill_Fruit_Lightning_Bolt",
     "name": "Electric Skill Fruit: Lightning Bolt",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Electric_Skill_Fruit_Lightning_Streak": {
     "id": "Electric_Skill_Fruit_Lightning_Streak",
     "name": "Electric Skill Fruit: Lightning Streak",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Electric_Skill_Fruit_Plasma_Funnel": {
     "id": "Electric_Skill_Fruit_Plasma_Funnel",
     "name": "Electric Skill Fruit: Plasma Funnel",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Electric_Skill_Fruit_Spark_Blast": {
     "id": "Electric_Skill_Fruit_Spark_Blast",
     "name": "Electric Skill Fruit: Spark Blast",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Electric_Skill_Fruit_Lock-on_Laser": {
     "id": "Electric_Skill_Fruit_Lock-on_Laser",
     "name": "Electric Skill Fruit: Lock-on Laser",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Electric_Skill_Fruit_Electric_Ball": {
     "id": "Electric_Skill_Fruit_Electric_Ball",
     "name": "Electric Skill Fruit: Electric Ball",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Electric_Skill_Fruit_Tri-Lightning": {
     "id": "Electric_Skill_Fruit_Tri-Lightning",
     "name": "Electric Skill Fruit: Tri-Lightning",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Electric_Skill_Fruit_Lightning_Strike": {
     "id": "Electric_Skill_Fruit_Lightning_Strike",
     "name": "Electric Skill Fruit: Lightning Strike",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Ground_Skill_Fruit_Stone_Cannon": {
     "id": "Ground_Skill_Fruit_Stone_Cannon",
     "name": "Ground Skill Fruit: Stone Cannon",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Ground_Skill_Fruit_Sand_Tornado": {
     "id": "Ground_Skill_Fruit_Sand_Tornado",
     "name": "Ground Skill Fruit: Sand Tornado",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Ground_Skill_Fruit_Rock_Lance": {
     "id": "Ground_Skill_Fruit_Rock_Lance",
     "name": "Ground Skill Fruit: Rock Lance",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Ground_Skill_Fruit_Bog_Blast": {
     "id": "Ground_Skill_Fruit_Bog_Blast",
     "name": "Ground Skill Fruit: Bog Blast",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Ground_Skill_Fruit_Stone_Blast": {
     "id": "Ground_Skill_Fruit_Stone_Blast",
     "name": "Ground Skill Fruit: Stone Blast",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Ice_Skill_Fruit_Ice_Missile": {
     "id": "Ice_Skill_Fruit_Ice_Missile",
     "name": "Ice Skill Fruit: Ice Missile",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Ice_Skill_Fruit_Iceberg": {
     "id": "Ice_Skill_Fruit_Iceberg",
     "name": "Ice Skill Fruit: Iceberg",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Ice_Skill_Fruit_Blizzard_Spike": {
     "id": "Ice_Skill_Fruit_Blizzard_Spike",
     "name": "Ice Skill Fruit: Blizzard Spike",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Ice_Skill_Fruit_Icicle_Cutter": {
     "id": "Ice_Skill_Fruit_Icicle_Cutter",
     "name": "Ice Skill Fruit: Icicle Cutter",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Ice_Skill_Fruit_Crystal_Breath": {
     "id": "Ice_Skill_Fruit_Crystal_Breath",
     "name": "Ice Skill Fruit: Crystal Breath",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Dark_Skill_Fruit_Shadow_Burst": {
     "id": "Dark_Skill_Fruit_Shadow_Burst",
     "name": "Dark Skill Fruit: Shadow Burst",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Dark_Skill_Fruit_Nightmare_Ball": {
     "id": "Dark_Skill_Fruit_Nightmare_Ball",
     "name": "Dark Skill Fruit: Nightmare Ball",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Dark_Skill_Fruit_Psycho_Gravity": {
     "id": "Dark_Skill_Fruit_Psycho_Gravity",
     "name": "Dark Skill Fruit: Psycho Gravity",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Dark_Skill_Fruit_Poison_Blast": {
     "id": "Dark_Skill_Fruit_Poison_Blast",
     "name": "Dark Skill Fruit: Poison Blast",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Dark_Skill_Fruit_Spirit_Flame": {
     "id": "Dark_Skill_Fruit_Spirit_Flame",
     "name": "Dark Skill Fruit: Spirit Flame",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Dark_Skill_Fruit_Dark_Laser": {
     "id": "Dark_Skill_Fruit_Dark_Laser",
     "name": "Dark Skill Fruit: Dark Laser",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Dragon_Skill_Fruit_Dragon_Breath": {
     "id": "Dragon_Skill_Fruit_Dragon_Breath",
     "name": "Dragon Skill Fruit: Dragon Breath",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Dragon_Skill_Fruit_Dragon_Cannon": {
     "id": "Dragon_Skill_Fruit_Dragon_Cannon",
     "name": "Dragon Skill Fruit: Dragon Cannon",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Dragon_Skill_Fruit_Dragon_Burst": {
     "id": "Dragon_Skill_Fruit_Dragon_Burst",
     "name": "Dragon Skill Fruit: Dragon Burst",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Dragon_Skill_Fruit_Dragon_Meteor": {
     "id": "Dragon_Skill_Fruit_Dragon_Meteor",
     "name": "Dragon Skill Fruit: Dragon Meteor",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Copper_Key": {
     "id": "Copper_Key",
@@ -1647,107 +1642,107 @@
   "Skill_Fruit_Air_Blade": {
     "id": "Skill_Fruit_Air_Blade",
     "name": "Skill Fruit: Air Blade",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Grass_Skill_Fruit_Circle_Vine": {
     "id": "Grass_Skill_Fruit_Circle_Vine",
     "name": "Grass Skill Fruit: Circle Vine",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Grass_Skill_Fruit_Multicutter": {
     "id": "Grass_Skill_Fruit_Multicutter",
     "name": "Grass Skill Fruit: Multicutter",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Water_Skill_Fruit_Splash": {
     "id": "Water_Skill_Fruit_Splash",
     "name": "Water Skill Fruit: Splash",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Water_Skill_Fruit_Curtain_Splash": {
     "id": "Water_Skill_Fruit_Curtain_Splash",
     "name": "Water Skill Fruit: Curtain Splash",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Fire_Skill_Fruit_Flame_Wall": {
     "id": "Fire_Skill_Fruit_Flame_Wall",
     "name": "Fire Skill Fruit: Flame Wall",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Fire_Skill_Fruit_Volcanic_Rain": {
     "id": "Fire_Skill_Fruit_Volcanic_Rain",
     "name": "Fire Skill Fruit: Volcanic Rain",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Electric_Skill_Fruit_TriSpark": {
     "id": "Electric_Skill_Fruit_TriSpark",
     "name": "Electric Skill Fruit: TriSpark",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Electric_Skill_Fruit_Thunder_Rain": {
     "id": "Electric_Skill_Fruit_Thunder_Rain",
     "name": "Electric Skill Fruit: Thunder Rain",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Electric_Skill_Fruit_Thunderstorm": {
     "id": "Electric_Skill_Fruit_Thunderstorm",
     "name": "Electric Skill Fruit: Thunderstorm",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Ground_Skill_Fruit_Rockburst": {
     "id": "Ground_Skill_Fruit_Rockburst",
     "name": "Ground Skill Fruit: Rockburst",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Ground_Skill_Fruit_Sand_Twister": {
     "id": "Ground_Skill_Fruit_Sand_Twister",
     "name": "Ground Skill Fruit: Sand Twister",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Ice_Skill_Fruit_Icicle_Line": {
     "id": "Ice_Skill_Fruit_Icicle_Line",
     "name": "Ice Skill Fruit: Icicle Line",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Ice_Skill_Fruit_Diamond_Rain": {
     "id": "Ice_Skill_Fruit_Diamond_Rain",
     "name": "Ice Skill Fruit: Diamond Rain",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Dark_Skill_Fruit_Dark_Cannon": {
     "id": "Dark_Skill_Fruit_Dark_Cannon",
     "name": "Dark Skill Fruit: Dark Cannon",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Dark_Skill_Fruit_Dark_Arrow": {
     "id": "Dark_Skill_Fruit_Dark_Arrow",
     "name": "Dark Skill Fruit: Dark Arrow",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Dark_Skill_Fruit_Umbral_Surge": {
     "id": "Dark_Skill_Fruit_Umbral_Surge",
     "name": "Dark Skill Fruit: Umbral Surge",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Dark_Skill_Fruit_Apocalypse": {
     "id": "Dark_Skill_Fruit_Apocalypse",
     "name": "Dark Skill Fruit: Apocalypse",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Dragon_Skill_Fruit_Beam_Slicer": {
     "id": "Dragon_Skill_Fruit_Beam_Slicer",
     "name": "Dragon Skill Fruit: Beam Slicer",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Dragon_Skill_Fruit_Comet": {
     "id": "Dragon_Skill_Fruit_Comet",
     "name": "Dragon Skill Fruit: Comet",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Dragon_Skill_Fruit_Blast_Cannon": {
     "id": "Dragon_Skill_Fruit_Blast_Cannon",
     "name": "Dragon Skill Fruit: Blast Cannon",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Mysterious_Mushroom_Juice": {
     "id": "Mysterious_Mushroom_Juice",
@@ -1757,12 +1752,12 @@
   "Skill_Fruit_Holy_Burst": {
     "id": "Skill_Fruit_Holy_Burst",
     "name": "Skill Fruit: Holy Burst",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Fire_Skill_Fruit_Flame_Funnel": {
     "id": "Fire_Skill_Fruit_Flame_Funnel",
     "name": "Fire Skill Fruit: Flame Funnel",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Xenolord_Slab": {
     "id": "Xenolord_Slab",
@@ -1857,22 +1852,22 @@
   "Ice_Skill_Fruit_Freeze_Wall": {
     "id": "Ice_Skill_Fruit_Freeze_Wall",
     "name": "Ice Skill Fruit: Freeze Wall",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Grass_Skill_Fruit_Reflect_Leaf": {
     "id": "Grass_Skill_Fruit_Reflect_Leaf",
     "name": "Grass Skill Fruit: Reflect Leaf",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Water_Skill_Fruit_Torrential_Blast": {
     "id": "Water_Skill_Fruit_Torrential_Blast",
     "name": "Water Skill Fruit: Torrential Blast",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Water_Skill_Fruit_Hydro_Slicer": {
     "id": "Water_Skill_Fruit_Hydro_Slicer",
     "name": "Water Skill Fruit: Hydro Slicer",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Pal_Reverser": {
     "id": "Pal_Reverser",
@@ -1882,17 +1877,17 @@
   "Ground_Skill_Fruit_Rocky_Impact": {
     "id": "Ground_Skill_Fruit_Rocky_Impact",
     "name": "Ground Skill Fruit: Rocky Impact",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Electric_Skill_Fruit_Thunder_Spear": {
     "id": "Electric_Skill_Fruit_Thunder_Spear",
     "name": "Electric Skill Fruit: Thunder Spear",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Dark_Skill_Fruit_Dark_Shot": {
     "id": "Dark_Skill_Fruit_Dark_Shot",
     "name": "Dark Skill Fruit: Dark Shot",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Treasure_Map": {
     "id": "Treasure_Map",
@@ -1902,22 +1897,22 @@
   "Dark_Skill_Fruit_Dark_Whisp": {
     "id": "Dark_Skill_Fruit_Dark_Whisp",
     "name": "Dark Skill Fruit: Dark Whisp",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Dragon_Skill_Fruit_Charge_Cannon": {
     "id": "Dragon_Skill_Fruit_Charge_Cannon",
     "name": "Dragon Skill Fruit: Charge Cannon",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Ice_Skill_Fruit_Icicle_Bullet": {
     "id": "Ice_Skill_Fruit_Icicle_Bullet",
     "name": "Ice Skill Fruit: Icicle Bullet",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Thunder_Skill_Fruit_All_Range_Thunder": {
     "id": "Thunder_Skill_Fruit_All_Range_Thunder",
     "name": "Thunder Skill Fruit: All Range Thunder",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Simple_Bait": {
     "id": "Simple_Bait",
@@ -1947,32 +1942,17 @@
   "Water_Skill_Fruit_Aqua_Surge": {
     "id": "Water_Skill_Fruit_Aqua_Surge",
     "name": "Water Skill Fruit: Aqua Surge",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Grass_Skill_Fruit_Crosswind": {
     "id": "Grass_Skill_Fruit_Crosswind",
     "name": "Grass Skill Fruit: Crosswind",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Ice_Skill_Fruit_Absolute_Frost": {
     "id": "Ice_Skill_Fruit_Absolute_Frost",
     "name": "Ice Skill Fruit: Absolute Frost",
-    "category": "Consumable"
-  },
-  "Farmers_Special_Dish": {
-    "id": "Farmers_Special_Dish",
-    "name": "Farmer's Special Dish",
-    "category": "Consumable"
-  },
-  "Zoes_Tattered_Memento": {
-    "id": "Zoes_Tattered_Memento",
-    "name": "Zoe's Tattered Memento",
-    "category": "Consumable"
-  },
-  "Breeders_Precious_Pal": {
-    "id": "Breeders_Precious_Pal",
-    "name": "Breeder's Precious Pal",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Nutrient_Tonic": {
     "id": "Nutrient_Tonic",
@@ -1997,11 +1977,6 @@
   "Hartalis_(Ultra)_Slab": {
     "id": "Hartalis_(Ultra)_Slab",
     "name": "Hartalis (Ultra) Slab",
-    "category": "Consumable"
-  },
-  "Zoes_Halloween_Costume": {
-    "id": "Zoes_Halloween_Costume",
-    "name": "Zoe's Halloween Costume",
     "category": "Consumable"
   },
   "Water_Awakening_Crystal": {
@@ -2052,77 +2027,77 @@
   "Disposable_Implant_Twin-Edged_Holy_Blade": {
     "id": "Disposable_Implant_Twin-Edged_Holy_Blade",
     "name": "Disposable Implant: Twin-Edged Holy Blade",
-    "category": "Consumable"
+    "category": "Implant"
   },
   "Disposable_Implant_Sanctified_Meat_Shield": {
     "id": "Disposable_Implant_Sanctified_Meat_Shield",
     "name": "Disposable Implant: Sanctified Meat Shield",
-    "category": "Consumable"
+    "category": "Implant"
   },
   "Disposable_Implant_World_Trees_Bounty": {
     "id": "Disposable_Implant_World_Trees_Bounty",
     "name": "Disposable Implant: World Tree's Bounty",
-    "category": "Consumable"
+    "category": "Implant"
   },
   "Disposable_Implant_Hermit_Sage": {
     "id": "Disposable_Implant_Hermit_Sage",
     "name": "Disposable Implant: Hermit Sage",
-    "category": "Consumable"
+    "category": "Implant"
   },
   "Disposable_Implant_Dimensional_Leap": {
     "id": "Disposable_Implant_Dimensional_Leap",
     "name": "Disposable Implant: Dimensional Leap",
-    "category": "Consumable"
+    "category": "Implant"
   },
   "Disposable_Implant_God_of_Destruction": {
     "id": "Disposable_Implant_God_of_Destruction",
     "name": "Disposable Implant: God of Destruction",
-    "category": "Consumable"
+    "category": "Implant"
   },
   "Disposable_Implant_Remarkable_Craftsmanship": {
     "id": "Disposable_Implant_Remarkable_Craftsmanship",
     "name": "Disposable Implant: Remarkable Craftsmanship",
-    "category": "Consumable"
+    "category": "Implant"
   },
   "Disposable_Implant_Diamond_Body": {
     "id": "Disposable_Implant_Diamond_Body",
     "name": "Disposable Implant: Diamond Body",
-    "category": "Consumable"
+    "category": "Implant"
   },
   "Disposable_Implant_Demon_God": {
     "id": "Disposable_Implant_Demon_God",
     "name": "Disposable Implant: Demon God",
-    "category": "Consumable"
+    "category": "Implant"
   },
   "Disposable_Implant_Mastery_of_Fasting": {
     "id": "Disposable_Implant_Mastery_of_Fasting",
     "name": "Disposable Implant: Mastery of Fasting",
-    "category": "Consumable"
+    "category": "Implant"
   },
   "Disposable_Implant_Heart_of_the_Immovable_King": {
     "id": "Disposable_Implant_Heart_of_the_Immovable_King",
     "name": "Disposable Implant: Heart of the Immovable King",
-    "category": "Consumable"
+    "category": "Implant"
   },
   "Disposable_Implant_Swift": {
     "id": "Disposable_Implant_Swift",
     "name": "Disposable Implant: Swift",
-    "category": "Consumable"
+    "category": "Implant"
   },
   "Disposable_Implant_Eternal_Engine": {
     "id": "Disposable_Implant_Eternal_Engine",
     "name": "Disposable Implant: Eternal Engine",
-    "category": "Consumable"
+    "category": "Implant"
   },
   "Disposable_Implant_Vampiric": {
     "id": "Disposable_Implant_Vampiric",
     "name": "Disposable Implant: Vampiric",
-    "category": "Consumable"
+    "category": "Implant"
   },
   "Disposable_Implant_King_of_the_Waves": {
     "id": "Disposable_Implant_King_of_the_Waves",
     "name": "Disposable Implant: King of the Waves",
-    "category": "Consumable"
+    "category": "Implant"
   },
   "World_Tree_Holy_Water": {
     "id": "World_Tree_Holy_Water",
@@ -2137,87 +2112,42 @@
   "Grass_Skill_Fruit_Wind_Blast": {
     "id": "Grass_Skill_Fruit_Wind_Blast",
     "name": "Grass Skill Fruit: Wind Blast",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Dark_Skill_Fruit_Poison_Shower": {
     "id": "Dark_Skill_Fruit_Poison_Shower",
     "name": "Dark Skill Fruit: Poison Shower",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Water_Skill_Fruit_Geyser_Gush": {
     "id": "Water_Skill_Fruit_Geyser_Gush",
     "name": "Water Skill Fruit: Geyser Gush",
-    "category": "Consumable"
+    "category": "Skill Fruit"
   },
   "Disposable_Implant_Babysitter": {
     "id": "Disposable_Implant_Babysitter",
     "name": "Disposable Implant: Babysitter",
-    "category": "Consumable"
+    "category": "Implant"
   },
   "Disposable_Implant_Idiosyncratic": {
     "id": "Disposable_Implant_Idiosyncratic",
     "name": "Disposable Implant: Idiosyncratic",
-    "category": "Consumable"
+    "category": "Implant"
   },
   "Disposable_Implant_Immortality": {
     "id": "Disposable_Implant_Immortality",
     "name": "Disposable Implant: Immortality",
-    "category": "Consumable"
+    "category": "Implant"
   },
   "Disposable_Implant_Heavily_Armored": {
     "id": "Disposable_Implant_Heavily_Armored",
     "name": "Disposable Implant: Heavily Armored",
-    "category": "Consumable"
+    "category": "Implant"
   },
   "Disposable_Implant_Skymarcher": {
     "id": "Disposable_Implant_Skymarcher",
     "name": "Disposable Implant: Skymarcher",
-    "category": "Consumable"
-  },
-  "EnergyDrink": {
-    "id": "EnergyDrink",
-    "name": "EnergyDrink",
-    "category": "Consumable"
-  },
-  "FarmCrop_Tmp": {
-    "id": "FarmCrop_Tmp",
-    "name": "FarmCrop_Tmp",
-    "category": "Consumable"
-  },
-  "Seed_Tmp": {
-    "id": "Seed_Tmp",
-    "name": "Seed_Tmp",
-    "category": "Consumable"
-  },
-  "WaterBucket": {
-    "id": "WaterBucket",
-    "name": "WaterBucket",
-    "category": "Consumable"
-  },
-  "Antibiotic_Normal": {
-    "id": "Antibiotic_Normal",
-    "name": "Antibiotic_Normal",
-    "category": "Consumable"
-  },
-  "Antibiotic_Good": {
-    "id": "Antibiotic_Good",
-    "name": "Antibiotic_Good",
-    "category": "Consumable"
-  },
-  "Antibiotic_Super": {
-    "id": "Antibiotic_Super",
-    "name": "Antibiotic_Super",
-    "category": "Consumable"
-  },
-  "Building_Repair_Kit": {
-    "id": "Building_Repair_Kit",
-    "name": "Building Repair Kit",
-    "category": "Consumable"
-  },
-  "MateItem01": {
-    "id": "MateItem01",
-    "name": "MateItem01",
-    "category": "Consumable"
+    "category": "Implant"
   },
   "Summoning_Altar": {
     "id": "Summoning_Altar",
@@ -2234,145 +2164,45 @@
     "name": "Life Crystal",
     "category": "Consumable"
   },
-  "Beginner_Bait": {
-    "id": "Beginner_Bait",
-    "name": "Beginner Bait",
-    "category": "Consumable"
-  },
-  "Sweet_Bait": {
-    "id": "Sweet_Bait",
-    "name": "Sweet Bait",
-    "category": "Consumable"
-  },
   "Lucky_Bait": {
     "id": "Lucky_Bait",
     "name": "Lucky Bait",
     "category": "Consumable"
   },
-  "Quick_Bait": {
-    "id": "Quick_Bait",
-    "name": "Quick Bait",
-    "category": "Consumable"
-  },
-  "Risky_Bait": {
-    "id": "Risky_Bait",
-    "name": "Risky Bait",
-    "category": "Consumable"
-  },
   "Disposable_Implant_Lucky": {
     "id": "Disposable_Implant_Lucky",
     "name": "Disposable Implant: Lucky",
-    "category": "Consumable"
+    "category": "Implant"
   },
   "Disposable_Implant_Legend": {
     "id": "Disposable_Implant_Legend",
     "name": "Disposable Implant: Legend",
-    "category": "Consumable"
+    "category": "Implant"
   },
   "Disposable_Implant_Siren_of_the_Void": {
     "id": "Disposable_Implant_Siren_of_the_Void",
     "name": "Disposable Implant: Siren of the Void",
-    "category": "Consumable"
+    "category": "Implant"
   },
   "Disposable_Implant_Eternal_Flame": {
     "id": "Disposable_Implant_Eternal_Flame",
     "name": "Disposable Implant: Eternal Flame",
-    "category": "Consumable"
+    "category": "Implant"
   },
   "Disposable_Implant_Invader": {
     "id": "Disposable_Implant_Invader",
     "name": "Disposable Implant: Invader",
-    "category": "Consumable"
+    "category": "Implant"
   },
   "Disposable_Implant_Lunker": {
     "id": "Disposable_Implant_Lunker",
     "name": "Disposable Implant: Lunker",
-    "category": "Consumable"
+    "category": "Implant"
   },
   "Disposable_Implant_Savior": {
     "id": "Disposable_Implant_Savior",
     "name": "Disposable Implant: Savior",
-    "category": "Consumable"
-  },
-  "Campfire": {
-    "id": "Campfire",
-    "name": "Campfire",
-    "category": "Food"
-  },
-  "Feed_Box": {
-    "id": "Feed_Box",
-    "name": "Feed Box",
-    "category": "Food"
-  },
-  "Berry_Plantation": {
-    "id": "Berry_Plantation",
-    "name": "Berry Plantation",
-    "category": "Food"
-  },
-  "Wheat_Plantation": {
-    "id": "Wheat_Plantation",
-    "name": "Wheat Plantation",
-    "category": "Food"
-  },
-  "Cooking_Pot": {
-    "id": "Cooking_Pot",
-    "name": "Cooking Pot",
-    "category": "Food"
-  },
-  "Tomato_Plantation": {
-    "id": "Tomato_Plantation",
-    "name": "Tomato Plantation",
-    "category": "Food"
-  },
-  "Lettuce_Plantation": {
-    "id": "Lettuce_Plantation",
-    "name": "Lettuce Plantation",
-    "category": "Food"
-  },
-  "Potato_Plantation": {
-    "id": "Potato_Plantation",
-    "name": "Potato Plantation",
-    "category": "Food"
-  },
-  "Carrot_Plantation": {
-    "id": "Carrot_Plantation",
-    "name": "Carrot Plantation",
-    "category": "Food"
-  },
-  "Onion_Plantation": {
-    "id": "Onion_Plantation",
-    "name": "Onion Plantation",
-    "category": "Food"
-  },
-  "Electric_Kitchen": {
-    "id": "Electric_Kitchen",
-    "name": "Electric Kitchen",
-    "category": "Food"
-  },
-  "Large-Scale_Stone_Oven": {
-    "id": "Large-Scale_Stone_Oven",
-    "name": "Large-Scale Stone Oven",
-    "category": "Food"
-  },
-  "Cold_Food_Box": {
-    "id": "Cold_Food_Box",
-    "name": "Cold Food Box",
-    "category": "Food"
-  },
-  "Ancient_Kitchen": {
-    "id": "Ancient_Kitchen",
-    "name": "Ancient Kitchen",
-    "category": "Food"
-  },
-  "Skillfruit_Orchard": {
-    "id": "Skillfruit_Orchard",
-    "name": "Skillfruit Orchard",
-    "category": "Food"
-  },
-  "Ancient_Farm": {
-    "id": "Ancient_Farm",
-    "name": "Ancient Farm",
-    "category": "Food"
+    "category": "Implant"
   },
   "Red_Berries": {
     "id": "Red_Berries",
@@ -2382,12 +2212,12 @@
   "Baked_Berries": {
     "id": "Baked_Berries",
     "name": "Baked Berries",
-    "category": "Ingredient"
+    "category": "Food"
   },
   "Bread": {
     "id": "Bread",
     "name": "Bread",
-    "category": "Ingredient"
+    "category": "Food"
   },
   "Tomato": {
     "id": "Tomato",
@@ -2422,57 +2252,57 @@
   "Hot_Milk": {
     "id": "Hot_Milk",
     "name": "Hot Milk",
-    "category": "Ingredient"
+    "category": "Food"
   },
   "Jam-Filled_Bun": {
     "id": "Jam-Filled_Bun",
     "name": "Jam-Filled Bun",
-    "category": "Ingredient"
+    "category": "Food"
   },
   "Salad": {
     "id": "Salad",
     "name": "Salad",
-    "category": "Ingredient"
+    "category": "Food"
   },
   "Omelet": {
     "id": "Omelet",
     "name": "Omelet",
-    "category": "Ingredient"
+    "category": "Food"
   },
   "Pancake": {
     "id": "Pancake",
     "name": "Pancake",
-    "category": "Ingredient"
+    "category": "Food"
   },
   "Marinated_Mushrooms": {
     "id": "Marinated_Mushrooms",
     "name": "Marinated Mushrooms",
-    "category": "Ingredient"
+    "category": "Food"
   },
   "Mushroom_Soup": {
     "id": "Mushroom_Soup",
     "name": "Mushroom Soup",
-    "category": "Ingredient"
+    "category": "Food"
   },
   "Carbonara": {
     "id": "Carbonara",
     "name": "Carbonara",
-    "category": "Ingredient"
+    "category": "Food"
   },
   "Pizza": {
     "id": "Pizza",
     "name": "Pizza",
-    "category": "Ingredient"
+    "category": "Food"
   },
   "Cake": {
     "id": "Cake",
     "name": "Cake",
-    "category": "Ingredient"
+    "category": "Food"
   },
   "Fried_Egg": {
     "id": "Fried_Egg",
     "name": "Fried Egg",
-    "category": "Ingredient"
+    "category": "Food"
   },
   "Mushroom": {
     "id": "Mushroom",
@@ -2482,7 +2312,7 @@
   "Baked_Mushroom": {
     "id": "Baked_Mushroom",
     "name": "Baked Mushroom",
-    "category": "Ingredient"
+    "category": "Food"
   },
   "Honey": {
     "id": "Honey",
@@ -2557,127 +2387,127 @@
   "Grilled_Chikipi": {
     "id": "Grilled_Chikipi",
     "name": "Grilled Chikipi",
-    "category": "Ingredient"
+    "category": "Food"
   },
   "Lamball_Kebab": {
     "id": "Lamball_Kebab",
     "name": "Lamball Kebab",
-    "category": "Ingredient"
+    "category": "Food"
   },
   "Grilled_Kelpsea": {
     "id": "Grilled_Kelpsea",
     "name": "Grilled Kelpsea",
-    "category": "Ingredient"
+    "category": "Food"
   },
   "Grilled_Galeclaw": {
     "id": "Grilled_Galeclaw",
     "name": "Grilled Galeclaw",
-    "category": "Ingredient"
+    "category": "Food"
   },
   "Roast_Rushoar": {
     "id": "Roast_Rushoar",
     "name": "Roast Rushoar",
-    "category": "Ingredient"
+    "category": "Food"
   },
   "Broiled_Dumud": {
     "id": "Broiled_Dumud",
     "name": "Broiled Dumud",
-    "category": "Ingredient"
+    "category": "Food"
   },
   "Roast_Eikthyrdeer": {
     "id": "Roast_Eikthyrdeer",
     "name": "Roast Eikthyrdeer",
-    "category": "Ingredient"
+    "category": "Food"
   },
   "Roast_Reindrix": {
     "id": "Roast_Reindrix",
     "name": "Roast Reindrix",
-    "category": "Ingredient"
+    "category": "Food"
   },
   "Herb_Roasted_Caprity": {
     "id": "Herb_Roasted_Caprity",
     "name": "Herb Roasted Caprity",
-    "category": "Ingredient"
+    "category": "Food"
   },
   "Mozzarina_Steak": {
     "id": "Mozzarina_Steak",
     "name": "Mozzarina Steak",
-    "category": "Ingredient"
+    "category": "Food"
   },
   "Broncherry_Rib_Roast": {
     "id": "Broncherry_Rib_Roast",
     "name": "Broncherry Rib Roast",
-    "category": "Ingredient"
+    "category": "Food"
   },
   "Mammorest_Steak": {
     "id": "Mammorest_Steak",
     "name": "Mammorest Steak",
-    "category": "Ingredient"
+    "category": "Food"
   },
   "Herb_Roasted_Lamball": {
     "id": "Herb_Roasted_Lamball",
     "name": "Herb Roasted Lamball",
-    "category": "Ingredient"
+    "category": "Food"
   },
   "Grilled_Lamball": {
     "id": "Grilled_Lamball",
     "name": "Grilled Lamball",
-    "category": "Ingredient"
+    "category": "Food"
   },
   "Stewed_Galeclaw": {
     "id": "Stewed_Galeclaw",
     "name": "Stewed Galeclaw",
-    "category": "Ingredient"
+    "category": "Food"
   },
   "Rushoar_Bacon_n_Eggs": {
     "id": "Rushoar_Bacon_n_Eggs",
     "name": "Rushoar Bacon 'n' Eggs",
-    "category": "Ingredient"
+    "category": "Food"
   },
   "Reindrix_Stew": {
     "id": "Reindrix_Stew",
     "name": "Reindrix Stew",
-    "category": "Ingredient"
+    "category": "Food"
   },
   "Fried_Chikipi": {
     "id": "Fried_Chikipi",
     "name": "Fried Chikipi",
-    "category": "Ingredient"
+    "category": "Food"
   },
   "Rushoar_Hot_Dog": {
     "id": "Rushoar_Hot_Dog",
     "name": "Rushoar Hot Dog",
-    "category": "Ingredient"
+    "category": "Food"
   },
   "Eikthyrdeer_Loco_Moco": {
     "id": "Eikthyrdeer_Loco_Moco",
     "name": "Eikthyrdeer Loco Moco",
-    "category": "Ingredient"
+    "category": "Food"
   },
   "Eikthyrdeer_Stew": {
     "id": "Eikthyrdeer_Stew",
     "name": "Eikthyrdeer Stew",
-    "category": "Ingredient"
+    "category": "Food"
   },
   "Mozzarina_Hamburger": {
     "id": "Mozzarina_Hamburger",
     "name": "Mozzarina Hamburger",
-    "category": "Ingredient"
+    "category": "Food"
   },
   "Mozzarina_Cheeseburger": {
     "id": "Mozzarina_Cheeseburger",
     "name": "Mozzarina Cheeseburger",
-    "category": "Ingredient"
+    "category": "Food"
   },
   "Fried_Kelpsea": {
     "id": "Fried_Kelpsea",
     "name": "Fried Kelpsea",
-    "category": "Ingredient"
+    "category": "Food"
   },
   "Dumud_Chowder": {
     "id": "Dumud_Chowder",
     "name": "Dumud Chowder",
-    "category": "Ingredient"
+    "category": "Food"
   },
   "Cavern_Mushroom": {
     "id": "Cavern_Mushroom",
@@ -2707,52 +2537,52 @@
   "Rushoar_Gyoza": {
     "id": "Rushoar_Gyoza",
     "name": "Rushoar Gyoza",
-    "category": "Ingredient"
+    "category": "Food"
   },
   "Stir-Fried_Vegetables": {
     "id": "Stir-Fried_Vegetables",
     "name": "Stir-Fried Vegetables",
-    "category": "Ingredient"
+    "category": "Food"
   },
   "French_Fries": {
     "id": "French_Fries",
     "name": "French Fries",
-    "category": "Ingredient"
+    "category": "Food"
   },
   "Broncherry_Fried_Noodles": {
     "id": "Broncherry_Fried_Noodles",
     "name": "Broncherry Fried Noodles",
-    "category": "Ingredient"
+    "category": "Food"
   },
   "Spring_Rolls": {
     "id": "Spring_Rolls",
     "name": "Spring Rolls",
-    "category": "Ingredient"
+    "category": "Food"
   },
   "Gratin": {
     "id": "Gratin",
     "name": "Gratin",
-    "category": "Ingredient"
+    "category": "Food"
   },
   "Minestrone": {
     "id": "Minestrone",
     "name": "Minestrone",
-    "category": "Ingredient"
+    "category": "Food"
   },
   "Mammorest_Curry": {
     "id": "Mammorest_Curry",
     "name": "Mammorest Curry",
-    "category": "Ingredient"
+    "category": "Food"
   },
   "Galeclaw_Nikujaga": {
     "id": "Galeclaw_Nikujaga",
     "name": "Galeclaw Nikujaga",
-    "category": "Ingredient"
+    "category": "Food"
   },
   "Mushroom_Quiche": {
     "id": "Mushroom_Quiche",
     "name": "Mushroom Quiche",
-    "category": "Ingredient"
+    "category": "Food"
   },
   "Gloopie_Tentacle": {
     "id": "Gloopie_Tentacle",
@@ -2777,27 +2607,27 @@
   "Fried_Gloopie_Balls": {
     "id": "Fried_Gloopie_Balls",
     "name": "Fried Gloopie Balls",
-    "category": "Ingredient"
+    "category": "Food"
   },
   "Jelliettes_Jiggly_Jelly": {
     "id": "Jelliettes_Jiggly_Jelly",
     "name": "Jelliette's Jiggly Jelly",
-    "category": "Ingredient"
+    "category": "Food"
   },
   "Jellroys_Jolly_Jelly": {
     "id": "Jellroys_Jolly_Jelly",
     "name": "Jellroy's Jolly Jelly",
-    "category": "Ingredient"
+    "category": "Food"
   },
   "Munchill_Steak": {
     "id": "Munchill_Steak",
     "name": "Munchill Steak",
-    "category": "Ingredient"
+    "category": "Food"
   },
   "Seafood_Salad": {
     "id": "Seafood_Salad",
     "name": "Seafood Salad",
-    "category": "Ingredient"
+    "category": "Food"
   },
   "Caramel_Cotton_Candy": {
     "id": "Caramel_Cotton_Candy",
@@ -2812,71 +2642,41 @@
   "Salt-Grilled_Skutlass": {
     "id": "Salt-Grilled_Skutlass",
     "name": "Salt-Grilled Skutlass",
-    "category": "Ingredient"
+    "category": "Food"
   },
   "Seafood_Pasta": {
     "id": "Seafood_Pasta",
     "name": "Seafood Pasta",
-    "category": "Ingredient"
+    "category": "Food"
   },
   "Mushroom_Cake": {
     "id": "Mushroom_Cake",
     "name": "Mushroom Cake",
-    "category": "Ingredient"
+    "category": "Food"
   },
   "Vegetable_Cake": {
     "id": "Vegetable_Cake",
     "name": "Vegetable Cake",
-    "category": "Ingredient"
+    "category": "Food"
   },
   "Extravagant_Vegetable_Cake": {
     "id": "Extravagant_Vegetable_Cake",
     "name": "Extravagant Vegetable Cake",
-    "category": "Ingredient"
+    "category": "Food"
   },
   "Special_Cake": {
     "id": "Special_Cake",
     "name": "Special Cake",
-    "category": "Ingredient"
-  },
-  "Berries2": {
-    "id": "Berries2",
-    "name": "Berries2",
-    "category": "Ingredient"
+    "category": "Food"
   },
   "FishMeat": {
     "id": "FishMeat",
     "name": "FishMeat",
     "category": "Ingredient"
   },
-  "FishMeat2": {
-    "id": "FishMeat2",
-    "name": "FishMeat2",
-    "category": "Ingredient"
-  },
-  "Grilled_Meat": {
-    "id": "Grilled_Meat",
-    "name": "Grilled Meat",
-    "category": "Ingredient"
-  },
   "Raw_Meat": {
     "id": "Raw_Meat",
     "name": "Raw Meat",
-    "category": "Ingredient"
-  },
-  "Meat2": {
-    "id": "Meat2",
-    "name": "Meat2",
-    "category": "Ingredient"
-  },
-  "VenisonBoiledInTomato": {
-    "id": "VenisonBoiledInTomato",
-    "name": "VenisonBoiledInTomato",
-    "category": "Ingredient"
-  },
-  "Potato_old": {
-    "id": "Potato_old",
-    "name": "Potato_old",
     "category": "Ingredient"
   },
   "Corn": {
@@ -2889,11 +2689,6 @@
     "name": "Pumpkin",
     "category": "Ingredient"
   },
-  "Baked_Potato": {
-    "id": "Baked_Potato",
-    "name": "Baked_Potato",
-    "category": "Ingredient"
-  },
   "Grape": {
     "id": "Grape",
     "name": "Grape",
@@ -2904,1745 +2699,205 @@
     "name": "Hop",
     "category": "Ingredient"
   },
-  "Potage": {
-    "id": "Potage",
-    "name": "Potage",
-    "category": "Ingredient"
-  },
-  "Stir-Fried_Veggies": {
-    "id": "Stir-Fried_Veggies",
-    "name": "Stir-Fried Veggies",
-    "category": "Ingredient"
-  },
-  "Hot_Dog": {
-    "id": "Hot_Dog",
-    "name": "Hot Dog",
-    "category": "Ingredient"
-  },
-  "Curry": {
-    "id": "Curry",
-    "name": "Curry",
-    "category": "Ingredient"
-  },
-  "BLT": {
-    "id": "BLT",
-    "name": "BLT",
-    "category": "Ingredient"
-  },
-  "Cheeseburger": {
-    "id": "Cheeseburger",
-    "name": "Cheeseburger",
-    "category": "Ingredient"
-  },
-  "Bolognese_Sauce": {
-    "id": "Bolognese_Sauce",
-    "name": "Bolognese Sauce",
-    "category": "Ingredient"
-  },
-  "Mushroom_Stew": {
-    "id": "Mushroom_Stew",
-    "name": "Mushroom Stew",
-    "category": "Ingredient"
-  },
-  "Sandwich": {
-    "id": "Sandwich",
-    "name": "Sandwich",
-    "category": "Ingredient"
-  },
-  "Corn_Soup": {
-    "id": "Corn_Soup",
-    "name": "Corn Soup",
-    "category": "Ingredient"
-  },
-  "Stew": {
-    "id": "Stew",
-    "name": "Stew",
-    "category": "Ingredient"
-  },
-  "Hamburger": {
-    "id": "Hamburger",
-    "name": "Hamburger",
-    "category": "Ingredient"
-  },
-  "Grilled_Fish": {
-    "id": "Grilled_Fish",
-    "name": "Grilled Fish",
-    "category": "Ingredient"
-  },
-  "Seafood_Soup": {
-    "id": "Seafood_Soup",
-    "name": "Seafood Soup",
-    "category": "Ingredient"
-  },
-  "LuxuryOmelette": {
-    "id": "LuxuryOmelette",
-    "name": "LuxuryOmelette",
-    "category": "Ingredient"
-  },
-  "Beer": {
-    "id": "Beer",
-    "name": "Beer",
-    "category": "Ingredient"
-  },
-  "Wine": {
-    "id": "Wine",
-    "name": "Wine",
-    "category": "Ingredient"
-  },
-  "Lifmunk_Effigy": {
-    "id": "Lifmunk_Effigy",
-    "name": "Lifmunk Effigy",
-    "category": "Key Items"
-  },
-  "Lifmunks_Submachine_Gun": {
-    "id": "Lifmunks_Submachine_Gun",
-    "name": "Lifmunk's Submachine Gun",
-    "category": "Key Items"
-  },
-  "Direhowls_Saddled_Harness": {
-    "id": "Direhowls_Saddled_Harness",
-    "name": "Direhowl's Saddled Harness",
-    "category": "Key Items"
-  },
-  "Jormuntide_Ignis_Saddle": {
-    "id": "Jormuntide_Ignis_Saddle",
-    "name": "Jormuntide Ignis Saddle",
-    "category": "Key Items"
-  },
-  "Eikthyrdeer_Terra_Saddle": {
-    "id": "Eikthyrdeer_Terra_Saddle",
-    "name": "Eikthyrdeer Terra Saddle",
-    "category": "Key Items"
-  },
-  "Jolthog_Crysts_Gloves": {
-    "id": "Jolthog_Crysts_Gloves",
-    "name": "Jolthog Cryst's Gloves",
-    "category": "Key Items"
-  },
-  "Dinossom_Lux_Saddle": {
-    "id": "Dinossom_Lux_Saddle",
-    "name": "Dinossom Lux Saddle",
-    "category": "Key Items"
-  },
-  "Mammorest_Cryst_Saddle": {
-    "id": "Mammorest_Cryst_Saddle",
-    "name": "Mammorest Cryst Saddle",
-    "category": "Key Items"
-  },
-  "Relaxaurus_Luxs_Missile_Launcher": {
-    "id": "Relaxaurus_Luxs_Missile_Launcher",
-    "name": "Relaxaurus Lux's Missile Launcher",
-    "category": "Key Items"
-  },
-  "Pyrin_Noct_Saddle": {
-    "id": "Pyrin_Noct_Saddle",
-    "name": "Pyrin Noct Saddle",
-    "category": "Key Items"
-  },
-  "Broncherry_Aqua_Saddle": {
-    "id": "Broncherry_Aqua_Saddle",
-    "name": "Broncherry Aqua Saddle",
-    "category": "Key Items"
-  },
-  "Elphidran_Aqua_Saddle": {
-    "id": "Elphidran_Aqua_Saddle",
-    "name": "Elphidran Aqua Saddle",
-    "category": "Key Items"
-  },
-  "Blazehowl_Noct_Saddle": {
-    "id": "Blazehowl_Noct_Saddle",
-    "name": "Blazehowl Noct Saddle",
-    "category": "Key Items"
-  },
-  "Suzaku_Aqua_Saddle": {
-    "id": "Suzaku_Aqua_Saddle",
-    "name": "Suzaku Aqua Saddle",
-    "category": "Key Items"
-  },
-  "Surfent_Terra_Saddle": {
-    "id": "Surfent_Terra_Saddle",
-    "name": "Surfent Terra Saddle",
-    "category": "Key Items"
-  },
-  "Reptyro_Cryst_Saddle": {
-    "id": "Reptyro_Cryst_Saddle",
-    "name": "Reptyro Cryst Saddle",
-    "category": "Key Items"
-  },
-  "Frostallion_Noct_Saddle": {
-    "id": "Frostallion_Noct_Saddle",
-    "name": "Frostallion Noct Saddle",
-    "category": "Key Items"
-  },
-  "Mossanda_Luxs_Grenade_Launcher": {
-    "id": "Mossanda_Luxs_Grenade_Launcher",
-    "name": "Mossanda Lux's Grenade Launcher",
-    "category": "Key Items"
-  },
-  "Wumpo_Botan_Saddle": {
-    "id": "Wumpo_Botan_Saddle",
-    "name": "Wumpo Botan Saddle",
-    "category": "Key Items"
-  },
-  "Kingpaca_Cryst_Saddle": {
-    "id": "Kingpaca_Cryst_Saddle",
-    "name": "Kingpaca Cryst Saddle",
-    "category": "Key Items"
-  },
-  "Vanwyrm_Cryst_Saddle": {
-    "id": "Vanwyrm_Cryst_Saddle",
-    "name": "Vanwyrm Cryst Saddle",
-    "category": "Key Items"
-  },
-  "Hangyu_Crysts_Glove": {
-    "id": "Hangyu_Crysts_Glove",
-    "name": "Hangyu Cryst's Glove",
-    "category": "Key Items"
-  },
-  "Jormuntide_Saddle": {
-    "id": "Jormuntide_Saddle",
-    "name": "Jormuntide Saddle",
-    "category": "Key Items"
-  },
-  "Eikthyrdeer_Saddle": {
-    "id": "Eikthyrdeer_Saddle",
-    "name": "Eikthyrdeer Saddle",
-    "category": "Key Items"
-  },
-  "Jolthogs_Gloves": {
-    "id": "Jolthogs_Gloves",
-    "name": "Jolthog's Gloves",
-    "category": "Key Items"
-  },
-  "Foxparks_Harness": {
-    "id": "Foxparks_Harness",
-    "name": "Foxparks' Harness",
-    "category": "Key Items"
-  },
-  "Rushoar_Saddle": {
-    "id": "Rushoar_Saddle",
-    "name": "Rushoar Saddle",
-    "category": "Key Items"
-  },
-  "Tanzees_Assault_Rifle": {
-    "id": "Tanzees_Assault_Rifle",
-    "name": "Tanzee's Assault Rifle",
-    "category": "Key Items"
-  },
-  "Pengullet_Rocket_Launcher": {
-    "id": "Pengullet_Rocket_Launcher",
-    "name": "Pengullet Rocket Launcher",
-    "category": "Key Items"
-  },
-  "Melpaca_Saddle": {
-    "id": "Melpaca_Saddle",
-    "name": "Melpaca Saddle",
-    "category": "Key Items"
-  },
-  "Dinossom_Saddle": {
-    "id": "Dinossom_Saddle",
-    "name": "Dinossom Saddle",
-    "category": "Key Items"
-  },
-  "Mammorest_Saddle": {
-    "id": "Mammorest_Saddle",
-    "name": "Mammorest Saddle",
-    "category": "Key Items"
-  },
-  "Univolt_Saddle": {
-    "id": "Univolt_Saddle",
-    "name": "Univolt Saddle",
-    "category": "Key Items"
-  },
-  "Grizzbolts_Minigun": {
-    "id": "Grizzbolts_Minigun",
-    "name": "Grizzbolt's Minigun",
-    "category": "Key Items"
-  },
-  "Relaxaurus_Missile_Launcher": {
-    "id": "Relaxaurus_Missile_Launcher",
-    "name": "Relaxaurus' Missile Launcher",
-    "category": "Key Items"
-  },
-  "Pyrin_Saddle": {
-    "id": "Pyrin_Saddle",
-    "name": "Pyrin Saddle",
-    "category": "Key Items"
-  },
-  "Broncherry_Saddle": {
-    "id": "Broncherry_Saddle",
-    "name": "Broncherry Saddle",
-    "category": "Key Items"
-  },
-  "Arsox_Saddle": {
-    "id": "Arsox_Saddle",
-    "name": "Arsox Saddle",
-    "category": "Key Items"
-  },
-  "Azurobe_Saddle": {
-    "id": "Azurobe_Saddle",
-    "name": "Azurobe Saddle",
-    "category": "Key Items"
-  },
-  "Elphidran_Saddle": {
-    "id": "Elphidran_Saddle",
-    "name": "Elphidran Saddle",
-    "category": "Key Items"
-  },
-  "Fenglope_Saddle": {
-    "id": "Fenglope_Saddle",
-    "name": "Fenglope Saddle",
-    "category": "Key Items"
-  },
-  "Tocotocos_Gloves": {
-    "id": "Tocotocos_Gloves",
-    "name": "Tocotoco's Gloves",
-    "category": "Key Items"
-  },
-  "Galeclaws_Gloves": {
-    "id": "Galeclaws_Gloves",
-    "name": "Galeclaw's Gloves",
-    "category": "Key Items"
-  },
-  "Killamaris_Gloves": {
-    "id": "Killamaris_Gloves",
-    "name": "Killamari's Gloves",
-    "category": "Key Items"
-  },
-  "Celarays_Gloves": {
-    "id": "Celarays_Gloves",
-    "name": "Celaray's Gloves",
-    "category": "Key Items"
-  },
-  "Maraith_Saddle": {
-    "id": "Maraith_Saddle",
-    "name": "Maraith Saddle",
-    "category": "Key Items"
-  },
-  "Flopies_Necklace": {
-    "id": "Flopies_Necklace",
-    "name": "Flopie's Necklace",
-    "category": "Key Items"
-  },
-  "Blazehowl_Saddle": {
-    "id": "Blazehowl_Saddle",
-    "name": "Blazehowl Saddle",
-    "category": "Key Items"
-  },
-  "Suzaku_Saddle": {
-    "id": "Suzaku_Saddle",
-    "name": "Suzaku Saddle",
-    "category": "Key Items"
-  },
-  "Surfent_Saddle": {
-    "id": "Surfent_Saddle",
-    "name": "Surfent Saddle",
-    "category": "Key Items"
-  },
-  "Dazzis_Necklace": {
-    "id": "Dazzis_Necklace",
-    "name": "Dazzi's Necklace",
-    "category": "Key Items"
-  },
-  "Reptyro_Saddle": {
-    "id": "Reptyro_Saddle",
-    "name": "Reptyro Saddle",
-    "category": "Key Items"
-  },
-  "Kitsun_Saddle": {
-    "id": "Kitsun_Saddle",
-    "name": "Kitsun Saddle",
-    "category": "Key Items"
-  },
-  "Daedreams_Necklace": {
-    "id": "Daedreams_Necklace",
-    "name": "Daedream's Necklace",
-    "category": "Key Items"
-  },
-  "Frostallion_Saddle": {
-    "id": "Frostallion_Saddle",
-    "name": "Frostallion Saddle",
-    "category": "Key Items"
-  },
-  "Faleris_Saddle": {
-    "id": "Faleris_Saddle",
-    "name": "Faleris Saddle",
-    "category": "Key Items"
-  },
-  "Blazamut_Saddle": {
-    "id": "Blazamut_Saddle",
-    "name": "Blazamut Saddle",
-    "category": "Key Items"
-  },
-  "Reindrix_Saddle": {
-    "id": "Reindrix_Saddle",
-    "name": "Reindrix Saddle",
-    "category": "Key Items"
-  },
-  "Shadowbeak_Saddle": {
-    "id": "Shadowbeak_Saddle",
-    "name": "Shadowbeak Saddle",
-    "category": "Key Items"
-  },
-  "Yakumo_Saddle": {
-    "id": "Yakumo_Saddle",
-    "name": "Yakumo Saddle",
-    "category": "Key Items"
-  },
-  "Astegon_Saddle": {
-    "id": "Astegon_Saddle",
-    "name": "Astegon Saddle",
-    "category": "Key Items"
-  },
-  "Quivern_Saddle": {
-    "id": "Quivern_Saddle",
-    "name": "Quivern Saddle",
-    "category": "Key Items"
-  },
-  "Rayhound_Saddle": {
-    "id": "Rayhound_Saddle",
-    "name": "Rayhound Saddle",
-    "category": "Key Items"
-  },
-  "Mossandas_Grenade_Launcher": {
-    "id": "Mossandas_Grenade_Launcher",
-    "name": "Mossanda's Grenade Launcher",
-    "category": "Key Items"
-  },
-  "Wumpo_Saddle": {
-    "id": "Wumpo_Saddle",
-    "name": "Wumpo Saddle",
-    "category": "Key Items"
-  },
-  "Nitewing_Saddle": {
-    "id": "Nitewing_Saddle",
-    "name": "Nitewing Saddle",
-    "category": "Key Items"
-  },
-  "Jetragons_Missile_Launcher": {
-    "id": "Jetragons_Missile_Launcher",
-    "name": "Jetragon's Missile Launcher",
-    "category": "Key Items"
-  },
-  "Helzephyr_Saddle": {
-    "id": "Helzephyr_Saddle",
-    "name": "Helzephyr Saddle",
-    "category": "Key Items"
-  },
-  "Kingpaca_Saddle": {
-    "id": "Kingpaca_Saddle",
-    "name": "Kingpaca Saddle",
-    "category": "Key Items"
-  },
-  "Paladius_Saddle": {
-    "id": "Paladius_Saddle",
-    "name": "Paladius Saddle",
-    "category": "Key Items"
-  },
-  "Beakon_Saddle": {
-    "id": "Beakon_Saddle",
-    "name": "Beakon Saddle",
-    "category": "Key Items"
-  },
-  "Ragnahawk_Saddle": {
-    "id": "Ragnahawk_Saddle",
-    "name": "Ragnahawk Saddle",
-    "category": "Key Items"
-  },
-  "Necromus_Saddle": {
-    "id": "Necromus_Saddle",
-    "name": "Necromus Saddle",
-    "category": "Key Items"
-  },
-  "Sweepa_Saddle": {
-    "id": "Sweepa_Saddle",
-    "name": "Sweepa Saddle",
-    "category": "Key Items"
-  },
-  "Gildane_Saddle": {
-    "id": "Gildane_Saddle",
-    "name": "Gildane Saddle",
-    "category": "Key Items"
-  },
-  "Nyafias_Shotgun": {
-    "id": "Nyafias_Shotgun",
-    "name": "Nyafia's Shotgun",
-    "category": "Key Items"
-  },
-  "Grintale_Saddle": {
-    "id": "Grintale_Saddle",
-    "name": "Grintale Saddle",
-    "category": "Key Items"
-  },
-  "Dazemu_Saddle": {
-    "id": "Dazemu_Saddle",
-    "name": "Dazemu Saddle",
-    "category": "Key Items"
-  },
-  "Vanwyrm_Saddle": {
-    "id": "Vanwyrm_Saddle",
-    "name": "Vanwyrm Saddle",
-    "category": "Key Items"
-  },
-  "Chillet_Saddle": {
-    "id": "Chillet_Saddle",
-    "name": "Chillet Saddle",
-    "category": "Key Items"
-  },
-  "Hangyus_Gloves": {
-    "id": "Hangyus_Gloves",
-    "name": "Hangyu's Gloves",
-    "category": "Key Items"
-  },
-  "Hip_Lantern": {
-    "id": "Hip_Lantern",
-    "name": "Hip Lantern",
-    "category": "Key Items"
-  },
-  "Small_Feed_Bag": {
-    "id": "Small_Feed_Bag",
-    "name": "Small Feed Bag",
-    "category": "Key Items"
-  },
-  "Average_Feed_Bag": {
-    "id": "Average_Feed_Bag",
-    "name": "Average Feed Bag",
-    "category": "Key Items"
-  },
-  "Large_Feed_Bag": {
-    "id": "Large_Feed_Bag",
-    "name": "Large Feed Bag",
-    "category": "Key Items"
-  },
-  "Huge_Feed_Bag": {
-    "id": "Huge_Feed_Bag",
-    "name": "Huge Feed Bag",
-    "category": "Key Items"
-  },
-  "Giant_Feed_Bag": {
-    "id": "Giant_Feed_Bag",
-    "name": "Giant Feed Bag",
-    "category": "Key Items"
-  },
-  "Blazamut_Ryu_Saddle": {
-    "id": "Blazamut_Ryu_Saddle",
-    "name": "Blazamut Ryu Saddle",
-    "category": "Key Items"
-  },
-  "Helzephyr_Lux_Saddle": {
-    "id": "Helzephyr_Lux_Saddle",
-    "name": "Helzephyr Lux Saddle",
-    "category": "Key Items"
-  },
-  "Quivern_Botan_Saddle": {
-    "id": "Quivern_Botan_Saddle",
-    "name": "Quivern Botan Saddle",
-    "category": "Key Items"
-  },
-  "Chillet_Ignis_Saddle": {
-    "id": "Chillet_Ignis_Saddle",
-    "name": "Chillet Ignis Saddle",
-    "category": "Key Items"
-  },
-  "Mysterious_Accessory_Box": {
-    "id": "Mysterious_Accessory_Box",
-    "name": "Mysterious Accessory Box",
-    "category": "Key Items"
-  },
-  "Mystic_Accessory_Box": {
-    "id": "Mystic_Accessory_Box",
-    "name": "Mystic Accessory Box",
-    "category": "Key Items"
-  },
-  "Shroomer_Saddle": {
-    "id": "Shroomer_Saddle",
-    "name": "Shroomer Saddle",
-    "category": "Key Items"
-  },
-  "Shroomer_Noct_Saddle": {
-    "id": "Shroomer_Noct_Saddle",
-    "name": "Shroomer Noct Saddle",
-    "category": "Key Items"
-  },
-  "Selyne_Saddle": {
-    "id": "Selyne_Saddle",
-    "name": "Selyne Saddle",
-    "category": "Key Items"
-  },
-  "Lockpicking_Tool_v1": {
-    "id": "Lockpicking_Tool_v1",
-    "name": "Lockpicking Tool v1",
-    "category": "Key Items"
-  },
-  "Xenogard_Saddle": {
-    "id": "Xenogard_Saddle",
-    "name": "Xenogard Saddle",
-    "category": "Key Items"
-  },
-  "Lockpicking_Tool_v2": {
-    "id": "Lockpicking_Tool_v2",
-    "name": "Lockpicking Tool v2",
-    "category": "Key Items"
-  },
-  "Lockpicking_Tool_v3": {
-    "id": "Lockpicking_Tool_v3",
-    "name": "Lockpicking Tool v3",
-    "category": "Key Items"
-  },
-  "Small_Pouch": {
-    "id": "Small_Pouch",
-    "name": "Small Pouch",
-    "category": "Key Items"
-  },
-  "Medium_Pouch": {
-    "id": "Medium_Pouch",
-    "name": "Medium Pouch",
-    "category": "Key Items"
-  },
-  "Large_Pouch": {
-    "id": "Large_Pouch",
-    "name": "Large Pouch",
-    "category": "Key Items"
-  },
-  "Giant_Pouch": {
-    "id": "Giant_Pouch",
-    "name": "Giant Pouch",
-    "category": "Key Items"
-  },
-  "Chillet_Bounty_Token": {
-    "id": "Chillet_Bounty_Token",
-    "name": "Chillet Bounty Token",
-    "category": "Key Items"
-  },
-  "Sweepa_Bounty_Token": {
-    "id": "Sweepa_Bounty_Token",
-    "name": "Sweepa Bounty Token",
-    "category": "Key Items"
-  },
-  "Gumoss_Bounty_Token": {
-    "id": "Gumoss_Bounty_Token",
-    "name": "Gumoss Bounty Token",
-    "category": "Key Items"
-  },
-  "Dumud_Bounty_Token": {
-    "id": "Dumud_Bounty_Token",
-    "name": "Dumud Bounty Token",
-    "category": "Key Items"
-  },
-  "Penking_Bounty_Token": {
-    "id": "Penking_Bounty_Token",
-    "name": "Penking Bounty Token",
-    "category": "Key Items"
-  },
-  "Azurobe_Bounty_Token": {
-    "id": "Azurobe_Bounty_Token",
-    "name": "Azurobe Bounty Token",
-    "category": "Key Items"
-  },
-  "Grintale_Bounty_Token": {
-    "id": "Grintale_Bounty_Token",
-    "name": "Grintale Bounty Token",
-    "category": "Key Items"
-  },
-  "Nitewing_Bounty_Token": {
-    "id": "Nitewing_Bounty_Token",
-    "name": "Nitewing Bounty Token",
-    "category": "Key Items"
-  },
-  "Quivern_Bounty_Token": {
-    "id": "Quivern_Bounty_Token",
-    "name": "Quivern Bounty Token",
-    "category": "Key Items"
-  },
-  "Felbat_Bounty_Token": {
-    "id": "Felbat_Bounty_Token",
-    "name": "Felbat Bounty Token",
-    "category": "Key Items"
-  },
-  "Kingpaca_Bounty_Token": {
-    "id": "Kingpaca_Bounty_Token",
-    "name": "Kingpaca Bounty Token",
-    "category": "Key Items"
-  },
-  "Broncherry_Bounty_Token": {
-    "id": "Broncherry_Bounty_Token",
-    "name": "Broncherry Bounty Token",
-    "category": "Key Items"
-  },
-  "Katress_Bounty_Token": {
-    "id": "Katress_Bounty_Token",
-    "name": "Katress Bounty Token",
-    "category": "Key Items"
-  },
-  "Bushi_Bounty_Token": {
-    "id": "Bushi_Bounty_Token",
-    "name": "Bushi Bounty Token",
-    "category": "Key Items"
-  },
-  "Fenglope_Bounty_Token": {
-    "id": "Fenglope_Bounty_Token",
-    "name": "Fenglope Bounty Token",
-    "category": "Key Items"
-  },
-  "Petallia_Bounty_Token": {
-    "id": "Petallia_Bounty_Token",
-    "name": "Petallia Bounty Token",
-    "category": "Key Items"
-  },
-  "Beakon_Bounty_Token": {
-    "id": "Beakon_Bounty_Token",
-    "name": "Beakon Bounty Token",
-    "category": "Key Items"
-  },
-  "Warsect_Bounty_Token": {
-    "id": "Warsect_Bounty_Token",
-    "name": "Warsect Bounty Token",
-    "category": "Key Items"
-  },
-  "Broncherry_Aqua_Bounty_Token": {
-    "id": "Broncherry_Aqua_Bounty_Token",
-    "name": "Broncherry Aqua Bounty Token",
-    "category": "Key Items"
-  },
-  "Elphidran_Bounty_Token": {
-    "id": "Elphidran_Bounty_Token",
-    "name": "Elphidran Bounty Token",
-    "category": "Key Items"
-  },
-  "Relaxaurus_Lux_Bounty_Token": {
-    "id": "Relaxaurus_Lux_Bounty_Token",
-    "name": "Relaxaurus Lux Bounty Token",
-    "category": "Key Items"
-  },
-  "Univolt_Bounty_Token": {
-    "id": "Univolt_Bounty_Token",
-    "name": "Univolt Bounty Token",
-    "category": "Key Items"
-  },
-  "Elizabee_Bounty_Token": {
-    "id": "Elizabee_Bounty_Token",
-    "name": "Elizabee Bounty Token",
-    "category": "Key Items"
-  },
-  "Mossanda_Lux_Bounty_Token": {
-    "id": "Mossanda_Lux_Bounty_Token",
-    "name": "Mossanda Lux Bounty Token",
-    "category": "Key Items"
-  },
-  "Lunaris_Bounty_Token": {
-    "id": "Lunaris_Bounty_Token",
-    "name": "Lunaris Bounty Token",
-    "category": "Key Items"
-  },
-  "Verdash_Bounty_Token": {
-    "id": "Verdash_Bounty_Token",
-    "name": "Verdash Bounty Token",
-    "category": "Key Items"
-  },
-  "Wumpo_Botan_Bounty_Token": {
-    "id": "Wumpo_Botan_Bounty_Token",
-    "name": "Wumpo Botan Bounty Token",
-    "category": "Key Items"
-  },
-  "Mammorest_Bounty_Token": {
-    "id": "Mammorest_Bounty_Token",
-    "name": "Mammorest Bounty Token",
-    "category": "Key Items"
-  },
-  "Vaelet_Bounty_Token": {
-    "id": "Vaelet_Bounty_Token",
-    "name": "Vaelet Bounty Token",
-    "category": "Key Items"
-  },
-  "Sibelyx_Bounty_Token": {
-    "id": "Sibelyx_Bounty_Token",
-    "name": "Sibelyx Bounty Token",
-    "category": "Key Items"
-  },
-  "Menasting_Bounty_Token": {
-    "id": "Menasting_Bounty_Token",
-    "name": "Menasting Bounty Token",
-    "category": "Key Items"
-  },
-  "Suzaku_Bounty_Token": {
-    "id": "Suzaku_Bounty_Token",
-    "name": "Suzaku Bounty Token",
-    "category": "Key Items"
-  },
-  "Jormuntide_Bounty_Token": {
-    "id": "Jormuntide_Bounty_Token",
-    "name": "Jormuntide Bounty Token",
-    "category": "Key Items"
-  },
-  "Kingpaca_Cryst_Bounty_Token": {
-    "id": "Kingpaca_Cryst_Bounty_Token",
-    "name": "Kingpaca Cryst Bounty Token",
-    "category": "Key Items"
-  },
-  "Dinossom_Lux_Bounty_Token": {
-    "id": "Dinossom_Lux_Bounty_Token",
-    "name": "Dinossom Lux Bounty Token",
-    "category": "Key Items"
-  },
-  "Anubis_Bounty_Token": {
-    "id": "Anubis_Bounty_Token",
-    "name": "Anubis Bounty Token",
-    "category": "Key Items"
-  },
-  "Astegon_Bounty_Token": {
-    "id": "Astegon_Bounty_Token",
-    "name": "Astegon Bounty Token",
-    "category": "Key Items"
-  },
-  "Blazamut_Bounty_Token": {
-    "id": "Blazamut_Bounty_Token",
-    "name": "Blazamut Bounty Token",
-    "category": "Key Items"
-  },
-  "Lyleen_Noct_Bounty_Token": {
-    "id": "Lyleen_Noct_Bounty_Token",
-    "name": "Lyleen Noct Bounty Token",
-    "category": "Key Items"
-  },
-  "Menasting_Terra_Bounty_Token": {
-    "id": "Menasting_Terra_Bounty_Token",
-    "name": "Menasting Terra Bounty Token",
-    "category": "Key Items"
-  },
-  "Knocklem_Bounty_Token": {
-    "id": "Knocklem_Bounty_Token",
-    "name": "Knocklem Bounty Token",
-    "category": "Key Items"
-  },
-  "Splatterina_Bounty_Token": {
-    "id": "Splatterina_Bounty_Token",
-    "name": "Splatterina Bounty Token",
-    "category": "Key Items"
-  },
-  "Azurmane_Bounty_Token": {
-    "id": "Azurmane_Bounty_Token",
-    "name": "Azurmane Bounty Token",
-    "category": "Key Items"
-  },
-  "Kitsun_Noct_Bounty_Token": {
-    "id": "Kitsun_Noct_Bounty_Token",
-    "name": "Kitsun Noct Bounty Token",
-    "category": "Key Items"
-  },
-  "Fenglope_Lux_Bounty_Token": {
-    "id": "Fenglope_Lux_Bounty_Token",
-    "name": "Fenglope Lux Bounty Token",
-    "category": "Key Items"
-  },
-  "Celesdir_Bounty_Token": {
-    "id": "Celesdir_Bounty_Token",
-    "name": "Celesdir Bounty Token",
-    "category": "Key Items"
-  },
-  "Silvegis_Bounty_Token": {
-    "id": "Silvegis_Bounty_Token",
-    "name": "Silvegis Bounty Token",
-    "category": "Key Items"
-  },
-  "Faleris_Aqua_Bounty_Token": {
-    "id": "Faleris_Aqua_Bounty_Token",
-    "name": "Faleris Aqua Bounty Token",
-    "category": "Key Items"
-  },
-  "Jetragon_Bounty_Token": {
-    "id": "Jetragon_Bounty_Token",
-    "name": "Jetragon Bounty Token",
-    "category": "Key Items"
-  },
-  "Frostallion_Bounty_Token": {
-    "id": "Frostallion_Bounty_Token",
-    "name": "Frostallion Bounty Token",
-    "category": "Key Items"
-  },
-  "Twin_Knights_Bounty_Token": {
-    "id": "Twin_Knights_Bounty_Token",
-    "name": "Twin Knights Bounty Token",
-    "category": "Key Items"
-  },
-  "Xenolord_Saddle": {
-    "id": "Xenolord_Saddle",
-    "name": "Xenolord Saddle",
-    "category": "Key Items"
-  },
-  "Starryon_Saddle": {
-    "id": "Starryon_Saddle",
-    "name": "Starryon Saddle",
-    "category": "Key Items"
-  },
-  "Silvegis_Saddle": {
-    "id": "Silvegis_Saddle",
-    "name": "Silvegis Saddle",
-    "category": "Key Items"
-  },
-  "Celesdir_Saddle": {
-    "id": "Celesdir_Saddle",
-    "name": "Celesdir Saddle",
-    "category": "Key Items"
-  },
-  "Tarantriss_Saddle": {
-    "id": "Tarantriss_Saddle",
-    "name": "Tarantriss Saddle",
-    "category": "Key Items"
-  },
-  "Azurmane_Saddle": {
-    "id": "Azurmane_Saddle",
-    "name": "Azurmane Saddle",
-    "category": "Key Items"
-  },
-  "Bastigors_Hammer": {
-    "id": "Bastigors_Hammer",
-    "name": "Bastigor's Hammer",
-    "category": "Key Items"
-  },
-  "Kitsun_Noct_Saddle": {
-    "id": "Kitsun_Noct_Saddle",
-    "name": "Kitsun Noct Saddle",
-    "category": "Key Items"
-  },
-  "Fenglope_Lux_Saddle": {
-    "id": "Fenglope_Lux_Saddle",
-    "name": "Fenglope Lux Saddle",
-    "category": "Key Items"
-  },
-  "Faleris_Aqua_Saddle": {
-    "id": "Faleris_Aqua_Saddle",
-    "name": "Faleris Aqua Saddle",
-    "category": "Key Items"
-  },
-  "Smokies_Harness": {
-    "id": "Smokies_Harness",
-    "name": "Smokie's Harness",
-    "category": "Key Items"
-  },
-  "Foxparks_Crysts_Harness": {
-    "id": "Foxparks_Crysts_Harness",
-    "name": "Foxparks Cryst's Harness",
-    "category": "Key Items"
-  },
-  "Dazzi_Nocts_Necklace": {
-    "id": "Dazzi_Nocts_Necklace",
-    "name": "Dazzi Noct's Necklace",
-    "category": "Key Items"
-  },
-  "Smokie_Bounty_Token": {
-    "id": "Smokie_Bounty_Token",
-    "name": "Smokie Bounty Token",
-    "category": "Key Items"
-  },
-  "Nitemary_Bounty_Token": {
-    "id": "Nitemary_Bounty_Token",
-    "name": "Nitemary Bounty Token",
-    "category": "Key Items"
-  },
-  "Starryon_Bounty_Token": {
-    "id": "Starryon_Bounty_Token",
-    "name": "Starryon Bounty Token",
-    "category": "Key Items"
-  },
-  "Prunelia_Bounty_Token": {
-    "id": "Prunelia_Bounty_Token",
-    "name": "Prunelia Bounty Token",
-    "category": "Key Items"
-  },
-  "Nyafia_Bounty_Token": {
-    "id": "Nyafia_Bounty_Token",
-    "name": "Nyafia Bounty Token",
-    "category": "Key Items"
-  },
-  "Gildane_Bounty_Token": {
-    "id": "Gildane_Bounty_Token",
-    "name": "Gildane Bounty Token",
-    "category": "Key Items"
-  },
-  "Omascul_Bounty_Token": {
-    "id": "Omascul_Bounty_Token",
-    "name": "Omascul Bounty Token",
-    "category": "Key Items"
-  },
-  "Tarantris_Bounty_Token": {
-    "id": "Tarantris_Bounty_Token",
-    "name": "Tarantris Bounty Token",
-    "category": "Key Items"
-  },
-  "Frostallion_Noct_Bounty_Token": {
-    "id": "Frostallion_Noct_Bounty_Token",
-    "name": "Frostallion Noct Bounty Token",
-    "category": "Key Items"
-  },
-  "Foxparks_Cryst_Bounty_Token": {
-    "id": "Foxparks_Cryst_Bounty_Token",
-    "name": "Foxparks Cryst Bounty Token",
-    "category": "Key Items"
-  },
-  "Dazzi_Noct_Bounty_Token": {
-    "id": "Dazzi_Noct_Bounty_Token",
-    "name": "Dazzi Noct Bounty Token",
-    "category": "Key Items"
-  },
-  "Cryolinx_Terra_Bounty_Token": {
-    "id": "Cryolinx_Terra_Bounty_Token",
-    "name": "Cryolinx Terra Bounty Token",
-    "category": "Key Items"
-  },
-  "Caprity_Noct_Bounty_Token": {
-    "id": "Caprity_Noct_Bounty_Token",
-    "name": "Caprity Noct Bounty Token",
-    "category": "Key Items"
-  },
-  "Loupmoon_Cryst_Bounty_Token": {
-    "id": "Loupmoon_Cryst_Bounty_Token",
-    "name": "Loupmoon Cryst Bounty Token",
-    "category": "Key Items"
-  },
-  "Ribbuny_Botan_Bounty_Token": {
-    "id": "Ribbuny_Botan_Bounty_Token",
-    "name": "Ribbuny Botan Bounty Token",
-    "category": "Key Items"
-  },
-  "Warsect_Terra_Bounty_Token": {
-    "id": "Warsect_Terra_Bounty_Token",
-    "name": "Warsect Terra Bounty Token",
-    "category": "Key Items"
-  },
   "Implant_Serenity": {
     "id": "Implant_Serenity",
     "name": "Implant: Serenity",
-    "category": "Key Items"
+    "category": "Implant"
   },
   "Implant_Infinite_Stamina": {
     "id": "Implant_Infinite_Stamina",
     "name": "Implant: Infinite Stamina",
-    "category": "Key Items"
+    "category": "Implant"
   },
   "Implant_Runner": {
     "id": "Implant_Runner",
     "name": "Implant: Runner",
-    "category": "Key Items"
+    "category": "Implant"
   },
   "Implant_Burly_Body": {
     "id": "Implant_Burly_Body",
     "name": "Implant: Burly Body",
-    "category": "Key Items"
+    "category": "Implant"
   },
   "Implant_Artisan": {
     "id": "Implant_Artisan",
     "name": "Implant: Artisan",
-    "category": "Key Items"
+    "category": "Implant"
   },
   "Implant_Musclehead": {
     "id": "Implant_Musclehead",
     "name": "Implant: Musclehead",
-    "category": "Key Items"
-  },
-  "Enhanced_Hip_Lantern": {
-    "id": "Enhanced_Hip_Lantern",
-    "name": "Enhanced Hip Lantern",
-    "category": "Key Items"
-  },
-  "Whalaska_Saddle": {
-    "id": "Whalaska_Saddle",
-    "name": "Whalaska Saddle",
-    "category": "Key Items"
-  },
-  "Ghangler_Saddle": {
-    "id": "Ghangler_Saddle",
-    "name": "Ghangler Saddle",
-    "category": "Key Items"
-  },
-  "Herbils_Harness": {
-    "id": "Herbils_Harness",
-    "name": "Herbil's Harness",
-    "category": "Key Items"
-  },
-  "Polapup_Saddle": {
-    "id": "Polapup_Saddle",
-    "name": "Polapup Saddle",
-    "category": "Key Items"
-  },
-  "Braloha_Saddle": {
-    "id": "Braloha_Saddle",
-    "name": "Braloha Saddle",
-    "category": "Key Items"
-  },
-  "Palumba_Saddle": {
-    "id": "Palumba_Saddle",
-    "name": "Palumba Saddle",
-    "category": "Key Items"
-  },
-  "Neptilius_Saddle": {
-    "id": "Neptilius_Saddle",
-    "name": "Neptilius Saddle",
-    "category": "Key Items"
-  },
-  "Killamari_Primos_Gloves": {
-    "id": "Killamari_Primos_Gloves",
-    "name": "Killamari Primo's Gloves",
-    "category": "Key Items"
-  },
-  "Pengullet_Luxs_Rocket_Launcher": {
-    "id": "Pengullet_Luxs_Rocket_Launcher",
-    "name": "Pengullet Lux's Rocket Launcher",
-    "category": "Key Items"
-  },
-  "Celaray_Luxs_Gloves": {
-    "id": "Celaray_Luxs_Gloves",
-    "name": "Celaray Lux's Gloves",
-    "category": "Key Items"
-  },
-  "Azurobe_Cryst_Saddle": {
-    "id": "Azurobe_Cryst_Saddle",
-    "name": "Azurobe Cryst Saddle",
-    "category": "Key Items"
-  },
-  "Ghangler_Ignis_Saddle": {
-    "id": "Ghangler_Ignis_Saddle",
-    "name": "Ghangler Ignis Saddle",
-    "category": "Key Items"
-  },
-  "Whalaska_Ignis_Saddle": {
-    "id": "Whalaska_Ignis_Saddle",
-    "name": "Whalaska Ignis Saddle",
-    "category": "Key Items"
-  },
-  "Whalaska_Bounty_Token": {
-    "id": "Whalaska_Bounty_Token",
-    "name": "Whalaska Bounty Token",
-    "category": "Key Items"
-  },
-  "Whalaska_Ignis_Bounty_Token": {
-    "id": "Whalaska_Ignis_Bounty_Token",
-    "name": "Whalaska Ignis Bounty Token",
-    "category": "Key Items"
-  },
-  "Neptilius_Bounty_Token": {
-    "id": "Neptilius_Bounty_Token",
-    "name": "Neptilius Bounty Token",
-    "category": "Key Items"
-  },
-  "Dualith_Saddle": {
-    "id": "Dualith_Saddle",
-    "name": "Dualith Saddle",
-    "category": "Key Items"
-  },
-  "Dualith_Noct_Saddle": {
-    "id": "Dualith_Noct_Saddle",
-    "name": "Dualith Noct Saddle",
-    "category": "Key Items"
-  },
-  "Solmora_Saddle": {
-    "id": "Solmora_Saddle",
-    "name": "Solmora Saddle",
-    "category": "Key Items"
-  },
-  "Solmora_Lux_Saddle": {
-    "id": "Solmora_Lux_Saddle",
-    "name": "Solmora Lux Saddle",
-    "category": "Key Items"
+    "category": "Implant"
   },
   "Implant_Vanguard": {
     "id": "Implant_Vanguard",
     "name": "Implant: Vanguard",
-    "category": "Key Items"
+    "category": "Implant"
   },
   "Implant_Stronghold_Strategist": {
     "id": "Implant_Stronghold_Strategist",
     "name": "Implant: Stronghold Strategist",
-    "category": "Key Items"
+    "category": "Implant"
   },
   "Implant_Motivational_Leader": {
     "id": "Implant_Motivational_Leader",
     "name": "Implant: Motivational Leader",
-    "category": "Key Items"
+    "category": "Implant"
   },
   "Implant_Noble": {
     "id": "Implant_Noble",
     "name": "Implant: Noble",
-    "category": "Key Items"
+    "category": "Implant"
   },
   "Implant_Ace_Swimmer": {
     "id": "Implant_Ace_Swimmer",
     "name": "Implant: Ace Swimmer",
-    "category": "Key Items"
-  },
-  "Tanzee_Igniss_Assault_Rifle": {
-    "id": "Tanzee_Igniss_Assault_Rifle",
-    "name": "Tanzee Ignis's Assault Rifle",
-    "category": "Key Items"
-  },
-  "Hartalis_Saddle": {
-    "id": "Hartalis_Saddle",
-    "name": "Hartalis Saddle",
-    "category": "Key Items"
-  },
-  "Starryon_Primo_Saddle": {
-    "id": "Starryon_Primo_Saddle",
-    "name": "Starryon Primo Saddle",
-    "category": "Key Items"
-  },
-  "Aquatic_Construction_Kit": {
-    "id": "Aquatic_Construction_Kit",
-    "name": "Aquatic Construction Kit",
-    "category": "Key Items"
-  },
-  "Dandilords_Petal": {
-    "id": "Dandilords_Petal",
-    "name": "Dandilord's Petal",
-    "category": "Key Items"
-  },
-  "Silvances_Plume": {
-    "id": "Silvances_Plume",
-    "name": "Silvance's Plume",
-    "category": "Key Items"
-  },
-  "Modified_Pals_Contaminated_Core": {
-    "id": "Modified_Pals_Contaminated_Core",
-    "name": "Modified Pal's Contaminated Core",
-    "category": "Key Items"
-  },
-  "Extra_Weapon_Holster": {
-    "id": "Extra_Weapon_Holster",
-    "name": "Extra Weapon Holster",
-    "category": "Key Items"
-  },
-  "Lamball_Effigy": {
-    "id": "Lamball_Effigy",
-    "name": "Lamball Effigy",
-    "category": "Key Items"
-  },
-  "Pengullet_Effigy": {
-    "id": "Pengullet_Effigy",
-    "name": "Pengullet Effigy",
-    "category": "Key Items"
-  },
-  "Munchill_Effigy": {
-    "id": "Munchill_Effigy",
-    "name": "Munchill Effigy",
-    "category": "Key Items"
-  },
-  "Rooby_Effigy": {
-    "id": "Rooby_Effigy",
-    "name": "Rooby Effigy",
-    "category": "Key Items"
-  },
-  "Herbil_Effigy": {
-    "id": "Herbil_Effigy",
-    "name": "Herbil Effigy",
-    "category": "Key Items"
-  },
-  "Tanzee_Effigy": {
-    "id": "Tanzee_Effigy",
-    "name": "Tanzee Effigy",
-    "category": "Key Items"
-  },
-  "Depresso_Effigy": {
-    "id": "Depresso_Effigy",
-    "name": "Depresso Effigy",
-    "category": "Key Items"
-  },
-  "Cattiva_Effigy": {
-    "id": "Cattiva_Effigy",
-    "name": "Cattiva Effigy",
-    "category": "Key Items"
-  },
-  "Lunaris_Effigy": {
-    "id": "Lunaris_Effigy",
-    "name": "Lunaris Effigy",
-    "category": "Key Items"
-  },
-  "Relaxaurus_Effigy": {
-    "id": "Relaxaurus_Effigy",
-    "name": "Relaxaurus Effigy",
-    "category": "Key Items"
-  },
-  "Yakumo_Effigy": {
-    "id": "Yakumo_Effigy",
-    "name": "Yakumo Effigy",
-    "category": "Key Items"
-  },
-  "Eidrolon_Saddle": {
-    "id": "Eidrolon_Saddle",
-    "name": "Eidrolon Saddle",
-    "category": "Key Items"
-  },
-  "Eidrolon_Ignis_Saddle": {
-    "id": "Eidrolon_Ignis_Saddle",
-    "name": "Eidrolon Ignis Saddle",
-    "category": "Key Items"
-  },
-  "Dynamoff_Saddle": {
-    "id": "Dynamoff_Saddle",
-    "name": "Dynamoff Saddle",
-    "category": "Key Items"
-  },
-  "Beakon_Cryst_Saddle": {
-    "id": "Beakon_Cryst_Saddle",
-    "name": "Beakon Cryst Saddle",
-    "category": "Key Items"
-  },
-  "Celesdir_Noct_Saddle": {
-    "id": "Celesdir_Noct_Saddle",
-    "name": "Celesdir Noct Saddle",
-    "category": "Key Items"
-  },
-  "Key_Sphere_of_Envy": {
-    "id": "Key_Sphere_of_Envy",
-    "name": "Key Sphere of Envy",
-    "category": "Key Items"
-  },
-  "Key_Sphere_of_Pride": {
-    "id": "Key_Sphere_of_Pride",
-    "name": "Key Sphere of Pride",
-    "category": "Key Items"
-  },
-  "Key_Sphere_of_Greed": {
-    "id": "Key_Sphere_of_Greed",
-    "name": "Key Sphere of Greed",
-    "category": "Key Items"
-  },
-  "Key_Sphere_of_Sloth": {
-    "id": "Key_Sphere_of_Sloth",
-    "name": "Key Sphere of Sloth",
-    "category": "Key Items"
-  },
-  "Key_Sphere_of_Gluttony": {
-    "id": "Key_Sphere_of_Gluttony",
-    "name": "Key Sphere of Gluttony",
-    "category": "Key Items"
-  },
-  "Key_Sphere_of_Lust": {
-    "id": "Key_Sphere_of_Lust",
-    "name": "Key Sphere of Lust",
-    "category": "Key Items"
-  },
-  "Key_Sphere_of_Wrath": {
-    "id": "Key_Sphere_of_Wrath",
-    "name": "Key Sphere of Wrath",
-    "category": "Key Items"
-  },
-  "Key_Sphere_of_Original_Sin": {
-    "id": "Key_Sphere_of_Original_Sin",
-    "name": "Key Sphere of Original Sin",
-    "category": "Key Items"
-  },
-  "Marine_Echobone": {
-    "id": "Marine_Echobone",
-    "name": "Marine Echobone",
-    "category": "Key Items"
-  },
-  "Silent_Echobone": {
-    "id": "Silent_Echobone",
-    "name": "Silent Echobone",
-    "category": "Key Items"
-  },
-  "Seafoam_Echobone": {
-    "id": "Seafoam_Echobone",
-    "name": "Seafoam Echobone",
-    "category": "Key Items"
-  },
-  "Tidewind_Echobone": {
-    "id": "Tidewind_Echobone",
-    "name": "Tidewind Echobone",
-    "category": "Key Items"
-  },
-  "Echoing_Flute": {
-    "id": "Echoing_Flute",
-    "name": "Echoing Flute",
-    "category": "Key Items"
-  },
-  "Mimog_Effigy": {
-    "id": "Mimog_Effigy",
-    "name": "Mimog Effigy",
-    "category": "Key Items"
-  },
-  "Extra_Weapon_Holster_2": {
-    "id": "Extra_Weapon_Holster_2",
-    "name": "Extra Weapon Holster 2",
-    "category": "Key Items"
-  },
-  "Tetroise_Saddle": {
-    "id": "Tetroise_Saddle",
-    "name": "Tetroise Saddle",
-    "category": "Key Items"
-  },
-  "Tetroise_Primo_Saddle": {
-    "id": "Tetroise_Primo_Saddle",
-    "name": "Tetroise Primo Saddle",
-    "category": "Key Items"
-  },
-  "Moldron_Saddle": {
-    "id": "Moldron_Saddle",
-    "name": "Moldron Saddle",
-    "category": "Key Items"
-  },
-  "Moldron_Cryst_Saddle": {
-    "id": "Moldron_Cryst_Saddle",
-    "name": "Moldron Cryst Saddle",
-    "category": "Key Items"
-  },
-  "Univolt_Cryst_Saddle": {
-    "id": "Univolt_Cryst_Saddle",
-    "name": "Univolt Cryst Saddle",
-    "category": "Key Items"
-  },
-  "Rayhound_Cryst_Saddle": {
-    "id": "Rayhound_Cryst_Saddle",
-    "name": "Rayhound Cryst Saddle",
-    "category": "Key Items"
-  },
-  "Aegidron_Saddle": {
-    "id": "Aegidron_Saddle",
-    "name": "Aegidron Saddle",
-    "category": "Key Items"
-  },
-  "Bulldosu_Saddle": {
-    "id": "Bulldosu_Saddle",
-    "name": "Bulldosu Saddle",
-    "category": "Key Items"
-  },
-  "Polapup_Terra_Saddle": {
-    "id": "Polapup_Terra_Saddle",
-    "name": "Polapup Terra Saddle",
-    "category": "Key Items"
-  },
-  "Roujay_Saddle": {
-    "id": "Roujay_Saddle",
-    "name": "Roujay Saddle",
-    "category": "Key Items"
-  },
-  "Shaolong_Saddle": {
-    "id": "Shaolong_Saddle",
-    "name": "Shaolong Saddle",
-    "category": "Key Items"
-  },
-  "Ophydia_Saddle": {
-    "id": "Ophydia_Saddle",
-    "name": "Ophydia Saddle",
-    "category": "Key Items"
-  },
-  "Pyrin_Bounty_Token": {
-    "id": "Pyrin_Bounty_Token",
-    "name": "Pyrin Bounty Token",
-    "category": "Key Items"
-  },
-  "Tetroise_Bounty_Token": {
-    "id": "Tetroise_Bounty_Token",
-    "name": "Tetroise Bounty Token",
-    "category": "Key Items"
-  },
-  "Reptyro_Bounty_Token": {
-    "id": "Reptyro_Bounty_Token",
-    "name": "Reptyro Bounty Token",
-    "category": "Key Items"
-  },
-  "Renjishi_Bounty_Token": {
-    "id": "Renjishi_Bounty_Token",
-    "name": "Renjishi Bounty Token",
-    "category": "Key Items"
-  },
-  "Moldron_Cryst_Bounty_Token": {
-    "id": "Moldron_Cryst_Bounty_Token",
-    "name": "Moldron Cryst Bounty Token",
-    "category": "Key Items"
-  },
-  "Dualith_Bounty_Token": {
-    "id": "Dualith_Bounty_Token",
-    "name": "Dualith Bounty Token",
-    "category": "Key Items"
-  },
-  "Mycora_Bounty_Token": {
-    "id": "Mycora_Bounty_Token",
-    "name": "Mycora Bounty Token",
-    "category": "Key Items"
-  },
-  "Celesdir_Noct_Bounty_Token": {
-    "id": "Celesdir_Noct_Bounty_Token",
-    "name": "Celesdir Noct Bounty Token",
-    "category": "Key Items"
-  },
-  "Pierdon_Cryst_Bounty_Token": {
-    "id": "Pierdon_Cryst_Bounty_Token",
-    "name": "Pierdon Cryst Bounty Token",
-    "category": "Key Items"
-  },
-  "Ophydia_Bounty_Token": {
-    "id": "Ophydia_Bounty_Token",
-    "name": "Ophydia Bounty Token",
-    "category": "Key Items"
-  },
-  "Flaracle_Bounty_Token": {
-    "id": "Flaracle_Bounty_Token",
-    "name": "Flaracle Bounty Token",
-    "category": "Key Items"
-  },
-  "Dynamoff_Bounty_Token": {
-    "id": "Dynamoff_Bounty_Token",
-    "name": "Dynamoff Bounty Token",
-    "category": "Key Items"
-  },
-  "Slowatt_Bounty_Token": {
-    "id": "Slowatt_Bounty_Token",
-    "name": "Slowatt Bounty Token",
-    "category": "Key Items"
-  },
-  "Snock_Bounty_Token": {
-    "id": "Snock_Bounty_Token",
-    "name": "Snock Bounty Token",
-    "category": "Key Items"
-  },
-  "Eidrolon_Bounty_Token": {
-    "id": "Eidrolon_Bounty_Token",
-    "name": "Eidrolon Bounty Token",
-    "category": "Key Items"
-  },
-  "Lyleen_Bounty_Token": {
-    "id": "Lyleen_Bounty_Token",
-    "name": "Lyleen Bounty Token",
-    "category": "Key Items"
-  },
-  "Grizzbolt_Bounty_Token": {
-    "id": "Grizzbolt_Bounty_Token",
-    "name": "Grizzbolt Bounty Token",
-    "category": "Key Items"
-  },
-  "Dualith_Noct_Bounty_Token": {
-    "id": "Dualith_Noct_Bounty_Token",
-    "name": "Dualith Noct Bounty Token",
-    "category": "Key Items"
-  },
-  "Blazehowl_Bounty_Token": {
-    "id": "Blazehowl_Bounty_Token",
-    "name": "Blazehowl Bounty Token",
-    "category": "Key Items"
-  },
-  "Arsox_Bounty_Token": {
-    "id": "Arsox_Bounty_Token",
-    "name": "Arsox Bounty Token",
-    "category": "Key Items"
-  },
-  "Foxicle_Bounty_Token": {
-    "id": "Foxicle_Bounty_Token",
-    "name": "Foxicle Bounty Token",
-    "category": "Key Items"
-  },
-  "Wixen_Bounty_Token": {
-    "id": "Wixen_Bounty_Token",
-    "name": "Wixen Bounty Token",
-    "category": "Key Items"
-  },
-  "Tetroise_Primo_Bounty_Token": {
-    "id": "Tetroise_Primo_Bounty_Token",
-    "name": "Tetroise Primo Bounty Token",
-    "category": "Key Items"
-  },
-  "Wistella_Bounty_Token": {
-    "id": "Wistella_Bounty_Token",
-    "name": "Wistella Bounty Token",
-    "category": "Key Items"
-  },
-  "Prixter_Lux_Bounty_Token": {
-    "id": "Prixter_Lux_Bounty_Token",
-    "name": "Prixter Lux Bounty Token",
-    "category": "Key Items"
-  },
-  "Pierdon_Bounty_Token": {
-    "id": "Pierdon_Bounty_Token",
-    "name": "Pierdon Bounty Token",
-    "category": "Key Items"
-  },
-  "Moldron_Bounty_Token": {
-    "id": "Moldron_Bounty_Token",
-    "name": "Moldron Bounty Token",
-    "category": "Key Items"
-  },
-  "Needoll_Bounty_Token": {
-    "id": "Needoll_Bounty_Token",
-    "name": "Needoll Bounty Token",
-    "category": "Key Items"
-  },
-  "Aegidron_Bounty_Token": {
-    "id": "Aegidron_Bounty_Token",
-    "name": "Aegidron Bounty Token",
-    "category": "Key Items"
+    "category": "Implant"
   },
   "Implant_Wellness_Watcher": {
     "id": "Implant_Wellness_Watcher",
     "name": "Implant: Wellness Watcher",
-    "category": "Key Items"
+    "category": "Implant"
   },
   "Implant_Healing_Coach": {
     "id": "Implant_Healing_Coach",
     "name": "Implant: Healing Coach",
-    "category": "Key Items"
+    "category": "Implant"
   },
   "Implant_Reload_Master": {
     "id": "Implant_Reload_Master",
     "name": "Implant: Reload Master",
-    "category": "Key Items"
-  },
-  "Dragostrophes_Shotgun": {
-    "id": "Dragostrophes_Shotgun",
-    "name": "Dragostrophe's Shotgun",
-    "category": "Key Items"
-  },
-  "Boltmane_Saddle": {
-    "id": "Boltmane_Saddle",
-    "name": "Boltmane Saddle",
-    "category": "Key Items"
-  },
-  "en_texts_Power_Converter": {
-    "id": "en_texts_Power_Converter",
-    "name": "en_text's Power Converter",
-    "category": "Key Items"
-  },
-  "Digtoises_Headband": {
-    "id": "Digtoises_Headband",
-    "name": "Digtoise's Headband",
-    "category": "Key Items"
+    "category": "Implant"
   },
   "Implant_Mercy_Hit": {
     "id": "Implant_Mercy_Hit",
     "name": "Implant: Mercy Hit",
-    "category": "Key Items"
+    "category": "Implant"
   },
   "Implant_Insomnia": {
     "id": "Implant_Insomnia",
     "name": "Implant: Insomnia",
-    "category": "Key Items"
+    "category": "Implant"
   },
   "Implant_Philanthropist": {
     "id": "Implant_Philanthropist",
     "name": "Implant: Philanthropist",
-    "category": "Key Items"
+    "category": "Implant"
   },
   "Implant_Impatient": {
     "id": "Implant_Impatient",
     "name": "Implant: Impatient",
-    "category": "Key Items"
+    "category": "Implant"
   },
   "Implant_Fit_as_a_Fiddle": {
     "id": "Implant_Fit_as_a_Fiddle",
     "name": "Implant: Fit as a Fiddle",
-    "category": "Key Items"
+    "category": "Implant"
   },
   "Implant_Eternal_Engine": {
     "id": "Implant_Eternal_Engine",
     "name": "Implant: Eternal Engine",
-    "category": "Key Items"
+    "category": "Implant"
   },
   "Implant_Nimble": {
     "id": "Implant_Nimble",
     "name": "Implant: Nimble",
-    "category": "Key Items"
+    "category": "Implant"
   },
   "Implant_Swift": {
     "id": "Implant_Swift",
     "name": "Implant: Swift",
-    "category": "Key Items"
+    "category": "Implant"
   },
   "Implant_Dainty_Eater": {
     "id": "Implant_Dainty_Eater",
     "name": "Implant: Dainty Eater",
-    "category": "Key Items"
+    "category": "Implant"
   },
   "Implant_Diet_Lover": {
     "id": "Implant_Diet_Lover",
     "name": "Implant: Diet Lover",
-    "category": "Key Items"
+    "category": "Implant"
   },
   "Implant_Mastery_of_Fasting": {
     "id": "Implant_Mastery_of_Fasting",
     "name": "Implant: Mastery of Fasting",
-    "category": "Key Items"
+    "category": "Implant"
   },
   "Implant_Positive_Thinker": {
     "id": "Implant_Positive_Thinker",
     "name": "Implant: Positive Thinker",
-    "category": "Key Items"
+    "category": "Implant"
   },
   "Implant_Workaholic": {
     "id": "Implant_Workaholic",
     "name": "Implant: Workaholic",
-    "category": "Key Items"
+    "category": "Implant"
   },
   "Implant_Heart_of_the_Immovable_King": {
     "id": "Implant_Heart_of_the_Immovable_King",
     "name": "Implant: Heart of the Immovable King",
-    "category": "Key Items"
+    "category": "Implant"
   },
   "Implant_Brave": {
     "id": "Implant_Brave",
     "name": "Implant: Brave",
-    "category": "Key Items"
+    "category": "Implant"
   },
   "Implant_Ferocious": {
     "id": "Implant_Ferocious",
     "name": "Implant: Ferocious",
-    "category": "Key Items"
+    "category": "Implant"
   },
   "Implant_Demon_God": {
     "id": "Implant_Demon_God",
     "name": "Implant: Demon God",
-    "category": "Key Items"
+    "category": "Implant"
   },
   "Implant_Hard_Skin": {
     "id": "Implant_Hard_Skin",
     "name": "Implant: Hard Skin",
-    "category": "Key Items"
+    "category": "Implant"
   },
   "Implant_Diamond_Body": {
     "id": "Implant_Diamond_Body",
     "name": "Implant: Diamond Body",
-    "category": "Key Items"
+    "category": "Implant"
   },
   "Implant_Serious": {
     "id": "Implant_Serious",
     "name": "Implant: Serious",
-    "category": "Key Items"
+    "category": "Implant"
   },
   "Implant_Remarkable_Craftsmanship": {
     "id": "Implant_Remarkable_Craftsmanship",
     "name": "Implant: Remarkable Craftsmanship",
-    "category": "Key Items"
+    "category": "Implant"
   },
   "Implant_Mine_Foreman": {
     "id": "Implant_Mine_Foreman",
     "name": "Implant: Mine Foreman",
-    "category": "Key Items"
+    "category": "Implant"
   },
   "Implant_Logging_Foreman": {
     "id": "Implant_Logging_Foreman",
     "name": "Implant: Logging Foreman",
-    "category": "Key Items"
+    "category": "Implant"
   },
   "Implant_Fine_Furs": {
     "id": "Implant_Fine_Furs",
     "name": "Implant: Fine Furs",
-    "category": "Key Items"
+    "category": "Implant"
   },
   "Implant_Sleek_Stroke": {
     "id": "Implant_Sleek_Stroke",
     "name": "Implant: Sleek Stroke",
-    "category": "Key Items"
+    "category": "Implant"
   },
   "Implant_Work_Slave": {
     "id": "Implant_Work_Slave",
     "name": "Implant: Work Slave",
-    "category": "Key Items"
-  },
-  "Smokie_Crysts_Harness": {
-    "id": "Smokie_Crysts_Harness",
-    "name": "Smokie Cryst's Harness",
-    "category": "Key Items"
-  },
-  "Faded_Schematic": {
-    "id": "Faded_Schematic",
-    "name": "Faded Schematic",
-    "category": "Key Items"
+    "category": "Implant"
   },
   "Gold_Coin": {
     "id": "Gold_Coin",
@@ -5424,29 +3679,14 @@
     "name": "Animal Skin",
     "category": "Material"
   },
-  "AnimalSkin2": {
-    "id": "AnimalSkin2",
-    "name": "AnimalSkin2",
-    "category": "Material"
-  },
   "Scales": {
     "id": "Scales",
     "name": "Scales",
     "category": "Material"
   },
-  "Scales2": {
-    "id": "Scales2",
-    "name": "Scales2",
-    "category": "Material"
-  },
   "Claw": {
     "id": "Claw",
     "name": "Claw",
-    "category": "Material"
-  },
-  "Claws2": {
-    "id": "Claws2",
-    "name": "Claws2",
     "category": "Material"
   },
   "ElectronicCircuit": {
@@ -5457,11 +3697,6 @@
   "Fang": {
     "id": "Fang",
     "name": "Fang",
-    "category": "Material"
-  },
-  "Fang2": {
-    "id": "Fang2",
-    "name": "Fang2",
     "category": "Material"
   },
   "Flint": {
@@ -5477,11 +3712,6 @@
   "Kitsunebi_Fire": {
     "id": "Kitsunebi_Fire",
     "name": "Kitsunebi_Fire",
-    "category": "Material"
-  },
-  "Leather2": {
-    "id": "Leather2",
-    "name": "Leather2",
     "category": "Material"
   },
   "Mythical_Wooden_Board": {
@@ -5517,11 +3747,6 @@
   "Huge_Dung": {
     "id": "Huge_Dung",
     "name": "Huge Dung",
-    "category": "Material"
-  },
-  "PotatoSeedPotatoes": {
-    "id": "PotatoSeedPotatoes",
-    "name": "PotatoSeedPotatoes",
     "category": "Material"
   },
   "CashFang": {
@@ -5583,101 +3808,6 @@
     "id": "PAL_Growth_Stone_M",
     "name": "PAL_Growth_Stone_M",
     "category": "Material"
-  },
-  "Sign": {
-    "id": "Sign",
-    "name": "Sign",
-    "category": "Other"
-  },
-  "Wall-Mounted_Sign": {
-    "id": "Wall-Mounted_Sign",
-    "name": "Wall-Mounted Sign",
-    "category": "Other"
-  },
-  "Training_Dummy": {
-    "id": "Training_Dummy",
-    "name": "Training Dummy",
-    "category": "Other"
-  },
-  "Tombstone": {
-    "id": "Tombstone",
-    "name": "Tombstone",
-    "category": "Other"
-  },
-  "Large_Toolbox": {
-    "id": "Large_Toolbox",
-    "name": "Large Toolbox",
-    "category": "Other"
-  },
-  "Flame_Cauldron": {
-    "id": "Flame_Cauldron",
-    "name": "Flame Cauldron",
-    "category": "Other"
-  },
-  "Flea_Market_(Items)": {
-    "id": "Flea_Market_(Items)",
-    "name": "Flea Market (Items)",
-    "category": "Other"
-  },
-  "Flea_Market_(Pals)": {
-    "id": "Flea_Market_(Pals)",
-    "name": "Flea Market (Pals)",
-    "category": "Other"
-  },
-  "Water_Fountain": {
-    "id": "Water_Fountain",
-    "name": "Water Fountain",
-    "category": "Other"
-  },
-  "Flower_Bed": {
-    "id": "Flower_Bed",
-    "name": "Flower Bed",
-    "category": "Other"
-  },
-  "Silo": {
-    "id": "Silo",
-    "name": "Silo",
-    "category": "Other"
-  },
-  "Stump_and_Axe": {
-    "id": "Stump_and_Axe",
-    "name": "Stump and Axe",
-    "category": "Other"
-  },
-  "Pickaxe_and_Helmet": {
-    "id": "Pickaxe_and_Helmet",
-    "name": "Pickaxe and Helmet",
-    "category": "Other"
-  },
-  "Witch_Cauldron": {
-    "id": "Witch_Cauldron",
-    "name": "Witch Cauldron",
-    "category": "Other"
-  },
-  "Snowman": {
-    "id": "Snowman",
-    "name": "Snowman",
-    "category": "Other"
-  },
-  "Alpha_Wave_Generator": {
-    "id": "Alpha_Wave_Generator",
-    "name": "Alpha Wave Generator",
-    "category": "Other"
-  },
-  "Beta_Wave_Generator": {
-    "id": "Beta_Wave_Generator",
-    "name": "Beta Wave Generator",
-    "category": "Other"
-  },
-  "Electric_Pylon": {
-    "id": "Electric_Pylon",
-    "name": "Electric Pylon",
-    "category": "Other"
-  },
-  "WoodCreator": {
-    "id": "WoodCreator",
-    "name": "WoodCreator",
-    "category": "Other"
   },
   "Monarchs_Crown_Schematic_1": {
     "id": "Monarchs_Crown_Schematic_1",
@@ -8684,774 +6814,39 @@
     "name": "Blueprint_Otomo_PalConfidence_Increase_1",
     "category": "Schematic"
   },
-  "Pal_Sphere": {
-    "id": "Pal_Sphere",
-    "name": "Pal Sphere",
-    "category": "Sphere"
-  },
-  "Mega_Sphere": {
-    "id": "Mega_Sphere",
-    "name": "Mega Sphere",
-    "category": "Sphere"
-  },
-  "Giga_Sphere": {
-    "id": "Giga_Sphere",
-    "name": "Giga Sphere",
-    "category": "Sphere"
-  },
-  "Hyper_Sphere": {
-    "id": "Hyper_Sphere",
-    "name": "Hyper Sphere",
-    "category": "Sphere"
-  },
-  "Ultra_Sphere": {
-    "id": "Ultra_Sphere",
-    "name": "Ultra Sphere",
-    "category": "Sphere"
-  },
-  "Legendary_Sphere": {
-    "id": "Legendary_Sphere",
-    "name": "Legendary Sphere",
-    "category": "Sphere"
-  },
-  "Ultimate_Sphere": {
-    "id": "Ultimate_Sphere",
-    "name": "Ultimate Sphere",
-    "category": "Sphere"
-  },
-  "Exotic_Sphere": {
-    "id": "Exotic_Sphere",
-    "name": "Exotic Sphere",
-    "category": "Sphere"
-  },
-  "Sol_Sphere": {
-    "id": "Sol_Sphere",
-    "name": "Sol Sphere",
-    "category": "Sphere"
-  },
-  "Ancient_Sphere": {
-    "id": "Ancient_Sphere",
-    "name": "Ancient Sphere",
-    "category": "Sphere"
-  },
-  "Radar_Sphere": {
-    "id": "Radar_Sphere",
-    "name": "Radar Sphere",
-    "category": "Sphere"
-  },
-  "Heavy_Weight_Module": {
-    "id": "Heavy_Weight_Module",
-    "name": "Heavy Weight Module",
-    "category": "Sphere Module"
-  },
-  "Curve_Module": {
-    "id": "Curve_Module",
-    "name": "Curve Module",
-    "category": "Sphere Module"
-  },
-  "Sniper_Module": {
-    "id": "Sniper_Module",
-    "name": "Sniper Module",
-    "category": "Sphere Module"
-  },
-  "Slider_Module": {
-    "id": "Slider_Module",
-    "name": "Slider Module",
-    "category": "Sphere Module"
-  },
-  "Sniper_Module_II": {
-    "id": "Sniper_Module_II",
-    "name": "Sniper Module II",
-    "category": "Sphere Module"
-  },
-  "Homing_Module": {
-    "id": "Homing_Module",
-    "name": "Homing Module",
-    "category": "Sphere Module"
-  },
-  "Assault_Rifle": {
-    "id": "Assault_Rifle",
-    "name": "Assault Rifle",
-    "category": "Weapon"
-  },
-  "Stone_Axe": {
-    "id": "Stone_Axe",
-    "name": "Stone Axe",
-    "category": "Weapon"
-  },
-  "Metal_Axe": {
-    "id": "Metal_Axe",
-    "name": "Metal Axe",
-    "category": "Weapon"
-  },
-  "Refined_Metal_Axe": {
-    "id": "Refined_Metal_Axe",
-    "name": "Refined Metal Axe",
-    "category": "Weapon"
-  },
-  "Metal_Detector": {
-    "id": "Metal_Detector",
-    "name": "Metal Detector",
-    "category": "Weapon"
-  },
-  "Wooden_Club": {
-    "id": "Wooden_Club",
-    "name": "Wooden Club",
-    "category": "Weapon"
-  },
-  "Bat": {
-    "id": "Bat",
-    "name": "Bat",
-    "category": "Weapon"
-  },
-  "Meat_Cleaver": {
-    "id": "Meat_Cleaver",
-    "name": "Meat Cleaver",
-    "category": "Weapon"
-  },
-  "Stun_Baton": {
-    "id": "Stun_Baton",
-    "name": "Stun Baton",
-    "category": "Weapon"
-  },
-  "Crossbow": {
-    "id": "Crossbow",
-    "name": "Crossbow",
-    "category": "Weapon"
-  },
-  "Double-Barreled_Shotgun": {
-    "id": "Double-Barreled_Shotgun",
-    "name": "Double-Barreled Shotgun",
-    "category": "Weapon"
-  },
-  "Handgun": {
-    "id": "Handgun",
-    "name": "Handgun",
-    "category": "Weapon"
-  },
-  "Decal_Gun_1": {
-    "id": "Decal_Gun_1",
-    "name": "Decal Gun 1",
-    "category": "Weapon"
-  },
-  "Decal_Gun_2": {
-    "id": "Decal_Gun_2",
-    "name": "Decal Gun 2",
-    "category": "Weapon"
-  },
-  "Decal_Gun_3": {
-    "id": "Decal_Gun_3",
-    "name": "Decal Gun 3",
-    "category": "Weapon"
-  },
-  "Decal_Gun_4": {
-    "id": "Decal_Gun_4",
-    "name": "Decal Gun 4",
-    "category": "Weapon"
-  },
-  "Decal_Gun_5": {
-    "id": "Decal_Gun_5",
-    "name": "Decal Gun 5",
-    "category": "Weapon"
-  },
-  "Homing_Sphere_Launcher": {
-    "id": "Homing_Sphere_Launcher",
-    "name": "Homing Sphere Launcher",
-    "category": "Weapon"
-  },
-  "Laser_Rifle": {
-    "id": "Laser_Rifle",
-    "name": "Laser Rifle",
-    "category": "Weapon"
-  },
-  "Rocket_Launcher": {
-    "id": "Rocket_Launcher",
-    "name": "Rocket Launcher",
-    "category": "Weapon"
-  },
-  "Stone_Pickaxe": {
-    "id": "Stone_Pickaxe",
-    "name": "Stone Pickaxe",
-    "category": "Weapon"
-  },
-  "Metal_Pickaxe": {
-    "id": "Metal_Pickaxe",
-    "name": "Metal Pickaxe",
-    "category": "Weapon"
-  },
-  "Refined_Metal_Pickaxe": {
-    "id": "Refined_Metal_Pickaxe",
-    "name": "Refined Metal Pickaxe",
-    "category": "Weapon"
-  },
-  "Pump-Action_Shotgun": {
-    "id": "Pump-Action_Shotgun",
-    "name": "Pump-Action Shotgun",
-    "category": "Weapon"
-  },
-  "Single-Shot_Rifle": {
-    "id": "Single-Shot_Rifle",
-    "name": "Single-Shot Rifle",
-    "category": "Weapon"
-  },
-  "Scatter_Sphere_Launcher": {
-    "id": "Scatter_Sphere_Launcher",
-    "name": "Scatter Sphere Launcher",
-    "category": "Weapon"
-  },
-  "Single-Shot_Sphere_Launcher": {
-    "id": "Single-Shot_Sphere_Launcher",
-    "name": "Single-Shot Sphere Launcher",
-    "category": "Weapon"
-  },
-  "Sword": {
-    "id": "Sword",
-    "name": "Sword",
-    "category": "Weapon"
-  },
-  "Frag_Grenade": {
-    "id": "Frag_Grenade",
-    "name": "Frag Grenade",
-    "category": "Weapon"
-  },
-  "Incendiary_Grenade": {
-    "id": "Incendiary_Grenade",
-    "name": "Incendiary Grenade",
-    "category": "Weapon"
-  },
-  "Shock_Grenade": {
-    "id": "Shock_Grenade",
-    "name": "Shock Grenade",
-    "category": "Weapon"
-  },
-  "Ice_Grenade": {
-    "id": "Ice_Grenade",
-    "name": "Ice Grenade",
-    "category": "Weapon"
-  },
-  "Old_Bow": {
-    "id": "Old_Bow",
-    "name": "Old Bow",
-    "category": "Weapon"
-  },
-  "Poison_Bow": {
-    "id": "Poison_Bow",
-    "name": "Poison Bow",
-    "category": "Weapon"
-  },
-  "Poison_Arrow_Crossbow": {
-    "id": "Poison_Arrow_Crossbow",
-    "name": "Poison Arrow Crossbow",
-    "category": "Weapon"
-  },
-  "Fire_Arrow_Crossbow": {
-    "id": "Fire_Arrow_Crossbow",
-    "name": "Fire Arrow Crossbow",
-    "category": "Weapon"
-  },
-  "Three_Shot_Bow": {
-    "id": "Three_Shot_Bow",
-    "name": "Three Shot Bow",
-    "category": "Weapon"
-  },
-  "Hand-Held_Torch": {
-    "id": "Hand-Held_Torch",
-    "name": "Hand-Held Torch",
-    "category": "Weapon"
-  },
-  "Makeshift_Handgun": {
-    "id": "Makeshift_Handgun",
-    "name": "Makeshift Handgun",
-    "category": "Weapon"
-  },
-  "Stone_Spear": {
-    "id": "Stone_Spear",
-    "name": "Stone Spear",
-    "category": "Weapon"
-  },
-  "Metal_Spear": {
-    "id": "Metal_Spear",
-    "name": "Metal Spear",
-    "category": "Weapon"
-  },
-  "Refined_Metal_Spear": {
-    "id": "Refined_Metal_Spear",
-    "name": "Refined Metal Spear",
-    "category": "Weapon"
-  },
   "Elizabees_Staff": {
     "id": "Elizabees_Staff",
     "name": "Elizabee's Staff",
     "category": "Weapon"
   },
-  "Beegardes_Spear": {
-    "id": "Beegardes_Spear",
-    "name": "Beegarde's Spear",
-    "category": "Weapon"
-  },
-  "Lilys_Spear": {
-    "id": "Lilys_Spear",
-    "name": "Lily's Spear",
-    "category": "Weapon"
-  },
-  "Grappling_Gun": {
-    "id": "Grappling_Gun",
-    "name": "Grappling Gun",
-    "category": "Weapon"
-  },
-  "Mega_Grappling_Gun": {
-    "id": "Mega_Grappling_Gun",
-    "name": "Mega Grappling Gun",
-    "category": "Weapon"
-  },
-  "Giga_Grappling_Gun": {
-    "id": "Giga_Grappling_Gun",
-    "name": "Giga Grappling Gun",
-    "category": "Weapon"
-  },
-  "Hyper_Grappling_Gun": {
-    "id": "Hyper_Grappling_Gun",
-    "name": "Hyper Grappling Gun",
-    "category": "Weapon"
-  },
-  "Musket": {
-    "id": "Musket",
-    "name": "Musket",
-    "category": "Weapon"
-  },
-  "Gatling_Gun": {
-    "id": "Gatling_Gun",
-    "name": "Gatling Gun",
-    "category": "Weapon"
-  },
-  "Flamethrower": {
-    "id": "Flamethrower",
-    "name": "Flamethrower",
-    "category": "Weapon"
-  },
-  "Grenade_Launcher": {
-    "id": "Grenade_Launcher",
-    "name": "Grenade Launcher",
-    "category": "Weapon"
-  },
-  "Guided_Missile_Launcher": {
-    "id": "Guided_Missile_Launcher",
-    "name": "Guided Missile Launcher",
-    "category": "Weapon"
-  },
-  "Multi_Guided_Missile_Launcher": {
-    "id": "Multi_Guided_Missile_Launcher",
-    "name": "Multi Guided Missile Launcher",
-    "category": "Weapon"
-  },
-  "Laser_Gatling_Gun": {
-    "id": "Laser_Gatling_Gun",
-    "name": "Laser Gatling Gun",
-    "category": "Weapon"
-  },
-  "Frag_Grenade_Mk2": {
-    "id": "Frag_Grenade_Mk2",
-    "name": "Frag Grenade Mk2",
-    "category": "Weapon"
-  },
-  "Meteor_Launcher": {
-    "id": "Meteor_Launcher",
-    "name": "Meteor Launcher",
-    "category": "Weapon"
-  },
-  "Dark_Grenade": {
-    "id": "Dark_Grenade",
-    "name": "Dark Grenade",
-    "category": "Weapon"
-  },
-  "Dragon_Grenade": {
-    "id": "Dragon_Grenade",
-    "name": "Dragon Grenade",
-    "category": "Weapon"
-  },
-  "Ground_Grenade": {
-    "id": "Ground_Grenade",
-    "name": "Ground Grenade",
-    "category": "Weapon"
-  },
-  "Grass_Grenade": {
-    "id": "Grass_Grenade",
-    "name": "Grass Grenade",
-    "category": "Weapon"
-  },
-  "Water_Grenade": {
-    "id": "Water_Grenade",
-    "name": "Water Grenade",
-    "category": "Weapon"
-  },
-  "Katana": {
-    "id": "Katana",
-    "name": "Katana",
-    "category": "Weapon"
-  },
-  "Beam_Sword": {
-    "id": "Beam_Sword",
-    "name": "Beam Sword",
-    "category": "Weapon"
-  },
-  "Semi-Auto_Shotgun": {
-    "id": "Semi-Auto_Shotgun",
-    "name": "Semi-Auto Shotgun",
-    "category": "Weapon"
-  },
-  "Plasma_Cannon": {
-    "id": "Plasma_Cannon",
-    "name": "Plasma Cannon",
-    "category": "Weapon"
-  },
-  "Old_Revolver": {
-    "id": "Old_Revolver",
-    "name": "Old Revolver",
-    "category": "Weapon"
-  },
-  "Pal_Metal_Pickaxe": {
-    "id": "Pal_Metal_Pickaxe",
-    "name": "Pal Metal Pickaxe",
-    "category": "Weapon"
-  },
-  "Pal_Metal_Axe": {
-    "id": "Pal_Metal_Axe",
-    "name": "Pal Metal Axe",
-    "category": "Weapon"
-  },
-  "Makeshift_Assault_Rifle": {
-    "id": "Makeshift_Assault_Rifle",
-    "name": "Makeshift Assault Rifle",
-    "category": "Weapon"
-  },
-  "Semi-Auto_Rifle": {
-    "id": "Semi-Auto_Rifle",
-    "name": "Semi-Auto Rifle",
-    "category": "Weapon"
-  },
-  "Makeshift_SMG": {
-    "id": "Makeshift_SMG",
-    "name": "Makeshift SMG",
-    "category": "Weapon"
-  },
-  "SMG": {
-    "id": "SMG",
-    "name": "SMG",
-    "category": "Weapon"
-  },
-  "Makeshift_Shotgun": {
-    "id": "Makeshift_Shotgun",
-    "name": "Makeshift Shotgun",
-    "category": "Weapon"
-  },
-  "Compound_Bow": {
-    "id": "Compound_Bow",
-    "name": "Compound Bow",
-    "category": "Weapon"
-  },
-  "Advanced_Bow": {
-    "id": "Advanced_Bow",
-    "name": "Advanced Bow",
-    "category": "Weapon"
-  },
-  "Meowmere": {
-    "id": "Meowmere",
-    "name": "Meowmere",
-    "category": "Weapon"
-  },
-  "Charge_Rifle": {
-    "id": "Charge_Rifle",
-    "name": "Charge Rifle",
-    "category": "Weapon"
-  },
-  "Overheat_Rifle": {
-    "id": "Overheat_Rifle",
-    "name": "Overheat Rifle",
-    "category": "Weapon"
-  },
-  "Energy_Shotgun": {
-    "id": "Energy_Shotgun",
-    "name": "Energy Shotgun",
-    "category": "Weapon"
-  },
-  "Boost_Gun": {
-    "id": "Boost_Gun",
-    "name": "Boost Gun",
-    "category": "Weapon"
-  },
-  "Megaboost_Gun": {
-    "id": "Megaboost_Gun",
-    "name": "Megaboost Gun",
-    "category": "Weapon"
-  },
-  "Pal_Recovery_Grenade": {
-    "id": "Pal_Recovery_Grenade",
-    "name": "Pal Recovery Grenade",
-    "category": "Weapon"
-  },
-  "Terra_Blade": {
-    "id": "Terra_Blade",
-    "name": "Terra Blade",
-    "category": "Weapon"
-  },
-  "Terraprisma": {
-    "id": "Terraprisma",
-    "name": "Terraprisma",
-    "category": "Weapon"
-  },
-  "Vortex_Beater": {
-    "id": "Vortex_Beater",
-    "name": "Vortex Beater",
-    "category": "Weapon"
-  },
-  "Nightglow": {
-    "id": "Nightglow",
-    "name": "Nightglow",
-    "category": "Weapon"
-  },
-  "Excalibur": {
-    "id": "Excalibur",
-    "name": "Excalibur",
-    "category": "Weapon"
-  },
-  "Legendary_Meowmere": {
-    "id": "Legendary_Meowmere",
-    "name": "Legendary Meowmere",
-    "category": "Weapon"
-  },
-  "Beginner_Fishing_Rod_(Chillet)": {
-    "id": "Beginner_Fishing_Rod_(Chillet)",
-    "name": "Beginner Fishing Rod (Chillet)",
-    "category": "Weapon"
-  },
-  "Beginner_Fishing_Rod_(Gumoss)": {
-    "id": "Beginner_Fishing_Rod_(Gumoss)",
-    "name": "Beginner Fishing Rod (Gumoss)",
-    "category": "Weapon"
-  },
-  "Intermediate_Fishing_Rod_(Cattiva)": {
-    "id": "Intermediate_Fishing_Rod_(Cattiva)",
-    "name": "Intermediate Fishing Rod (Cattiva)",
-    "category": "Weapon"
-  },
-  "Intermediate_Fishing_Rod_(Croajiro)": {
-    "id": "Intermediate_Fishing_Rod_(Croajiro)",
-    "name": "Intermediate Fishing Rod (Croajiro)",
-    "category": "Weapon"
-  },
-  "Advanced_Fishing_Rod_(Pengullet)": {
-    "id": "Advanced_Fishing_Rod_(Pengullet)",
-    "name": "Advanced Fishing Rod (Pengullet)",
-    "category": "Weapon"
-  },
-  "Advanced_Fishing_Rod_(Depresso)": {
-    "id": "Advanced_Fishing_Rod_(Depresso)",
-    "name": "Advanced Fishing Rod (Depresso)",
-    "category": "Weapon"
-  },
-  "Ultra_Grappling_Gun": {
-    "id": "Ultra_Grappling_Gun",
-    "name": "Ultra Grappling Gun",
-    "category": "Weapon"
-  },
-  "Marksman_Revolver": {
-    "id": "Marksman_Revolver",
-    "name": "Marksman Revolver",
-    "category": "Weapon"
-  },
-  "Core_Eject_Shotgun": {
-    "id": "Core_Eject_Shotgun",
-    "name": "Core Eject Shotgun",
-    "category": "Weapon"
-  },
-  "Plasma_Multicutter": {
-    "id": "Plasma_Multicutter",
-    "name": "Plasma Multicutter",
-    "category": "Weapon"
-  },
-  "Mechanical_Bow": {
-    "id": "Mechanical_Bow",
-    "name": "Mechanical Bow",
-    "category": "Weapon"
-  },
-  "Combat_SMG": {
-    "id": "Combat_SMG",
-    "name": "Combat SMG",
-    "category": "Weapon"
-  },
-  "Prototype_Shotgun": {
-    "id": "Prototype_Shotgun",
-    "name": "Prototype Shotgun",
-    "category": "Weapon"
-  },
-  "Heavy_Assault_Rifle": {
-    "id": "Heavy_Assault_Rifle",
-    "name": "Heavy Assault Rifle",
-    "category": "Weapon"
-  },
-  "Tactical_Grenade_Launcher": {
-    "id": "Tactical_Grenade_Launcher",
-    "name": "Tactical Grenade Launcher",
-    "category": "Weapon"
-  },
-  "Laser_Sword": {
-    "id": "Laser_Sword",
-    "name": "Laser Sword",
-    "category": "Weapon"
-  },
-  "Beam_Scatter": {
-    "id": "Beam_Scatter",
-    "name": "Beam Scatter",
-    "category": "Weapon"
-  },
-  "Drone_Launcher": {
-    "id": "Drone_Launcher",
-    "name": "Drone Launcher",
-    "category": "Weapon"
-  },
-  "Plasma_Rifle": {
-    "id": "Plasma_Rifle",
-    "name": "Plasma Rifle",
-    "category": "Weapon"
-  },
-  "Beam_Launcher": {
-    "id": "Beam_Launcher",
-    "name": "Beam Launcher",
-    "category": "Weapon"
-  },
-  "Primitive_Sword": {
-    "id": "Primitive_Sword",
-    "name": "Primitive Sword",
-    "category": "Weapon"
-  },
-  "Metal_Bat": {
-    "id": "Metal_Bat",
-    "name": "Metal Bat",
-    "category": "Weapon"
-  },
-  "Enhanced_Lilys_Spear": {
-    "id": "Enhanced_Lilys_Spear",
-    "name": "Enhanced Lily's Spear",
-    "category": "Weapon"
-  },
-  "Axe4": {
-    "id": "Axe4",
-    "name": "Axe4",
-    "category": "Weapon"
-  },
-  "NPC_WEAPON": {
-    "id": "NPC_WEAPON",
-    "name": "NPC_WEAPON",
-    "category": "Weapon"
-  },
-  "CaptureRope": {
-    "id": "CaptureRope",
-    "name": "CaptureRope",
-    "category": "Weapon"
-  },
-  "Launcher_Meat": {
-    "id": "Launcher_Meat",
-    "name": "Launcher_Meat",
-    "category": "Weapon"
-  },
-  "PenguinLauncher": {
-    "id": "PenguinLauncher",
-    "name": "PenguinLauncher",
-    "category": "Weapon"
-  },
-  "Pickaxe_Tier_03": {
-    "id": "Pickaxe_Tier_03",
-    "name": "Pickaxe_Tier_03",
-    "category": "Weapon"
-  },
-  "SniperRifle_Default": {
-    "id": "SniperRifle_Default",
-    "name": "SniperRifle_Default",
-    "category": "Weapon"
-  },
-  "ThrowStone": {
-    "id": "ThrowStone",
-    "name": "ThrowStone",
-    "category": "Weapon"
-  },
-  "Fire_Bow": {
-    "id": "Fire_Bow",
-    "name": "Fire Bow",
-    "category": "Weapon"
-  },
-  "RecurveBow": {
-    "id": "RecurveBow",
-    "name": "RecurveBow",
-    "category": "Weapon"
-  },
-  "Five_Shot_Bow": {
-    "id": "Five_Shot_Bow",
-    "name": "Five Shot Bow",
-    "category": "Weapon"
-  },
-  "Fishing_Rod_Old": {
-    "id": "Fishing_Rod_Old",
-    "name": "Fishing Rod_Old",
-    "category": "Weapon"
-  },
-  "Fishing_Rod_Super": {
-    "id": "Fishing_Rod_Super",
-    "name": "Fishing Rod_Super",
-    "category": "Weapon"
-  },
-  "Fishing_Rod_Legendary": {
-    "id": "Fishing_Rod_Legendary",
-    "name": "Fishing Rod_Legendary",
-    "category": "Weapon"
-  },
-  "AirGrapplingGun": {
-    "id": "AirGrapplingGun",
-    "name": "AirGrapplingGun",
-    "category": "Weapon"
-  },
-  "PalDopingShot_3": {
-    "id": "PalDopingShot_3",
-    "name": "PalDopingShot_3",
-    "category": "Weapon"
-  },
-  "Ballistic_Shield": {
-    "id": "Ballistic_Shield",
-    "name": "Ballistic Shield",
-    "category": "Weapon"
-  },
-  "Fishing_Rod_Good": {
-    "id": "Fishing_Rod_Good",
-    "name": "Fishing Rod_Good",
-    "category": "Weapon"
-  },
   "Starfruit_Star1": {
     "id": "Starfruit_Star1",
-    "name": "Starfruit \u26061",
+    "name": "Starfruit ☆1",
     "category": "Consumable"
   },
   "Starfruit_Star2": {
     "id": "Starfruit_Star2",
-    "name": "Starfruit \u26062",
+    "name": "Starfruit ☆2",
     "category": "Consumable"
   },
   "Starfruit_Star3": {
     "id": "Starfruit_Star3",
-    "name": "Starfruit \u26063",
+    "name": "Starfruit ☆3",
     "category": "Consumable"
   },
   "Starfruit_Star4": {
     "id": "Starfruit_Star4",
-    "name": "Starfruit \u26064",
+    "name": "Starfruit ☆4",
     "category": "Consumable"
   },
   "Disposable_Implant_Demons_Hand": {
     "id": "Disposable_Implant_Demons_Hand",
-    "name": "Disposable Implant: Demon\u2019s Hand",
-    "category": "Consumable"
+    "name": "Disposable Implant: Demon’s Hand",
+    "category": "Implant"
   },
   "Chikipi_Saute": {
     "id": "Chikipi_Saute",
-    "name": "Chikipi Saut\u00e9",
-    "category": "Ingredient"
+    "name": "Chikipi Sauté",
+    "category": "Food"
   }
 }
