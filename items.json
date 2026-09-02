@@ -1,0 +1,66 @@
+{
+  "Wool": {
+    "id": "Wool",
+    "name": "Wool"
+  },
+  "Lamball_Mutton": {
+    "id": "Lamball_Mutton",
+    "name": "Lamball Mutton"
+  },
+  "Ancient_Civilization_Parts": {
+    "id": "Ancient_Civilization_Parts",
+    "name": "Ancient Civilization Parts"
+  },
+  "Precious_Pelt": {
+    "id": "Precious_Pelt",
+    "name": "Precious Pelt"
+  },
+  "Red_Berries": {
+    "id": "Red_Berries",
+    "name": "Red Berries"
+  },
+  "Precious_Claw": {
+    "id": "Precious_Claw",
+    "name": "Precious Claw"
+  },
+  "Egg": {
+    "id": "Egg",
+    "name": "Egg"
+  },
+  "Chikipi_Poultry": {
+    "id": "Chikipi_Poultry",
+    "name": "Chikipi Poultry"
+  },
+  "Precious_Plume": {
+    "id": "Precious_Plume",
+    "name": "Precious Plume"
+  },
+  "Wheat_Seeds": {
+    "id": "Wheat_Seeds",
+    "name": "Wheat Seeds"
+  },
+  "Low_Grade_Medical_Supplies": {
+    "id": "Low_Grade_Medical_Supplies",
+    "name": "Low Grade Medical Supplies"
+  },
+  "Leather": {
+    "id": "Leather",
+    "name": "Leather"
+  },
+  "Aquatic_Pal_Fluids": {
+    "id": "Aquatic_Pal_Fluids",
+    "name": "Aquatic Pal Fluids"
+  },
+  "Bone": {
+    "id": "Bone",
+    "name": "Bone"
+  },
+  "Cloth": {
+    "id": "Cloth",
+    "name": "Cloth"
+  },
+  "Precious_Entrails": {
+    "id": "Precious_Entrails",
+    "name": "Precious Entrails"
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "lamball": {
+    "normal": [
+      {
+        "item": "Wool",
+        "qtyMin": 1,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Lamball_Mutton",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ]
+  },
+  "cattiva": {
+    "normal": [
+      {
+        "item": "Red_Berries",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Claw",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ]
+  },
+  "chikipi": {
+    "normal": [
+      {
+        "item": "Egg",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      },
+      {
+        "item": "Chikipi_Poultry",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Plume",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ]
+  },
+  "lifmunk": {
+    "normal": [
+      {
+        "item": "Wheat_Seeds",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      },
+      {
+        "item": "Low_Grade_Medical_Supplies",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 20
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ]
+  },
+  "fuack": {
+    "normal": [
+      {
+        "item": "Leather",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      },
+      {
+        "item": "Aquatic_Pal_Fluids",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ]
+  },
+  "vixy": {
+    "normal": [
+      {
+        "item": "Leather",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      },
+      {
+        "item": "Bone",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ]
+  },
+  "celaray": {
+    "normal": [
+      {
+        "item": "Aquatic_Pal_Fluids",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Plume",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ]
+  },
+  "cremis": {
+    "normal": [
+      {
+        "item": "Wool",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ]
+  },
+  "croajiro": {
+    "normal": [
+      {
+        "item": "Aquatic_Pal_Fluids",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Cloth",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 25
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "herbil": {
+    "normal": [
+      {
+        "item": "Leather",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      },
+      {
+        "item": "Wheat_Seeds",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  }
+}
