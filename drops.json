@@ -143,6 +143,42 @@
       }
     ]
   },
+  "fuack-ignis": {
+    "normal": [
+      {
+        "item": "Leather",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      },
+      {
+        "item": "Aquatic_Pal_Fluids",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      },
+      {
+        "item": "Flame_Organ",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 50
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
   "vixy": {
     "normal": [
       {
@@ -193,6 +229,30 @@
         "item": "Precious_Plume",
         "qtyMin": 1,
         "qtyMax": 2,
+        "probability": 100
+      }
+    ]
+  },
+  "celaray-lux": {
+    "normal": [
+      {
+        "item": "Aquatic_Pal_Fluids",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Plume",
+        "qtyMin": 2,
+        "qtyMax": 3,
         "probability": 100
       }
     ]
@@ -251,6 +311,42 @@
       }
     ]
   },
+  "croajiro-noct": {
+    "normal": [
+      {
+        "item": "Aquatic_Pal_Fluids",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Cloth",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 25
+      },
+      {
+        "item": "Venom_Gland",
+        "qtyMin": 2,
+        "qtyMax": 4,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 3,
+        "qtyMax": 4,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
   "herbil": {
     "normal": [
       {
@@ -275,6 +371,8502 @@
       },
       {
         "item": "Precious_Pelt",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "teafant": {
+    "normal": [
+      {
+        "item": "Aquatic_Pal_Fluids",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ]
+  },
+  "gumoss": {
+    "normal": [
+      {
+        "item": "Berry_Seeds",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      },
+      {
+        "item": "Gumoss_Leaf",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 50
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 4,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 2,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ]
+  },
+  "pupperai": {
+    "normal": [
+      {
+        "item": "Bone",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "clovee": {
+    "normal": [
+      {
+        "item": "Berry_Seeds",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "jolthog": {
+    "normal": [
+      {
+        "item": "Electric_Organ",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Claw",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ]
+  },
+  "jolthog-cryst": {
+    "normal": [
+      {
+        "item": "Ice_Organ",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Claw",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ]
+  },
+  "depresso": {
+    "normal": [
+      {
+        "item": "Venom_Gland",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ]
+  },
+  "pengullet": {
+    "normal": [
+      {
+        "item": "Ice_Organ",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Aquatic_Pal_Fluids",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ]
+  },
+  "pengullet-lux": {
+    "normal": [
+      {
+        "item": "Electric_Organ",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Aquatic_Pal_Fluids",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "penking": {
+    "normal": [
+      {
+        "item": "Ice_Organ",
+        "qtyMin": 1,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Penking_Plume",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 50
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 3,
+        "qtyMax": 4,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 3,
+        "qtyMax": 4,
+        "probability": 100
+      },
+      {
+        "item": "Feathered_Hair_Band_Schematic_4",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 3
+      }
+    ]
+  },
+  "penking-lux": {
+    "normal": [
+      {
+        "item": "Electric_Organ",
+        "qtyMin": 1,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Penking_Plume",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 50
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "hoocrates": {
+    "normal": [
+      {
+        "item": "Fiber",
+        "qtyMin": 5,
+        "qtyMax": 10,
+        "probability": 100
+      },
+      {
+        "item": "Advanced_Technical_Manual",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 1
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 1,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Advanced_Technical_Manual",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 1
+      },
+      {
+        "item": "Precious_Plume",
+        "qtyMin": 1,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "melpaca": {
+    "normal": [
+      {
+        "item": "Wool",
+        "qtyMin": 2,
+        "qtyMax": 5,
+        "probability": 100
+      },
+      {
+        "item": "Leather",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ]
+  },
+  "kingpaca": {
+    "normal": [
+      {
+        "item": "Wool",
+        "qtyMin": 5,
+        "qtyMax": 5,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 3,
+        "qtyMax": 5,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 3,
+        "qtyMax": 5,
+        "probability": 100
+      },
+      {
+        "item": "Metal_Armor_Schematic_4",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 3
+      }
+    ]
+  },
+  "kingpaca-cryst": {
+    "normal": [
+      {
+        "item": "Wool",
+        "qtyMin": 5,
+        "qtyMax": 5,
+        "probability": 100
+      },
+      {
+        "item": "Ice_Organ",
+        "qtyMin": 3,
+        "qtyMax": 6,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 5,
+        "qtyMax": 7,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 5,
+        "qtyMax": 7,
+        "probability": 100
+      }
+    ]
+  },
+  "daedream": {
+    "normal": [
+      {
+        "item": "Venom_Gland",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      },
+      {
+        "item": "Small_Pal_Soul",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 1
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 1,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 1,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "tanzee": {
+    "normal": [
+      {
+        "item": "Mushroom",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Claw",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ]
+  },
+  "tanzee-ignis": {
+    "normal": [
+      {
+        "item": "Mushroom",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      },
+      {
+        "item": "Flame_Organ",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "nox": {
+    "normal": [
+      {
+        "item": "Leather",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      },
+      {
+        "item": "Small_Pal_Soul",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 40
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "flambelle": {
+    "normal": [
+      {
+        "item": "Flame_Organ",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "High_Quality_Pal_Oil",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 1,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 1,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "rooby": {
+    "normal": [
+      {
+        "item": "Flame_Organ",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Leather",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 1,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 1,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "mau": {
+    "normal": [
+      {
+        "item": "Gold_Coin",
+        "qtyMin": 100,
+        "qtyMax": 200,
+        "probability": 50
+      },
+      {
+        "item": "Leather",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Claw",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ]
+  },
+  "mau-cryst": {
+    "normal": [
+      {
+        "item": "Ice_Organ",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Sapphire",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 1
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Claw",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "rushoar": {
+    "normal": [
+      {
+        "item": "Rushoar_Pork",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Leather",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      },
+      {
+        "item": "Bone",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Claw",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ]
+  },
+  "foxparks": {
+    "normal": [
+      {
+        "item": "Leather",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      },
+      {
+        "item": "Flame_Organ",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ]
+  },
+  "foxparks-cryst": {
+    "normal": [
+      {
+        "item": "Leather",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Ice_Organ",
+        "qtyMin": 1,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 3,
+        "qtyMax": 4,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "killamari": {
+    "normal": [
+      {
+        "item": "Venom_Gland",
+        "qtyMin": 2,
+        "qtyMax": 4,
+        "probability": 100
+      },
+      {
+        "item": "Killamari_Tentacle",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 50
+      },
+      {
+        "item": "Aquatic_Pal_Fluids",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ]
+  },
+  "killamari-primo": {
+    "normal": [
+      {
+        "item": "Aquatic_Pal_Fluids",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Killamari_Tentacle",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 50
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "fuddler": {
+    "normal": [
+      {
+        "item": "Leather",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Claw",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ]
+  },
+  "eikthyrdeer": {
+    "normal": [
+      {
+        "item": "Eikthyrdeer_Venison",
+        "qtyMin": 2,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Leather",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Horn",
+        "qtyMin": 2,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ]
+  },
+  "eikthyrdeer-terra": {
+    "normal": [
+      {
+        "item": "Eikthyrdeer_Venison",
+        "qtyMin": 2,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Leather",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Horn",
+        "qtyMin": 2,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ]
+  },
+  "direhowl": {
+    "normal": [
+      {
+        "item": "Leather",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Ruby",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 3
+      },
+      {
+        "item": "Gold_Coin",
+        "qtyMin": 10,
+        "qtyMax": 20,
+        "probability": 3
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Ruby",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 3
+      },
+      {
+        "item": "Precious_Claw",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ]
+  },
+  "caprity": {
+    "normal": [
+      {
+        "item": "Caprity_Meat",
+        "qtyMin": 2,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Red_Berries",
+        "qtyMin": 2,
+        "qtyMax": 4,
+        "probability": 100
+      },
+      {
+        "item": "Horn",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ]
+  },
+  "caprity-noct": {
+    "normal": [
+      {
+        "item": "Caprity_Meat",
+        "qtyMin": 2,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Red_Berries",
+        "qtyMin": 2,
+        "qtyMax": 4,
+        "probability": 100
+      },
+      {
+        "item": "Horn",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Venom_Gland",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 3,
+        "qtyMax": 4,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "swee": {
+    "normal": [
+      {
+        "item": "Wool",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      },
+      {
+        "item": "Swee_Hair",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 50
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 5,
+        "qtyMax": 7,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 2,
+        "qtyMax": 4,
+        "probability": 100
+      }
+    ]
+  },
+  "sweepa": {
+    "normal": [
+      {
+        "item": "Wool",
+        "qtyMin": 3,
+        "qtyMax": 5,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 4,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 5,
+        "qtyMax": 7,
+        "probability": 100
+      }
+    ]
+  },
+  "turtacle": {
+    "normal": [
+      {
+        "item": "Aquatic_Pal_Fluids",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Bone",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ]
+  },
+  "turtacle-terra": {
+    "normal": [
+      {
+        "item": "Aquatic_Pal_Fluids",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Bone",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "hangyu": {
+    "normal": [
+      {
+        "item": "Fiber",
+        "qtyMin": 5,
+        "qtyMax": 10,
+        "probability": 100
+      },
+      {
+        "item": "Wheat_Seeds",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "hangyu-cryst": {
+    "normal": [
+      {
+        "item": "Fiber",
+        "qtyMin": 5,
+        "qtyMax": 10,
+        "probability": 100
+      },
+      {
+        "item": "Ice_Organ",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "woolipop": {
+    "normal": [
+      {
+        "item": "Cotton_Candy",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "High_Quality_Pal_Oil",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ]
+  },
+  "woolipop-terra": {
+    "normal": [
+      {
+        "item": "Caramel_Cotton_Candy",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Wool",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "mozzarina": {
+    "normal": [
+      {
+        "item": "Mozzarina_Meat",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Milk",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ]
+  },
+  "azurobe": {
+    "normal": [
+      {
+        "item": "Cloth",
+        "qtyMin": 1,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Aquatic_Pal_Fluids",
+        "qtyMin": 2,
+        "qtyMax": 4,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 5,
+        "qtyMax": 6,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Dragon_Stone",
+        "qtyMin": 5,
+        "qtyMax": 6,
+        "probability": 100
+      },
+      {
+        "item": "Semi-Auto_Rifle_Schematic_4",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 3
+      }
+    ]
+  },
+  "azurobe-cryst": {
+    "normal": [
+      {
+        "item": "Cloth",
+        "qtyMin": 1,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Aquatic_Pal_Fluids",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Ice_Organ",
+        "qtyMin": 1,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 5,
+        "qtyMax": 6,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Dragon_Stone",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "sparkit": {
+    "normal": [
+      {
+        "item": "Electric_Organ",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Claw",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ]
+  },
+  "kelpsea": {
+    "normal": [
+      {
+        "item": "Raw_Kelpsea",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      },
+      {
+        "item": "Aquatic_Pal_Fluids",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ]
+  },
+  "kelpsea-ignis": {
+    "normal": [
+      {
+        "item": "Raw_Kelpsea",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      },
+      {
+        "item": "Flame_Organ",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ]
+  },
+  "ribbuny": {
+    "normal": [
+      {
+        "item": "Leather",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      },
+      {
+        "item": "Beautiful_Flower",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 5
+      },
+      {
+        "item": "Ribbuny_Ribbon",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      },
+      {
+        "item": "Berry_Seeds",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ]
+  },
+  "ribbuny-botan": {
+    "normal": [
+      {
+        "item": "Leather",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      },
+      {
+        "item": "Ribbuny_Ribbon",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 50
+      },
+      {
+        "item": "Carrot_Seeds",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      },
+      {
+        "item": "Carrot",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 4,
+        "qtyMax": 6,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "jelliette": {
+    "normal": [
+      {
+        "item": "Aquatic_Pal_Fluids",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Jelliette_Bell_Flesh",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "jellroy": {
+    "normal": [
+      {
+        "item": "Aquatic_Pal_Fluids",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Jellroy_Bell_Flesh",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "amione": {
+    "normal": [
+      {
+        "item": "Aquatic_Pal_Fluids",
+        "qtyMin": 2,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "gloopie": {
+    "normal": [
+      {
+        "item": "Aquatic_Pal_Fluids",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Gloopie_Tentacle",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "gloopie-primo": {
+    "normal": [
+      {
+        "item": "Aquatic_Pal_Fluids",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Gloopie_Tentacle",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "galeclaw": {
+    "normal": [
+      {
+        "item": "Galeclaw_Poultry",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      },
+      {
+        "item": "Leather",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 4,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Plume",
+        "qtyMin": 2,
+        "qtyMax": 4,
+        "probability": 100
+      }
+    ]
+  },
+  "wispaw": {
+    "normal": [
+      {
+        "item": "Small_Pal_Soul",
+        "qtyMin": 2,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Leather",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "nitewing": {
+    "normal": [
+      {
+        "item": "Leather",
+        "qtyMin": 1,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 3,
+        "qtyMax": 4,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Plume",
+        "qtyMin": 3,
+        "qtyMax": 4,
+        "probability": 100
+      }
+    ]
+  },
+  "tombat": {
+    "normal": [
+      {
+        "item": "Leather",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Small_Pal_Soul",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 1
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Claw",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ]
+  },
+  "tocotoco": {
+    "normal": [
+      {
+        "item": "Gunpowder",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      },
+      {
+        "item": "Tocotoco_Feather",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 50
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Plume",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ]
+  },
+  "univolt": {
+    "normal": [
+      {
+        "item": "Leather",
+        "qtyMin": 2,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Electric_Organ",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      },
+      {
+        "item": "Horn",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 50
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 4,
+        "qtyMax": 6,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Claw",
+        "qtyMin": 4,
+        "qtyMax": 6,
+        "probability": 100
+      }
+    ]
+  },
+  "univolt-cryst": {
+    "normal": [
+      {
+        "item": "Leather",
+        "qtyMin": 2,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Horn",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 50
+      },
+      {
+        "item": "Ice_Organ",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 4,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "gobfin": {
+    "normal": [
+      {
+        "item": "Aquatic_Pal_Fluids",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 4,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Claw",
+        "qtyMin": 2,
+        "qtyMax": 4,
+        "probability": 100
+      }
+    ]
+  },
+  "gobfin-ignis": {
+    "normal": [
+      {
+        "item": "Flame_Organ",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 4,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Claw",
+        "qtyMin": 2,
+        "qtyMax": 4,
+        "probability": 100
+      }
+    ]
+  },
+  "loupmoon": {
+    "normal": [
+      {
+        "item": "Bone",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 1,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Claw",
+        "qtyMin": 1,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "loupmoon-cryst": {
+    "normal": [
+      {
+        "item": "Bone",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 7,
+        "qtyMax": 8,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Claw",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "cawgnito": {
+    "normal": [
+      {
+        "item": "Bone",
+        "qtyMin": 2,
+        "qtyMax": 4,
+        "probability": 100
+      },
+      {
+        "item": "Venom_Gland",
+        "qtyMin": 2,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Small_Pal_Soul",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 1
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Plume",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ]
+  },
+  "arsox": {
+    "normal": [
+      {
+        "item": "Horn",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      },
+      {
+        "item": "Flame_Organ",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 3,
+        "qtyMax": 4,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 3,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "muffly": {
+    "normal": [
+      {
+        "item": "Ice_Organ",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Plume",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "bristla": {
+    "normal": [
+      {
+        "item": "Tomato_Seeds",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Beautiful_Flower",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 50
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 4,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 2,
+        "qtyMax": 4,
+        "probability": 100
+      }
+    ]
+  },
+  "cinnamoth": {
+    "normal": [
+      {
+        "item": "Honey",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      },
+      {
+        "item": "Lettuce_Seeds",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 75
+      },
+      {
+        "item": "Tomato_Seeds",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 75
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 4,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Plume",
+        "qtyMin": 2,
+        "qtyMax": 4,
+        "probability": 100
+      }
+    ]
+  },
+  "puffolt": {
+    "normal": [
+      {
+        "item": "Electric_Organ",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "elphidran": {
+    "normal": [
+      {
+        "item": "High_Quality_Pal_Oil",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 4,
+        "qtyMax": 5,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Plume",
+        "qtyMin": 4,
+        "qtyMax": 5,
+        "probability": 100
+      }
+    ]
+  },
+  "elphidran-aqua": {
+    "normal": [
+      {
+        "item": "High_Quality_Pal_Oil",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 4,
+        "qtyMax": 5,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Plume",
+        "qtyMin": 4,
+        "qtyMax": 5,
+        "probability": 100
+      }
+    ]
+  },
+  "vanwyrm": {
+    "normal": [
+      {
+        "item": "Bone",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Ruby",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 1
+      },
+      {
+        "item": "Gold_Coin",
+        "qtyMin": 10,
+        "qtyMax": 40,
+        "probability": 10
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 4,
+        "qtyMax": 6,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Plume",
+        "qtyMin": 4,
+        "qtyMax": 6,
+        "probability": 100
+      }
+    ]
+  },
+  "vanwyrm-cryst": {
+    "normal": [
+      {
+        "item": "Bone",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Ice_Organ",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Sapphire",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 2
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 5,
+        "qtyMax": 7,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Plume",
+        "qtyMin": 5,
+        "qtyMax": 7,
+        "probability": 100
+      }
+    ]
+  },
+  "felbat": {
+    "normal": [
+      {
+        "item": "Cloth",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Small_Pal_Soul",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 3
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 1,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 1,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "vaelet": {
+    "normal": [
+      {
+        "item": "Low_Grade_Medical_Supplies",
+        "qtyMin": 2,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Tomato_Seeds",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 50
+      },
+      {
+        "item": "Onion_Seeds",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 50
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 4,
+        "qtyMax": 5,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 4,
+        "qtyMax": 5,
+        "probability": 100
+      },
+      {
+        "item": "Handgun_Schematic_4",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 3
+      }
+    ]
+  },
+  "beegarde": {
+    "normal": [
+      {
+        "item": "Honey",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 4,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Plume",
+        "qtyMin": 2,
+        "qtyMax": 4,
+        "probability": 100
+      }
+    ]
+  },
+  "elizabee": {
+    "normal": [
+      {
+        "item": "Honey",
+        "qtyMin": 5,
+        "qtyMax": 5,
+        "probability": 100
+      },
+      {
+        "item": "Elizabees_Staff",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 3
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 5,
+        "qtyMax": 6,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Plume",
+        "qtyMin": 5,
+        "qtyMax": 6,
+        "probability": 100
+      },
+      {
+        "item": "Double-Barreled_Shotgun_Schematic_4",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 3
+      }
+    ]
+  },
+  "lovander": {
+    "normal": [
+      {
+        "item": "Mushroom",
+        "qtyMin": 2,
+        "qtyMax": 4,
+        "probability": 100
+      },
+      {
+        "item": "Cake",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 1
+      },
+      {
+        "item": "Suspicious_Juice",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 1
+      },
+      {
+        "item": "Strange_Juice",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 1
+      },
+      {
+        "item": "Memory_Wiping_Medicine",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 1
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 4,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 2,
+        "qtyMax": 4,
+        "probability": 100
+      }
+    ]
+  },
+  "grintale": {
+    "normal": [
+      {
+        "item": "High_Quality_Pal_Oil",
+        "qtyMin": 1,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 3,
+        "qtyMax": 4,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 3,
+        "qtyMax": 4,
+        "probability": 100
+      }
+    ]
+  },
+  "tarantriss": {
+    "normal": [
+      {
+        "item": "Fiber",
+        "qtyMin": 2,
+        "qtyMax": 5,
+        "probability": 100
+      },
+      {
+        "item": "Venom_Gland",
+        "qtyMin": 2,
+        "qtyMax": 5,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 4,
+        "qtyMax": 6,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "polapup": {
+    "normal": [
+      {
+        "item": "Ice_Organ",
+        "qtyMin": 1,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "polapup-terra": {
+    "normal": [
+      {
+        "item": "Leather",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Aquatic_Pal_Fluids",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "leezpunk": {
+    "normal": [
+      {
+        "item": "Copper_Key",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      },
+      {
+        "item": "Silver_Key",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 1
+      },
+      {
+        "item": "Leezpunk_Crest",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 50
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Silver_Key",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 2
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ]
+  },
+  "leezpunk-ignis": {
+    "normal": [
+      {
+        "item": "Flame_Organ",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Silver_Key",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 2
+      },
+      {
+        "item": "Leezpunk_Crest",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 50
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Silver_Key",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 2
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ]
+  },
+  "gorirat": {
+    "normal": [
+      {
+        "item": "Leather",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Bone",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 4,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Claw",
+        "qtyMin": 2,
+        "qtyMax": 4,
+        "probability": 100
+      }
+    ]
+  },
+  "gorirat-terra": {
+    "normal": [
+      {
+        "item": "Ore",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Bone",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Claw",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "surfent": {
+    "normal": [
+      {
+        "item": "Aquatic_Pal_Fluids",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ]
+  },
+  "surfent-terra": {
+    "normal": [
+      {
+        "item": "Aquatic_Pal_Fluids",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Ore",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Ore",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "robinquill": {
+    "normal": [
+      {
+        "item": "Potato_Seeds",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Arrow",
+        "qtyMin": 2,
+        "qtyMax": 4,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 4,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 2,
+        "qtyMax": 4,
+        "probability": 100
+      }
+    ]
+  },
+  "robinquill-terra": {
+    "normal": [
+      {
+        "item": "Potato_Seeds",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Arrow",
+        "qtyMin": 2,
+        "qtyMax": 4,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 4,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 2,
+        "qtyMax": 4,
+        "probability": 100
+      }
+    ]
+  },
+  "flopie": {
+    "normal": [
+      {
+        "item": "Low_Grade_Medical_Supplies",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 20
+      },
+      {
+        "item": "Lettuce_Seeds",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 4,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 1,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "wixen": {
+    "normal": [
+      {
+        "item": "Flame_Organ",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Advanced_Technical_Manual",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 1
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 4,
+        "qtyMax": 5,
+        "probability": 100
+      },
+      {
+        "item": "Advanced_Technical_Manual",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 1
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 4,
+        "qtyMax": 5,
+        "probability": 100
+      }
+    ]
+  },
+  "wixen-noct": {
+    "normal": [
+      {
+        "item": "Medium_Pal_Soul",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Advanced_Technical_Manual",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 1
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 4,
+        "qtyMax": 5,
+        "probability": 100
+      },
+      {
+        "item": "Advanced_Technical_Manual",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 1
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "katress": {
+    "normal": [
+      {
+        "item": "Leather",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Katress_Hair",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 50
+      },
+      {
+        "item": "Advanced_Technical_Manual",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 1
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 4,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 2,
+        "qtyMax": 4,
+        "probability": 100
+      }
+    ]
+  },
+  "katress-ignis": {
+    "normal": [
+      {
+        "item": "Flame_Organ",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Katress_Hair",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 50
+      },
+      {
+        "item": "Advanced_Technical_Manual",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 1
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Advanced_Technical_Manual",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 1
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ]
+  },
+  "helzephyr": {
+    "normal": [
+      {
+        "item": "Venom_Gland",
+        "qtyMin": 1,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Medium_Pal_Soul",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 3
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 4,
+        "qtyMax": 6,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Plume",
+        "qtyMin": 4,
+        "qtyMax": 6,
+        "probability": 100
+      }
+    ]
+  },
+  "helzephyr-lux": {
+    "normal": [
+      {
+        "item": "Electric_Organ",
+        "qtyMin": 1,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Medium_Pal_Soul",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 3
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Plume",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "elgrove": {
+    "normal": [
+      {
+        "item": "Horn",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Leather",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 3,
+        "qtyMax": 4,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "elgrove-cryst": {
+    "normal": [
+      {
+        "item": "Horn",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Leather",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Ice_Organ",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 7,
+        "qtyMax": 9,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "lunaris": {
+    "normal": [
+      {
+        "item": "Paldium_Fragment",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 4,
+        "qtyMax": 6,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 4,
+        "qtyMax": 6,
+        "probability": 100
+      }
+    ]
+  },
+  "fenglope": {
+    "normal": [
+      {
+        "item": "Leather",
+        "qtyMin": 3,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Horn",
+        "qtyMin": 2,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 3,
+        "qtyMax": 5,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 3,
+        "qtyMax": 5,
+        "probability": 100
+      },
+      {
+        "item": "Makeshift_Handgun_Schematic_4",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 3
+      }
+    ]
+  },
+  "fenglope-lux": {
+    "normal": [
+      {
+        "item": "Leather",
+        "qtyMin": 3,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Horn",
+        "qtyMin": 2,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Electric_Organ",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 6,
+        "qtyMax": 8,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "dinossom": {
+    "normal": [
+      {
+        "item": "Tomato_Seeds",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Lettuce_Seeds",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 1,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Dragon_Stone",
+        "qtyMin": 1,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "dinossom-lux": {
+    "normal": [
+      {
+        "item": "Tomato_Seeds",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Carrot_Seeds",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 5,
+        "qtyMax": 7,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Dragon_Stone",
+        "qtyMin": 5,
+        "qtyMax": 7,
+        "probability": 100
+      }
+    ]
+  },
+  "bushi": {
+    "normal": [
+      {
+        "item": "Bone",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Ingot",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 3,
+        "qtyMax": 5,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 3,
+        "qtyMax": 5,
+        "probability": 100
+      },
+      {
+        "item": "Metal_Helm_Schematic_4",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 3
+      }
+    ]
+  },
+  "bushi-noct": {
+    "normal": [
+      {
+        "item": "Flame_Organ",
+        "qtyMin": 4,
+        "qtyMax": 8,
+        "probability": 100
+      },
+      {
+        "item": "Ingot",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Medium_Pal_Soul",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 40
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "munchill": {
+    "normal": [
+      {
+        "item": "Munchill_Meat",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      },
+      {
+        "item": "Aquatic_Pal_Fluids",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Ice_Organ",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "mammorest": {
+    "normal": [
+      {
+        "item": "High_Quality_Pal_Oil",
+        "qtyMin": 5,
+        "qtyMax": 10,
+        "probability": 100
+      },
+      {
+        "item": "Leather",
+        "qtyMin": 5,
+        "qtyMax": 10,
+        "probability": 100
+      },
+      {
+        "item": "Mammorest_Meat",
+        "qtyMin": 2,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 5,
+        "qtyMax": 6,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 5,
+        "qtyMax": 6,
+        "probability": 100
+      }
+    ]
+  },
+  "mammorest-cryst": {
+    "normal": [
+      {
+        "item": "High_Quality_Pal_Oil",
+        "qtyMin": 5,
+        "qtyMax": 10,
+        "probability": 100
+      },
+      {
+        "item": "Leather",
+        "qtyMin": 5,
+        "qtyMax": 10,
+        "probability": 100
+      },
+      {
+        "item": "Mammorest_Meat",
+        "qtyMin": 2,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 5,
+        "qtyMax": 6,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 5,
+        "qtyMax": 6,
+        "probability": 100
+      }
+    ]
+  },
+  "finsider": {
+    "normal": [
+      {
+        "item": "Leather",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      },
+      {
+        "item": "Small_Pal_Soul",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 1
+      },
+      {
+        "item": "Aquatic_Pal_Fluids",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "finsider-ignis": {
+    "normal": [
+      {
+        "item": "Leather",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      },
+      {
+        "item": "Small_Pal_Soul",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 1
+      },
+      {
+        "item": "Flame_Organ",
+        "qtyMin": 1,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 3,
+        "qtyMax": 4,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "petallia": {
+    "normal": [
+      {
+        "item": "Beautiful_Flower",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Potato_Seeds",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 4,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 2,
+        "qtyMax": 4,
+        "probability": 100
+      }
+    ]
+  },
+  "petallia-ignis": {
+    "normal": [
+      {
+        "item": "Beautiful_Flower",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Flame_Organ",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 4,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "leafan": {
+    "normal": [
+      {
+        "item": "Leather",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "incineram": {
+    "normal": [
+      {
+        "item": "Horn",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      },
+      {
+        "item": "Leather",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Claw",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "incineram-noct": {
+    "normal": [
+      {
+        "item": "Horn",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      },
+      {
+        "item": "Leather",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Claw",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "dazzi": {
+    "normal": [
+      {
+        "item": "Electric_Organ",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      },
+      {
+        "item": "Dazzi_Cloud",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ]
+  },
+  "dazzi-noct": {
+    "normal": [
+      {
+        "item": "Electric_Organ",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      },
+      {
+        "item": "Dazzi_Cloud",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      },
+      {
+        "item": "Dark_Fragment",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 6,
+        "qtyMax": 8,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "pyrin": {
+    "normal": [
+      {
+        "item": "Flame_Organ",
+        "qtyMin": 4,
+        "qtyMax": 5,
+        "probability": 100
+      },
+      {
+        "item": "Leather",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Claw",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "pyrin-noct": {
+    "normal": [
+      {
+        "item": "Flame_Organ",
+        "qtyMin": 4,
+        "qtyMax": 5,
+        "probability": 100
+      },
+      {
+        "item": "Leather",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Claw",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "relaxaurus": {
+    "normal": [
+      {
+        "item": "High_Quality_Pal_Oil",
+        "qtyMin": 1,
+        "qtyMax": 4,
+        "probability": 100
+      },
+      {
+        "item": "Ruby",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 5
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 4,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Dragon_Stone",
+        "qtyMin": 2,
+        "qtyMax": 4,
+        "probability": 100
+      }
+    ]
+  },
+  "relaxaurus-lux": {
+    "normal": [
+      {
+        "item": "High_Quality_Pal_Oil",
+        "qtyMin": 1,
+        "qtyMax": 4,
+        "probability": 100
+      },
+      {
+        "item": "Electric_Organ",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Sapphire",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 5
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 3,
+        "qtyMax": 5,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Dragon_Stone",
+        "qtyMin": 3,
+        "qtyMax": 5,
+        "probability": 100
+      }
+    ]
+  },
+  "foxcicle": {
+    "normal": [
+      {
+        "item": "Leather",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      },
+      {
+        "item": "Ice_Organ",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 6,
+        "qtyMax": 8,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 6,
+        "qtyMax": 8,
+        "probability": 100
+      }
+    ]
+  },
+  "beakon": {
+    "normal": [
+      {
+        "item": "Electric_Organ",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 5,
+        "qtyMax": 6,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Plume",
+        "qtyMin": 5,
+        "qtyMax": 6,
+        "probability": 100
+      },
+      {
+        "item": "SMG_Schematic_4",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 3
+      }
+    ]
+  },
+  "beakon-cryst": {
+    "normal": [
+      {
+        "item": "Ice_Organ",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 5,
+        "qtyMax": 6,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Plume",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "ghangler": {
+    "normal": [
+      {
+        "item": "Bone",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Venom_Gland",
+        "qtyMin": 2,
+        "qtyMax": 4,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Claw",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "ghangler-ignis": {
+    "normal": [
+      {
+        "item": "Bone",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Flame_Organ",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 50
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 3,
+        "qtyMax": 4,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Claw",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "rayhound": {
+    "normal": [
+      {
+        "item": "Electric_Organ",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 4,
+        "qtyMax": 6,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Plume",
+        "qtyMin": 4,
+        "qtyMax": 6,
+        "probability": 100
+      }
+    ]
+  },
+  "rayhound-cryst": {
+    "normal": [
+      {
+        "item": "Ice_Organ",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 4,
+        "qtyMax": 6,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "menasting": {
+    "normal": [
+      {
+        "item": "Medium_Pal_Soul",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Venom_Gland",
+        "qtyMin": 5,
+        "qtyMax": 10,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 5,
+        "qtyMax": 7,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Claw",
+        "qtyMin": 5,
+        "qtyMax": 7,
+        "probability": 100
+      },
+      {
+        "item": "Cold_Resistant_Refined_Metal_Armor_Schematic_4",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 3
+      }
+    ]
+  },
+  "menasting-terra": {
+    "normal": [
+      {
+        "item": "Medium_Pal_Soul",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Sapphire",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 6,
+        "qtyMax": 7,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Claw",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "needoll": {
+    "normal": [
+      {
+        "item": "Fiber",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "needoll-noct": {
+    "normal": [
+      {
+        "item": "Fiber",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Venom_Gland",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "reindrix": {
+    "normal": [
+      {
+        "item": "Reindrix_Venison",
+        "qtyMin": 2,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Leather",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      },
+      {
+        "item": "Horn",
+        "qtyMin": 2,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Ice_Organ",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 6,
+        "qtyMax": 8,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 6,
+        "qtyMax": 8,
+        "probability": 100
+      }
+    ]
+  },
+  "mossanda": {
+    "normal": [
+      {
+        "item": "Hardwood",
+        "qtyMin": 1,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Leather",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Carrot_Seeds",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 4,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 2,
+        "qtyMax": 4,
+        "probability": 100
+      }
+    ]
+  },
+  "mossanda-lux": {
+    "normal": [
+      {
+        "item": "Hardwood",
+        "qtyMin": 1,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Electric_Organ",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Leather",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 4,
+        "qtyMax": 6,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 4,
+        "qtyMax": 6,
+        "probability": 100
+      }
+    ]
+  },
+  "chillet": {
+    "normal": [
+      {
+        "item": "Leather",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Ice_Organ",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 4,
+        "probability": 100
+      },
+      {
+        "item": "Ice_Organ",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 2,
+        "qtyMax": 4,
+        "probability": 100
+      },
+      {
+        "item": "Cloth_Outfit_Schematic_4",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 3
+      }
+    ]
+  },
+  "chillet-ignis": {
+    "normal": [
+      {
+        "item": "Leather",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Flame_Organ",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "ragnahawk": {
+    "normal": [
+      {
+        "item": "Flame_Organ",
+        "qtyMin": 5,
+        "qtyMax": 7,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 4,
+        "qtyMax": 6,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Plume",
+        "qtyMin": 4,
+        "qtyMax": 6,
+        "probability": 100
+      }
+    ]
+  },
+  "moldron": {
+    "normal": [
+      {
+        "item": "Flame_Organ",
+        "qtyMin": 4,
+        "qtyMax": 5,
+        "probability": 100
+      },
+      {
+        "item": "Leather",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 6,
+        "qtyMax": 8,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Dragon_Stone",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "moldron-cryst": {
+    "normal": [
+      {
+        "item": "Ice_Organ",
+        "qtyMin": 4,
+        "qtyMax": 5,
+        "probability": 100
+      },
+      {
+        "item": "Leather",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 6,
+        "qtyMax": 8,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Dragon_Stone",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "palumba": {
+    "normal": [
+      {
+        "item": "Hardwood",
+        "qtyMin": 2,
+        "qtyMax": 4,
+        "probability": 100
+      },
+      {
+        "item": "Onion_Seeds",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Carrot_Seeds",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 4,
+        "qtyMax": 6,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Plume",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "digtoise": {
+    "normal": [
+      {
+        "item": "Ore",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "High_Quality_Pal_Oil",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Claw",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "broncherry": {
+    "normal": [
+      {
+        "item": "Broncherry_Meat",
+        "qtyMin": 2,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Onion_Seeds",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 3,
+        "qtyMax": 5,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Dragon_Stone",
+        "qtyMin": 3,
+        "qtyMax": 5,
+        "probability": 100
+      }
+    ]
+  },
+  "broncherry-aqua": {
+    "normal": [
+      {
+        "item": "Broncherry_Meat",
+        "qtyMin": 2,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Onion_Seeds",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 3,
+        "qtyMax": 5,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Dragon_Stone",
+        "qtyMin": 3,
+        "qtyMax": 5,
+        "probability": 100
+      }
+    ]
+  },
+  "dumud": {
+    "normal": [
+      {
+        "item": "Raw_Dumud",
+        "qtyMin": 2,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "High_Quality_Pal_Oil",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 3,
+        "qtyMax": 4,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 3,
+        "qtyMax": 4,
+        "probability": 100
+      }
+    ]
+  },
+  "dumud-gild": {
+    "normal": [
+      {
+        "item": "Raw_Dumud",
+        "qtyMin": 2,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "High_Quality_Pal_Oil",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      },
+      {
+        "item": "Gold_Coin",
+        "qtyMin": 100,
+        "qtyMax": 200,
+        "probability": 50
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 3,
+        "qtyMax": 4,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "braloha": {
+    "normal": [
+      {
+        "item": "Leather",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      },
+      {
+        "item": "Red_Berries",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 60
+      },
+      {
+        "item": "Lettuce_Seeds",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 50
+      },
+      {
+        "item": "Tomato_Seeds",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 50
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Dragon_Stone",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "kitsun": {
+    "normal": [
+      {
+        "item": "Flame_Organ",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Leather",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 6,
+        "qtyMax": 8,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 6,
+        "qtyMax": 8,
+        "probability": 100
+      }
+    ]
+  },
+  "kitsun-noct": {
+    "normal": [
+      {
+        "item": "Flame_Organ",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Leather",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Dark_Fragment",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 7,
+        "qtyMax": 8,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "blazehowl": {
+    "normal": [
+      {
+        "item": "Flame_Organ",
+        "qtyMin": 3,
+        "qtyMax": 5,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 4,
+        "qtyMax": 5,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Claw",
+        "qtyMin": 4,
+        "qtyMax": 5,
+        "probability": 100
+      },
+      {
+        "item": "Musket_Schematic_4",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 3
+      }
+    ]
+  },
+  "blazehowl-noct": {
+    "normal": [
+      {
+        "item": "Flame_Organ",
+        "qtyMin": 2,
+        "qtyMax": 4,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 4,
+        "qtyMax": 6,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Claw",
+        "qtyMin": 4,
+        "qtyMax": 6,
+        "probability": 100
+      }
+    ]
+  },
+  "warsect": {
+    "normal": [
+      {
+        "item": "Honey",
+        "qtyMin": 3,
+        "qtyMax": 4,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 4,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Plume",
+        "qtyMin": 2,
+        "qtyMax": 4,
+        "probability": 100
+      },
+      {
+        "item": "Laser_Gatling_Gun_Schematic_4",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 3
+      }
+    ]
+  },
+  "warsect-terra": {
+    "normal": [
+      {
+        "item": "Honey",
+        "qtyMin": 3,
+        "qtyMax": 4,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 7,
+        "qtyMax": 8,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Plume",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "frostplume": {
+    "normal": [
+      {
+        "item": "Ice_Organ",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Plume",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "majex": {
+    "normal": [
+      {
+        "item": "Leather",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Flame_Organ",
+        "qtyMin": 2,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 4,
+        "qtyMax": 6,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "sibelyx": {
+    "normal": [
+      {
+        "item": "High_Quality_Cloth",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      },
+      {
+        "item": "Ice_Organ",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 5,
+        "qtyMax": 6,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 5,
+        "qtyMax": 6,
+        "probability": 100
+      }
+    ]
+  },
+  "sibelyx-primo": {
+    "normal": [
+      {
+        "item": "High_Quality_Cloth",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      },
+      {
+        "item": "High_Quality_Pal_Oil",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 6,
+        "qtyMax": 8,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "maraith": {
+    "normal": [
+      {
+        "item": "Bone",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Small_Pal_Soul",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 15
+      },
+      {
+        "item": "Crude_Oil",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 50
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 4,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Claw",
+        "qtyMin": 2,
+        "qtyMax": 4,
+        "probability": 100
+      }
+    ]
+  },
+  "shroomer": {
+    "normal": [
+      {
+        "item": "Mushroom",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Red_Berries",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 60
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "shroomer-noct": {
+    "normal": [
+      {
+        "item": "Venom_Gland",
+        "qtyMin": 4,
+        "qtyMax": 8,
+        "probability": 100
+      },
+      {
+        "item": "Mysterious_Mushroom",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "icelyn": {
+    "normal": [
+      {
+        "item": "Ice_Organ",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Plume",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "gildra": {
+    "normal": [
+      {
+        "item": "Cloth",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Leather",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 3,
+        "qtyMax": 5,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Claw",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "jormuntide": {
+    "normal": [
+      {
+        "item": "Aquatic_Pal_Fluids",
+        "qtyMin": 2,
+        "qtyMax": 4,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 5,
+        "qtyMax": 6,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Dragon_Stone",
+        "qtyMin": 5,
+        "qtyMax": 6,
+        "probability": 100
+      }
+    ]
+  },
+  "jormuntide-ignis": {
+    "normal": [
+      {
+        "item": "High_Quality_Pal_Oil",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Flame_Organ",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 5,
+        "qtyMax": 6,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Dragon_Stone",
+        "qtyMin": 5,
+        "qtyMax": 6,
+        "probability": 100
+      }
+    ]
+  },
+  "suzaku": {
+    "normal": [
+      {
+        "item": "Flame_Organ",
+        "qtyMin": 5,
+        "qtyMax": 10,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 5,
+        "qtyMax": 7,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Plume",
+        "qtyMin": 5,
+        "qtyMax": 7,
+        "probability": 100
+      },
+      {
+        "item": "Pump-Action_Shotgun_Schematic_4",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 3
+      }
+    ]
+  },
+  "suzaku-aqua": {
+    "normal": [
+      {
+        "item": "Aquatic_Pal_Fluids",
+        "qtyMin": 5,
+        "qtyMax": 5,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 5,
+        "qtyMax": 7,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Plume",
+        "qtyMin": 5,
+        "qtyMax": 7,
+        "probability": 100
+      }
+    ]
+  },
+  "dazemu": {
+    "normal": [
+      {
+        "item": "Bone",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Plume",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "quivern": {
+    "normal": [
+      {
+        "item": "High_Quality_Pal_Oil",
+        "qtyMin": 3,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 4,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Plume",
+        "qtyMin": 2,
+        "qtyMax": 4,
+        "probability": 100
+      }
+    ]
+  },
+  "quivern-botan": {
+    "normal": [
+      {
+        "item": "High_Quality_Pal_Oil",
+        "qtyMin": 3,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Beautiful_Flower",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Red_Berries",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 60
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Plume",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "lullu": {
+    "normal": [
+      {
+        "item": "Beautiful_Flower",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Red_Berries",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 60
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "kikit": {
+    "normal": [
+      {
+        "item": "Leather",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Bone",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 60
+      },
+      {
+        "item": "Crude_Oil",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 50
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Claw",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "yakumo": {
+    "normal": [
+      {
+        "item": "Leather",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 4,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 2,
+        "qtyMax": 4,
+        "probability": 100
+      }
+    ]
+  },
+  "skutlass": {
+    "normal": [
+      {
+        "item": "Skutlass_Sashimi",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Aquatic_Pal_Fluids",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "skutlass-ignis": {
+    "normal": [
+      {
+        "item": "Skutlass_Sashimi",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Flame_Organ",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "reptyro": {
+    "normal": [
+      {
+        "item": "Flame_Organ",
+        "qtyMin": 5,
+        "qtyMax": 7,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 3,
+        "qtyMax": 5,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 3,
+        "qtyMax": 5,
+        "probability": 100
+      }
+    ]
+  },
+  "reptyro-cryst": {
+    "normal": [
+      {
+        "item": "Ice_Organ",
+        "qtyMin": 3,
+        "qtyMax": 4,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 3,
+        "qtyMax": 5,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 3,
+        "qtyMax": 5,
+        "probability": 100
+      }
+    ]
+  },
+  "starryon": {
+    "normal": [
+      {
+        "item": "Leather",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Dark_Fragment",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 6,
+        "qtyMax": 8,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "starryon-primo": {
+    "normal": [
+      {
+        "item": "Leather",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Nightstar_Sand",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 6,
+        "qtyMax": 8,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "pierdon": {
+    "normal": [
+      {
+        "item": "Ore",
+        "qtyMin": 4,
+        "qtyMax": 5,
+        "probability": 100
+      },
+      {
+        "item": "Coal",
+        "qtyMin": 4,
+        "qtyMax": 5,
+        "probability": 100
+      },
+      {
+        "item": "Sulfur",
+        "qtyMin": 4,
+        "qtyMax": 5,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 4,
+        "qtyMax": 6,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "pierdon-cryst": {
+    "normal": [
+      {
+        "item": "Soralite",
+        "qtyMin": 4,
+        "qtyMax": 5,
+        "probability": 100
+      },
+      {
+        "item": "Ice_Organ",
+        "qtyMin": 4,
+        "qtyMax": 5,
+        "probability": 100
+      },
+      {
+        "item": "Pure_Quartz",
+        "qtyMin": 4,
+        "qtyMax": 5,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 4,
+        "qtyMax": 6,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "cryolinx": {
+    "normal": [
+      {
+        "item": "Ice_Organ",
+        "qtyMin": 1,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 6,
+        "qtyMax": 8,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Claw",
+        "qtyMin": 6,
+        "qtyMax": 8,
+        "probability": 100
+      }
+    ]
+  },
+  "cryolinx-terra": {
+    "normal": [
+      {
+        "item": "Ore",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 7,
+        "qtyMax": 8,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Claw",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "snugloo": {
+    "normal": [
+      {
+        "item": "Leather",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Wool",
+        "qtyMin": 2,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "wumpo": {
+    "normal": [
+      {
+        "item": "Ice_Organ",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Beautiful_Flower",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 20
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 6,
+        "qtyMax": 8,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 6,
+        "qtyMax": 8,
+        "probability": 100
+      }
+    ]
+  },
+  "wumpo-botan": {
+    "normal": [
+      {
+        "item": "Hardwood",
+        "qtyMin": 2,
+        "qtyMax": 5,
+        "probability": 100
+      },
+      {
+        "item": "Beautiful_Flower",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 20
+      },
+      {
+        "item": "Carrot_Seeds",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 50
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 5,
+        "qtyMax": 6,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 5,
+        "qtyMax": 6,
+        "probability": 100
+      }
+    ]
+  },
+  "sootseer": {
+    "normal": [
+      {
+        "item": "Medium_Pal_Soul",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Bone",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Crude_Oil",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 50
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "carnibora": {
+    "normal": [
+      {
+        "item": "Venom_Gland",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Fiber",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "blazamut": {
+    "normal": [
+      {
+        "item": "Coal",
+        "qtyMin": 10,
+        "qtyMax": 10,
+        "probability": 100
+      },
+      {
+        "item": "Flame_Organ",
+        "qtyMin": 10,
+        "qtyMax": 10,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 5,
+        "qtyMax": 7,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Claw",
+        "qtyMin": 5,
+        "qtyMax": 7,
+        "probability": 100
+      },
+      {
+        "item": "Assault_Rifle_Schematic_4",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 3
+      }
+    ]
+  },
+  "blazamut-ryu": {
+    "normal": [
+      {
+        "item": "Coal",
+        "qtyMin": 10,
+        "qtyMax": 10,
+        "probability": 100
+      },
+      {
+        "item": "Medium_Pal_Soul",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 5
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Claw",
+        "qtyMin": 6,
+        "qtyMax": 8,
+        "probability": 100
+      }
+    ]
+  },
+  "dualith": {
+    "normal": [
+      {
+        "item": "Beautiful_Flower",
+        "qtyMin": 3,
+        "qtyMax": 5,
+        "probability": 100
+      },
+      {
+        "item": "Large_Pal_Soul",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 7,
+        "qtyMax": 9,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "dualith-noct": {
+    "normal": [
+      {
+        "item": "Mysterious_Mushroom",
+        "qtyMin": 3,
+        "qtyMax": 5,
+        "probability": 100
+      },
+      {
+        "item": "Large_Pal_Soul",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 7,
+        "qtyMax": 9,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "anubis": {
+    "normal": [
+      {
+        "item": "Bone",
+        "qtyMin": 3,
+        "qtyMax": 5,
+        "probability": 100
+      },
+      {
+        "item": "Large_Pal_Soul",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      },
+      {
+        "item": "Innovative_Technical_Manual",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 5
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 5,
+        "qtyMax": 7,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 5,
+        "qtyMax": 7,
+        "probability": 100
+      }
+    ]
+  },
+  "sekhmet": {
+    "normal": [
+      {
+        "item": "Leather",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Large_Pal_Soul",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 3,
+        "qtyMax": 5,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Claw",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "prixter": {
+    "normal": [
+      {
+        "item": "Venom_Gland",
+        "qtyMin": 4,
+        "qtyMax": 5,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Claw",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "prixter-lux": {
+    "normal": [
+      {
+        "item": "Electric_Organ",
+        "qtyMin": 4,
+        "qtyMax": 5,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "tetroise": {
+    "normal": [
+      {
+        "item": "Ruby",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Large_Pal_Soul",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 6,
+        "qtyMax": 7,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "tetroise-primo": {
+    "normal": [
+      {
+        "item": "Emerald",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Large_Pal_Soul",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 6,
+        "qtyMax": 7,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "nyafia": {
+    "normal": [
+      {
+        "item": "Leather",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 6,
+        "qtyMax": 8,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "mimog": {
+    "normal": [
+      {
+        "item": "Gold_Coin",
+        "qtyMin": 1000,
+        "qtyMax": 2000,
+        "probability": 100
+      },
+      {
+        "item": "Dog_Coin",
+        "qtyMin": 14,
+        "qtyMax": 21,
+        "probability": 100
+      },
+      {
+        "item": "Training_Manual_%28XL%29",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 20
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 1,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Dog_Coin",
+        "qtyMin": 35,
+        "qtyMax": 35,
+        "probability": 100
+      },
+      {
+        "item": "Training_Manual_%28XL%29",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Claw",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ]
+  },
+  "xenovader": {
+    "normal": [
+      {
+        "item": "Meteorite_Fragment",
+        "qtyMin": 3,
+        "qtyMax": 10,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Claw",
+        "qtyMin": 5,
+        "qtyMax": 6,
+        "probability": 100
+      }
+    ]
+  },
+  "xenogard": {
+    "normal": [
+      {
+        "item": "Meteorite_Fragment",
+        "qtyMin": 5,
+        "qtyMax": 12,
+        "probability": 100
+      },
+      {
+        "item": "High_Quality_Pal_Oil",
+        "qtyMin": 3,
+        "qtyMax": 5,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 4,
+        "qtyMax": 6,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "prunelia": {
+    "normal": [
+      {
+        "item": "Low_Grade_Medical_Supplies",
+        "qtyMin": 1,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Beautiful_Flower",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Carrot_Seeds",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 50
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 6,
+        "qtyMax": 7,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "nitemary": {
+    "normal": [
+      {
+        "item": "Small_Pal_Soul",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 6,
+        "qtyMax": 7,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "nitemary-botan": {
+    "normal": [
+      {
+        "item": "Medium_Pal_Soul",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 6,
+        "qtyMax": 7,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "smokie": {
+    "normal": [
+      {
+        "item": "Chromite",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 6,
+        "qtyMax": 7,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "smokie-cryst": {
+    "normal": [
+      {
+        "item": "Ice_Organ",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Medium_Pal_Soul",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 4,
+        "qtyMax": 6,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "omascul": {
+    "normal": [
+      {
+        "item": "Dark_Fragment",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 6,
+        "qtyMax": 8,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "whalaska": {
+    "normal": [
+      {
+        "item": "Aquatic_Pal_Fluids",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Coralum_Ore",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Ice_Organ",
+        "qtyMin": 1,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Large_Pal_Soul",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 1
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 6,
+        "qtyMax": 7,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Claw",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "whalaska-ignis": {
+    "normal": [
+      {
+        "item": "Aquatic_Pal_Fluids",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Coralum_Ore",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Flame_Organ",
+        "qtyMin": 1,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Large_Pal_Soul",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 1
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 6,
+        "qtyMax": 7,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Claw",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "verdash": {
+    "normal": [
+      {
+        "item": "Leather",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Bone",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 4,
+        "qtyMax": 6,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 4,
+        "qtyMax": 6,
+        "probability": 100
+      },
+      {
+        "item": "Single-Shot_Rifle_Schematic_4",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 3
+      }
+    ]
+  },
+  "splatterina": {
+    "normal": [
+      {
+        "item": "Dark_Fragment",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 7,
+        "qtyMax": 8,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "gildane": {
+    "normal": [
+      {
+        "item": "Leather",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 6,
+        "qtyMax": 8,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "dogen": {
+    "normal": [
+      {
+        "item": "Bone",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "bulldosu": {
+    "normal": [
+      {
+        "item": "Bone",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Fiber",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "celesdir": {
+    "normal": [
+      {
+        "item": "Leather",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Horn",
+        "qtyMin": 2,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Hexolite_Quartz",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 7,
+        "qtyMax": 8,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "celesdir-noct": {
+    "normal": [
+      {
+        "item": "Leather",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Horn",
+        "qtyMin": 2,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Dark_Fragment",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 7,
+        "qtyMax": 9,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "astegon": {
+    "normal": [
+      {
+        "item": "Plasteel",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Large_Pal_Soul",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 5,
+        "qtyMax": 7,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Dragon_Stone",
+        "qtyMin": 4,
+        "qtyMax": 6,
+        "probability": 100
+      },
+      {
+        "item": "Heat_Resistant_Refined_Metal_Armor_Schematic_4",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 3
+      }
+    ]
+  },
+  "knocklem": {
+    "normal": [
+      {
+        "item": "Ore",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 6,
+        "qtyMax": 7,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 6,
+        "qtyMax": 7,
+        "probability": 100
+      }
+    ]
+  },
+  "knocklem-ignis": {
+    "normal": [
+      {
+        "item": "Ore",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Flame_Organ",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 4,
+        "qtyMax": 6,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "silvegis": {
+    "normal": [
+      {
+        "item": "Chromite",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 7,
+        "qtyMax": 8,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Dragon_Stone",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "azurmane": {
+    "normal": [
+      {
+        "item": "Electric_Organ",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 7,
+        "qtyMax": 8,
+        "probability": 100
+      },
+      {
+        "item": "Energy_Shotgun_Schematic_4",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 3
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "valentail": {
+    "normal": [
+      {
+        "item": "Leather",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "snock": {
+    "normal": [
+      {
+        "item": "Electric_Organ",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Aquatic_Pal_Fluids",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 7,
+        "qtyMax": 8,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "snock-terra": {
+    "normal": [
+      {
+        "item": "Electric_Organ",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "High_Quality_Pal_Oil",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 7,
+        "qtyMax": 8,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "souffline": {
+    "normal": [
+      {
+        "item": "Wheat_Seeds",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "lapiron": {
+    "normal": [
+      {
+        "item": "Leather",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "hoodle": {
+    "normal": [
+      {
+        "item": "Small_Pal_Soul",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Horn",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "slowatt": {
+    "normal": [
+      {
+        "item": "Aquatic_Pal_Fluids",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      },
+      {
+        "item": "Electric_Organ",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 7,
+        "qtyMax": 8,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "bakemi": {
+    "normal": [
+      {
+        "item": "Cloth",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Horn",
+        "qtyMin": 2,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Small_Pal_Soul",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "solmora": {
+    "normal": [
+      {
+        "item": "High_Quality_Pal_Oil",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Aquatic_Pal_Fluids",
+        "qtyMin": 2,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 3,
+        "qtyMax": 4,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "solmora-lux": {
+    "normal": [
+      {
+        "item": "High_Quality_Pal_Oil",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Electric_Organ",
+        "qtyMin": 2,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 3,
+        "qtyMax": 4,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "lapure": {
+    "normal": [
+      {
+        "item": "Leather",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "eidrolon": {
+    "normal": [
+      {
+        "item": "Leather",
+        "qtyMin": 4,
+        "qtyMax": 5,
+        "probability": 100
+      },
+      {
+        "item": "High_Quality_Pal_Oil",
+        "qtyMin": 5,
+        "qtyMax": 6,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 7,
+        "qtyMax": 9,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Dragon_Stone",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "eidrolon-ignis": {
+    "normal": [
+      {
+        "item": "Leather",
+        "qtyMin": 4,
+        "qtyMax": 5,
+        "probability": 100
+      },
+      {
+        "item": "High_Quality_Pal_Oil",
+        "qtyMin": 5,
+        "qtyMax": 6,
+        "probability": 100
+      },
+      {
+        "item": "Flame_Organ",
+        "qtyMin": 4,
+        "qtyMax": 5,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 7,
+        "qtyMax": 9,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Dragon_Stone",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "dynamoff": {
+    "normal": [
+      {
+        "item": "Electric_Organ",
+        "qtyMin": 2,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 7,
+        "qtyMax": 9,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Plume",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "tropicaw": {
+    "normal": [
+      {
+        "item": "Beautiful_Flower",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Fiber",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Plume",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "flaracle": {
+    "normal": [
+      {
+        "item": "Leather",
+        "qtyMin": 3,
+        "qtyMax": 4,
+        "probability": 100
+      },
+      {
+        "item": "Flame_Organ",
+        "qtyMin": 3,
+        "qtyMax": 4,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 7,
+        "qtyMax": 9,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "ophydia": {
+    "normal": [
+      {
+        "item": "High_Quality_Pal_Oil",
+        "qtyMin": 4,
+        "qtyMax": 5,
+        "probability": 100
+      },
+      {
+        "item": "Large_Pal_Soul",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 7,
+        "qtyMax": 9,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Dragon_Stone",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "dupin": {
+    "normal": [
+      {
+        "item": "Leather",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Flame_Organ",
+        "qtyMin": 2,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 4,
+        "qtyMax": 6,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "roujay": {
+    "normal": [
+      {
+        "item": "Leather",
+        "qtyMin": 3,
+        "qtyMax": 4,
+        "probability": 100
+      },
+      {
+        "item": "Ruby",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 4,
+        "qtyMax": 6,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Plume",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "venusa": {
+    "normal": [
+      {
+        "item": "Aquatic_Pal_Fluids",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Venom_Gland",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "mycora": {
+    "normal": [
+      {
+        "item": "Mushroom",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Mysterious_Mushroom",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 50
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 7,
+        "qtyMax": 9,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "loomen": {
+    "normal": [
+      {
+        "item": "High_Quality_Pal_Oil",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Leather",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Venom_Gland",
+        "qtyMin": 2,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "wistella": {
+    "normal": [
+      {
+        "item": "Nightstar_Sand",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Small_Pal_Soul",
+        "qtyMin": 3,
+        "qtyMax": 5,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 7,
+        "qtyMax": 8,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "solenne": {
+    "normal": [
+      {
+        "item": "Dark_Fragment",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "High_Quality_Recovery_Meds",
+        "qtyMin": 2,
+        "qtyMax": 2,
+        "probability": 50
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 4,
+        "qtyMax": 6,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "renjishi": {
+    "normal": [
+      {
+        "item": "Leather",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Flame_Organ",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 7,
+        "qtyMax": 9,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "aegidron": {
+    "normal": [
+      {
+        "item": "Thermal_Core",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Giant_Pal_Soul",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 6,
+        "qtyMax": 8,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Dragon_Stone",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "grizzbolt": {
+    "normal": [
+      {
+        "item": "Electric_Organ",
+        "qtyMin": 2,
+        "qtyMax": 4,
+        "probability": 100
+      },
+      {
+        "item": "Leather",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 4,
+        "qtyMax": 5,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Claw",
+        "qtyMin": 4,
+        "qtyMax": 5,
+        "probability": 100
+      }
+    ]
+  },
+  "lyleen": {
+    "normal": [
+      {
+        "item": "High_Quality_Recovery_Meds",
+        "qtyMin": 1,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Beautiful_Flower",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Innovative_Technical_Manual",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 10
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 6,
+        "qtyMax": 7,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 6,
+        "qtyMax": 7,
+        "probability": 100
+      }
+    ]
+  },
+  "lyleen-noct": {
+    "normal": [
+      {
+        "item": "High_Quality_Recovery_Meds",
+        "qtyMin": 1,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Beautiful_Flower",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Innovative_Technical_Manual",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 10
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 6,
+        "qtyMax": 7,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 6,
+        "qtyMax": 7,
+        "probability": 100
+      },
+      {
+        "item": "Laser_Rifle_Schematic_4",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 3
+      }
+    ]
+  },
+  "orserk": {
+    "normal": [
+      {
+        "item": "Electric_Organ",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 5,
+        "qtyMax": 7,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Dragon_Stone",
+        "qtyMin": 5,
+        "qtyMax": 7,
+        "probability": 100
+      }
+    ]
+  },
+  "faleris": {
+    "normal": [
+      {
+        "item": "Flame_Organ",
+        "qtyMin": 1,
+        "qtyMax": 4,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 6,
+        "qtyMax": 8,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Plume",
+        "qtyMin": 6,
+        "qtyMax": 8,
+        "probability": 100
+      }
+    ]
+  },
+  "faleris-aqua": {
+    "normal": [
+      {
+        "item": "Aquatic_Pal_Fluids",
+        "qtyMin": 2,
+        "qtyMax": 4,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 7,
+        "qtyMax": 8,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Plume",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "shadowbeak": {
+    "normal": [
+      {
+        "item": "Plasteel",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Carbon_Fiber",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Innovative_Technical_Manual",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 10
+      },
+      {
+        "item": "Large_Pal_Soul",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 6,
+        "qtyMax": 8,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Plume",
+        "qtyMin": 6,
+        "qtyMax": 8,
+        "probability": 100
+      }
+    ]
+  },
+  "selyne": {
+    "normal": [
+      {
+        "item": "High_Quality_Cloth",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Sapphire",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Claw",
+        "qtyMin": 6,
+        "qtyMax": 8,
+        "probability": 100
+      }
+    ]
+  },
+  "bastigor": {
+    "normal": [
+      {
+        "item": "Leather",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Ice_Organ",
+        "qtyMin": 2,
+        "qtyMax": 5,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 4,
+        "qtyMax": 6,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Claw",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "shaolong": {
+    "normal": [
+      {
+        "item": "Horn",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      },
+      {
+        "item": "Leather",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      },
+      {
+        "item": "Large_Pal_Soul",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 8,
+        "qtyMax": 9,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Dragon_Stone",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "silvance": {
+    "normal": [
+      {
+        "item": "Giant_Pal_Soul",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      },
+      {
+        "item": "Ancient_Civilization_Core",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 6,
+        "qtyMax": 8,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "dandilord": {
+    "normal": [
+      {
+        "item": "Giant_Pal_Soul",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      },
+      {
+        "item": "Ancient_Civilization_Core",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      },
+      {
+        "item": "Venom_Gland",
+        "qtyMin": 4,
+        "qtyMax": 5,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 6,
+        "qtyMax": 8,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "bellanoir": {
+    "normal": [
+      {
+        "item": "Dark_Fragment",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 4,
+        "qtyMax": 6,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "bellanoir-libero": {
+    "normal": [
+      {
+        "item": "Dark_Fragment",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "High_Quality_Recovery_Meds",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 4,
+        "qtyMax": 6,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "xenolord": {
+    "normal": [
+      {
+        "item": "Meteorite_Fragment",
+        "qtyMin": 7,
+        "qtyMax": 15,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 4,
+        "qtyMax": 6,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Dragon_Stone",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "hartalis": {
+    "normal": [
+      {
+        "item": "Horn",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Leather",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Large_Pal_Soul",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 30
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 4,
+        "qtyMax": 6,
+        "probability": 100
+      },
+      {
+        "item": "Large_Pal_Soul",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 30
+      },
+      {
+        "item": "Precious_Pelt",
+        "qtyMin": 6,
+        "qtyMax": 8,
+        "probability": 100
+      }
+    ]
+  },
+  "paladius": {
+    "normal": [
+      {
+        "item": "Hexolite",
+        "qtyMin": 10,
+        "qtyMax": 10,
+        "probability": 100
+      },
+      {
+        "item": "Diamond",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      },
+      {
+        "item": "Large_Pal_Soul",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 6,
+        "qtyMax": 8,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 6,
+        "qtyMax": 8,
+        "probability": 100
+      },
+      {
+        "item": "Lightweight_Hexolite_Armor_Schematic_4",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 3
+      }
+    ]
+  },
+  "necromus": {
+    "normal": [
+      {
+        "item": "Hexolite",
+        "qtyMin": 10,
+        "qtyMax": 10,
+        "probability": 100
+      },
+      {
+        "item": "Diamond",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      },
+      {
+        "item": "Large_Pal_Soul",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 6,
+        "qtyMax": 8,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 6,
+        "qtyMax": 8,
+        "probability": 100
+      },
+      {
+        "item": "Hexolite_Helmet_Schematic_4",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 3
+      }
+    ]
+  },
+  "frostallion": {
+    "normal": [
+      {
+        "item": "Ice_Organ",
+        "qtyMin": 10,
+        "qtyMax": 10,
+        "probability": 100
+      },
+      {
+        "item": "Diamond",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 6,
+        "qtyMax": 8,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 6,
+        "qtyMax": 8,
+        "probability": 100
+      },
+      {
+        "item": "Plasma_Cannon_Schematic_4",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 3
+      }
+    ]
+  },
+  "frostallion-noct": {
+    "normal": [
+      {
+        "item": "Diamond",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      },
+      {
+        "item": "Large_Pal_Soul",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 6,
+        "qtyMax": 8,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 6,
+        "qtyMax": 8,
+        "probability": 100
+      },
+      {
+        "item": "Overheat_Rifle_Schematic_4",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 3
+      }
+    ]
+  },
+  "neptilius": {
+    "normal": [
+      {
+        "item": "Coralum_Ore",
+        "qtyMin": 10,
+        "qtyMax": 10,
+        "probability": 100
+      },
+      {
+        "item": "Hexolite",
+        "qtyMin": 10,
+        "qtyMax": 10,
+        "probability": 100
+      },
+      {
+        "item": "Diamond",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 30
+      },
+      {
+        "item": "Large_Pal_Soul",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 1
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 6,
+        "qtyMax": 8,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Dragon_Stone",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      },
+      {
+        "item": "Charge_Rifle_Schematic_4",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 3
+      }
+    ]
+  },
+  "jetragon": {
+    "normal": [
+      {
+        "item": "Soralite",
+        "qtyMin": 10,
+        "qtyMax": 10,
+        "probability": 100
+      },
+      {
+        "item": "Thermal_Core",
+        "qtyMin": 1,
+        "qtyMax": 2,
+        "probability": 100
+      },
+      {
+        "item": "Diamond",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 30
+      },
+      {
+        "item": "Large_Pal_Soul",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 1
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 7,
+        "qtyMax": 9,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Dragon_Stone",
+        "qtyMin": 7,
+        "qtyMax": 9,
+        "probability": 100
+      },
+      {
+        "item": "Rocket_Launcher_Schematic_4",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 3
+      }
+    ]
+  },
+  "panthalus": {
+    "normal": [
+      {
+        "item": "Diamond",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      },
+      {
+        "item": "Giant_Pal_Soul",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 8,
+        "qtyMax": 9,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Entrails",
+        "qtyMin": 2,
+        "qtyMax": 3,
+        "probability": 100
+      }
+    ]
+  },
+  "astralym": {
+    "normal": [
+      {
+        "item": "Leather",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      },
+      {
+        "item": "High_Quality_Pal_Oil",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      }
+    ],
+    "alpha": [
+      {
+        "item": "Ancient_Civilization_Parts",
+        "qtyMin": 1,
+        "qtyMax": 1,
+        "probability": 100
+      },
+      {
+        "item": "Precious_Dragon_Stone",
         "qtyMin": 2,
         "qtyMax": 3,
         "probability": 100
